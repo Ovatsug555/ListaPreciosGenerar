@@ -32,33 +32,34 @@
     <h1>Precios</h1>
 
     <h2>Buscar precio de ropa</h2>
-  <label for="codigo">Ingrese el código de la prenda:</label><br>
-  <input type="text" id="codigo" placeholder="Ej: 111138003"><br>
-  <button onclick="buscarPrecio()">Buscar</button>
+    <label for="codigo">Ingrese el código de la prenda:</label><br>
+    <input type="text" id="codigo" placeholder="Ej: 111138003"><br>
+    <button onclick="buscarPrecio()">Buscar</button>
 
-  <div id="resultado"></div>
+    <div id="resultado"></div>
 
-  <script>
-    // Simulación de base de datos de ropa con precios
-    const ropa = {
-      "111138003": 17400,
-      "R456": 320,
-      "R789": 150,
-      "A111": 199.99,
-      "Z999": 420
-    };
+    <script>
+        // Simulación de base de datos de ropa con precios
+        const ropa = {
+        "111138003": { nombre: "Chomba M/C Micropique", precio: 17400 },
+        "31217001M": {nombre: "Cargo Cazador", precio: 53400},
+        "R789": 150,
+        "A111": 199.99,
+        "Z999": 420
+        };
 
-    function buscarPrecio() {
-      const codigo = document.getElementById("codigo").value.trim().toUpperCase();
-      const resultado = document.getElementById("resultado");
+        function buscarPrecio() {
+        const codigo = document.getElementById("codigo").value.trim().toUpperCase();
+        const resultado = document.getElementById("resultado");
 
-      if (ropa[codigo] !== undefined) {
-        resultado.textContent = `El precio de la prenda ${codigo} es $${ropa[codigo]}`;
-      } else {
-        resultado.textContent = `No se encontró una prenda con el código "${codigo}".`;
-      }
+        if (ropa[codigo]) {
+            const prenda = ropa[codigo];
+            resultado.textContent = `${prenda.nombre} cuesta $${prenda.precio}`;
+        } else {
+            resultado.textContent = `No se encontró una prenda con el código "${codigo}".`;
+        }
     }
-  </script>
+    </script>
 
 
 </body>
