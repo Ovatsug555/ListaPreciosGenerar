@@ -787,14 +787,15 @@ function buscarPrecio() {
       const cuotas3 = (precio / 3).toFixed(2);
       const cuotas6 = (precio / 6).toFixed(2);
       const reintegro20 = (precio * 0.20).toFixed(2);
-        resultado.innerText = 
-        `Prenda: ${prenda.nombre}
-        Precio original: $${precio.toFixed(2)}
-        Precio con 10% de descuento: $${descuento10}
-        Precio con 20% de descuento: $${descuento20}
-        3 cuotas sin interés de: $${cuotas3}
-        6 cuotas sin interés de: $${cuotas6}
-        Reintegro del 20%: $${reintegro20}`;
+      resultado.innerText= 
+      `Prenda: ${prenda.nombre}
+      Precio original: $${precio.toFixed(2)}
+      Precio con 10% de descuento: $${descuento10}
+      Precio con 20% de descuento: $${descuento20}
+      3 cuotas sin interés de: $${cuotas3}
+      6 cuotas sin interés de: $${cuotas6}
+      Reintegro del 20%: $${reintegro20}`;
+       
     } else {
       resultado.textContent = `No se encontró una prenda con el código "${codigo}".`;
      }
