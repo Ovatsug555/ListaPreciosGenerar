@@ -1,7 +1,6 @@
 // Simulación de base de datos de ropa con precios
 const ropa = {
     //Lista Citex Febrero 2025
-    "111138003": { nombre: "Chomba M/C Micropique", precio: 17400 },
     "31217001M": {nombre: "Cargo Cazador", precio: 53400},
     "611124001": { "nombre": "Camisa Estanciera M.M/L", "precio": 60400 },
     "211124004": { "nombre": "Camisa Estanciera H.M/L", "precio": 62700 },
@@ -774,6 +773,18 @@ const ropa = {
     "812106093": { "nombre": "Pantalon Mirador", "precio": 67200 }
 }
 
+/*function buscarPrecio() {
+    const codigo = document.getElementById("codigo").value.trim().toUpperCase();
+    const resultado = document.getElementById("resultado");
+
+    if (ropa[codigo]) {
+      const prenda = ropa[codigo];
+      resultado.textContent = `Código: ${codigo} - ${prenda.nombre} cuesta $${prenda.precio}`;
+    } else {
+      resultado.textContent = `No se encontró una prenda con el código "${codigo}".`;
+    }
+  }*/
+
 
 function buscarPrecio() {
     const codigo = document.getElementById("codigo").value.trim().toUpperCase();
@@ -799,4 +810,5 @@ function buscarPrecio() {
     } else {
       resultado.textContent = `No se encontró una prenda con el código "${codigo}".`;
      }
+
 }
