@@ -5,20 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lista Precios</title>
     <link rel="stylesheet" href="styles.css">
-    <style>
-        body {
-          font-family: Arial, sans-serif;
-          padding: 20px;
-        }
-        input, button {
-          padding: 8px;
-          margin-top: 10px;
-        }
-        #resultado {
-          margin-top: 15px;
-          font-weight: bold;
-        }
-      </style>
+    
 </head>
 <body>
     <header class="header">
@@ -38,28 +25,7 @@
 
     <div id="resultado"></div>
 
-    <script>
-        // Simulación de base de datos de ropa con precios
-        const ropa = {
-        "111138003": { nombre: "Chomba M/C Micropique", precio: 17400 },
-        "31217001M": {nombre: "Cargo Cazador", precio: 53400},
-        "R789": 150,
-        "A111": 199.99,
-        "Z999": 420
-        };
-
-        function buscarPrecio() {
-        const codigo = document.getElementById("codigo").value.trim().toUpperCase();
-        const resultado = document.getElementById("resultado");
-
-        if (ropa[codigo]) {
-            const prenda = ropa[codigo];
-            resultado.textContent = `${prenda.nombre} cuesta $${prenda.precio}`;
-        } else {
-            resultado.textContent = `No se encontró una prenda con el código "${codigo}".`;
-        }
-    }
-    </script>
+    <script src="codigo.js"></script>
 
 
 </body>
