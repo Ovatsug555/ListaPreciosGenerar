@@ -785,7 +785,7 @@ const ropa = {
     }
   }*/
 
-
+/*
 function buscarPrecio() {
     const codigo = document.getElementById("codigo").value.trim().toUpperCase();
     const resultado = document.getElementById("resultado");
@@ -810,5 +810,66 @@ function buscarPrecio() {
     } else {
       resultado.textContent = `No se encontró una prenda con el código "${codigo}".`;
      }
+}*/
 
+function buscarPrecio() {
+  const entrada = document.getElementById("codigo").value.trim();
+  const resultado = document.getElementById("resultado");
+
+  const codigoInput = entrada.toUpperCase();
+  let prenda = ropa[codigoInput]; // Intenta buscar por código
+  let codigoEncontrado = codigoInput;
+
+  // Si no se encuentra por código, buscar por nombre
+  if (!prenda) {
+      const entradaLower = entrada.toLowerCase();
+      const coincidencia = Object.entries(ropa).find(([codigo, datos]) =>
+          datos.nombre.toLowerCase().includes(entradaLower)
+      );
+
+      if (coincidencia) {
+          codigoEncontrado = coincidencia[0];
+          prenda = coincidencia[1];
+      }
+  }
+
+  if (prenda) {
+      const precio = prenda.precio;
+      const descuento10 = (precio * 0.90).toFixed(2);
+      const descuento20 = (precio * 0.80).toFixed(2);
+      const cuotas3 = (precio / 3).toFixed(2);
+      const cuotas6 = (precio / 6).toFixed(2);
+      const reintegro20 = (precio * 0.20).toFixed(2);
+
+      resultado.innerText = 
+`Código: ${codigoEncontrado}
+Prenda: ${prenda.nombre}
+Precio original: $${precio.toFixed(2)}
+Precio con 10% de descuento: $${descuento10}
+Precio con 20% de descuento: $${descuento20}
+3 cuotas sin interés de: $${cuotas3}
+6 cuotas sin interés de: $${cuotas6}
+Reintegro del 20%: $${reintegro20}`;
+  } else {
+      resultado.textContent = `No se encontró una prenda con el código o nombre ingresado.`;
+  }
+}
+
+document.getElementById("codigo").addEventListener("input", actualizarSugerencias);
+
+function actualizarSugerencias() {
+  const input = document.getElementById("codigo").value.toLowerCase();
+  const datalist = document.getElementById("sugerencias");
+
+  datalist.innerHTML = ""; // Limpiar sugerencias anteriores
+
+  if (input.length >= 2) { // Solo mostrar sugerencias con 2+ letras
+    for (const [codigo, prenda] of Object.entries(ropa)) {
+      if (prenda.nombre.toLowerCase().includes(input)) {
+        const option = document.createElement("option");
+        option.value = prenda.nombre;
+        datalist.appendChild(option);
+      }
+    }
+  }
 }

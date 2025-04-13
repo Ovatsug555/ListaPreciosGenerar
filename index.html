@@ -19,10 +19,11 @@
     <h1>Precios</h1>
 
     <h2>Buscar precio de ropa</h2>
-    <label for="codigo">Ingrese el código de la prenda:</label><br>
-    <input type="text" id="codigo" placeholder="Ej: 111138003"><br>
-    <button onclick="buscarPrecio()">Buscar</button>
+    
 
+    <input type="text" id="codigo" list="sugerencias" placeholder="Ingrese código o nombre">
+    <datalist id="sugerencias"></datalist>
+    <button onclick="buscarPrecio()">Buscar</button>
     <div id="resultado"></div>
 
     <script src="codigo.js"></script>
