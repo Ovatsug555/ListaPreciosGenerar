@@ -887,3 +887,10 @@ Reintegro del 20%: $${reintegro20}`;
     resultado.textContent = `No se encontró una prenda con ese código o nombre.`;
   }
 }
+
+document.getElementById("codigo").addEventListener("keypress", function(event) {
+  if (event.key === "Enter") {
+    event.preventDefault(); // Evita que se envíe un formulario si lo hay
+    buscarPrecio(); // Llama a tu función de búsqueda
+  }
+});
