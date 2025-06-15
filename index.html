@@ -10,7 +10,6 @@
 <body>
     <header class="header">
         <input type="checkbox" class="header__checkbox" id="open-menu">
-        <label for="open-menu" class="header__open-nav-button" role="button">=</label>
         <div class="header__logo-container">
             <img class="header__logo" src="logo.png" alt="Logo de la empresa">
         </div>
@@ -20,7 +19,7 @@
 
     <h2>Buscar precio de ropa</h2>
     
-    <label for="codigo">Ingrese el código de la prenda:</label><br>
+    <label for="codigo">Ingrese código o nombre de la prenda:</label><br>
     <input type="text" id="codigo"  list="sugerencias" placeholder="Ej: 111138003"><br>
     <ul id="sugerencias" class="sugerencias-lista"></ul>
     <button onclick="buscarPrecio()">Buscar</button>
@@ -30,7 +29,8 @@
     
 
     <script src="codigo.js"></script>
-
+   
+    
 
 </body>
 </html>
