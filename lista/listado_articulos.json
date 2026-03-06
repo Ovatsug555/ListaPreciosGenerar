@@ -11,6 +11,22 @@
         "nombre": "844134011",
         "precio": 20500
     },
+    "913213142": {
+        "nombre": "CAMPERA ALICURA N.SOFTSHELL",
+        "precio": 71000
+    },
+    "912511002": {
+        "nombre": "SHORT APOLO",
+        "precio": 21400
+    },
+    "941106003": {
+        "nombre": "BANDANA FILTRO",
+        "precio": 20900
+    },
+    "941106004": {
+        "nombre": "SOMBRERO FILTRO UV",
+        "precio": 20900
+    },
     "U11106009": {
         "nombre": "REMERA CARRERA MANGA LARGA",
         "precio": 46800
@@ -19,17 +35,33 @@
         "nombre": "PANTALÓN AIMAR",
         "precio": 84000
     },
-    "711106013": {
-        "nombre": "CAMISA EVA SUPLEX MINI RIPSTOP",
-        "precio": 82800
-    },
-    "711106014": {
-        "nombre": "CAMISA MERCEDES SPANDEX",
-        "precio": 70500
-    },
     "713106201": {
         "nombre": "TAPADO TRAFUL",
         "precio": 143800
+    },
+    "713211142": {
+        "nombre": "CAMPERA CHOLILA M.SOFTSHELL",
+        "precio": 102000
+    },
+    "713106009": {
+        "nombre": "CAMPERA NOGAL MUJER",
+        "precio": 117000
+    },
+    "711511000": {
+        "nombre": "TOP DEPORTIVO NOA",
+        "precio": 45800
+    },
+    "711517000": {
+        "nombre": "MUSCULOSA DEPORTIVA EMMA",
+        "precio": 31200
+    },
+    "712106008": {
+        "nombre": "BABUCHA ROSAS",
+        "precio": 102000
+    },
+    "712106009": {
+        "nombre": "SHORT ROJAS  MUJER",
+        "precio": 66000
     },
     "711106020": {
         "nombre": "CAMISA MILA",
@@ -75,29 +107,13 @@
         "nombre": "CALZA DEPORTIVA GRETA",
         "precio": 66000
     },
-    "711511000": {
-        "nombre": "TOP DEPORTIVO NOA",
-        "precio": 45800
+    "711106013": {
+        "nombre": "CAMISA EVA SUPLEX MINI RIPSTOP",
+        "precio": 82800
     },
-    "711517000": {
-        "nombre": "MUSCULOSA DEPORTIVA EMMA",
-        "precio": 31200
-    },
-    "712106008": {
-        "nombre": "BABUCHA ROSAS",
-        "precio": 102000
-    },
-    "712106009": {
-        "nombre": "SHORT ROJAS  MUJER",
-        "precio": 66000
-    },
-    "713211142": {
-        "nombre": "CAMPERA CHOLILA M.SOFTSHELL",
-        "precio": 102000
-    },
-    "713106009": {
-        "nombre": "CAMPERA NOGAL MUJER",
-        "precio": 117000
+    "711106014": {
+        "nombre": "CAMISA MERCEDES SPANDEX",
+        "precio": 70500
     },
     "811511008": {
         "nombre": "ENTERO AURORA",
@@ -147,10 +163,6 @@
         "nombre": "SHORT BAÑO MICRO",
         "precio": 31800
     },
-    "912128004": {
-        "nombre": "SHORT DE BAÑO CRIS N. MICROFIBRA",
-        "precio": 31800
-    },
     "911511013": {
         "nombre": "ENTERO PANDORA",
         "precio": 27300
@@ -179,25 +191,13 @@
         "nombre": "ENTERO NALA",
         "precio": 35800
     },
+    "912128004": {
+        "nombre": "SHORT DE BAÑO CRIS N. MICROFIBRA",
+        "precio": 31800
+    },
     "912106019": {
         "nombre": "SHORT DE BAÑO ESTAMPADO",
         "precio": 31800
-    },
-    "912511002": {
-        "nombre": "SHORT APOLO",
-        "precio": 21400
-    },
-    "913213142": {
-        "nombre": "CAMPERA ALICURA N.SOFTSHELL",
-        "precio": 71000
-    },
-    "941106003": {
-        "nombre": "BANDANA FILTRO",
-        "precio": 20900
-    },
-    "941106004": {
-        "nombre": "SOMBRERO FILTRO UV",
-        "precio": 20900
     },
     "311106110": {
         "nombre": "REMERA CARRERA",
@@ -299,10 +299,6 @@
         "nombre": "SHORT DE BAÑO ADULTO",
         "precio": 42100
     },
-    "441106009": {
-        "nombre": "CINTO GALÓN SAUCE 35MM",
-        "precio": 26500
-    },
     "444106000": {
         "nombre": "CINTO SAUCE COMB.40 SOGA",
         "precio": 29500
@@ -370,114 +366,6 @@
     "444145008": {
         "nombre": "CINTO CALDÉN 35 SUELA",
         "precio": 34990
-    },
-    "481134101": {
-        "nombre": "BILLETERA ROJAS H FLOTTER",
-        "precio": 35500
-    },
-    "481134104": {
-        "nombre": "MORRAL ACASSUSO",
-        "precio": 95500
-    },
-    "481331116": {
-        "nombre": "BOLSO YABIRU LONA GDE",
-        "precio": 82800
-    },
-    "482116004": {
-        "nombre": "BOLSO ARIEL ( CILINDRO)",
-        "precio": 137800
-    },
-    "489116004": {
-        "nombre": "NECESSAIRE PICABUEY LONA CHICO",
-        "precio": 23900
-    },
-    "489116005": {
-        "nombre": "NECESSAIRE PICABUEY LONA GRANDE",
-        "precio": 26000
-    },
-    "489116006": {
-        "nombre": "NECESSAIRE AMAPOLA",
-        "precio": 24900
-    },
-    "471134000": {
-        "nombre": "TERMERA OLMOS",
-        "precio": 135500
-    },
-    "471154001": {
-        "nombre": "TERMERA CHAMPAQUI",
-        "precio": 94800
-    },
-    "478134100": {
-        "nombre": "MATE PAMPERO BOCA ANCHA",
-        "precio": 40000
-    },
-    "478134101": {
-        "nombre": "MATE PAMPERO BOCA CHICA",
-        "precio": 32000
-    },
-    "478134103": {
-        "nombre": "MATE CHAMPAQUÍ TRES PATAS",
-        "precio": 40000
-    },
-    "478163100": {
-        "nombre": "BOMBILLA PAMPERO",
-        "precio": 10000
-    },
-    "480134000": {
-        "nombre": "BILLETERA ALERCE H.COMB.LONA",
-        "precio": 21900
-    },
-    "944145000": {
-        "nombre": "CINTO CHURQUI BORD.25 SUELA",
-        "precio": 18000
-    },
-    "944145001": {
-        "nombre": "CINTO QUEBRACHILLO 30 SUELA",
-        "precio": 9500
-    },
-    "944106000": {
-        "nombre": "CINTO LAPACHILLO LISO 30 SOGA",
-        "precio": 9000
-    },
-    "U00173507": {
-        "nombre": "CANDADO PAMPERO",
-        "precio": 10500
-    },
-    "844134000": {
-        "nombre": "CINTO YATAY BORD.ROMBO 25",
-        "precio": 31000
-    },
-    "844134006": {
-        "nombre": "CINTO SUELA PARAISO 35MM",
-        "precio": 25800
-    },
-    "844134008": {
-        "nombre": "CINTO GALA",
-        "precio": 35900
-    },
-    "844134009": {
-        "nombre": "FAJA CON RECORTE Y TACHAS",
-        "precio": 59300
-    },
-    "844134010": {
-        "nombre": "CINTO 15 CM",
-        "precio": 17000
-    },
-    "844134013": {
-        "nombre": "CINTO CANELO FLOTTER 30MM",
-        "precio": 29900
-    },
-    "844134015": {
-        "nombre": "CINTO JAZMIN 30MM",
-        "precio": 19500
-    },
-    "844145000": {
-        "nombre": "CINTO MAITEN LISO 40 SUELA",
-        "precio": 28800
-    },
-    "844145002": {
-        "nombre": "CINTO SUELA ALERCE 40MM",
-        "precio": 26000
     },
     "880134000": {
         "nombre": "BILLETERA PUNA",
@@ -675,6 +563,42 @@
         "nombre": "NECESAIRE MALVA",
         "precio": 68800
     },
+    "844134000": {
+        "nombre": "CINTO YATAY BORD.ROMBO 25",
+        "precio": 31000
+    },
+    "844134006": {
+        "nombre": "CINTO SUELA PARAISO 35MM",
+        "precio": 25800
+    },
+    "844134008": {
+        "nombre": "CINTO GALA",
+        "precio": 35900
+    },
+    "844134009": {
+        "nombre": "FAJA CON RECORTE Y TACHAS",
+        "precio": 59300
+    },
+    "844134010": {
+        "nombre": "CINTO 15 CM",
+        "precio": 17000
+    },
+    "844134013": {
+        "nombre": "CINTO CANELO FLOTTER 30MM",
+        "precio": 29900
+    },
+    "844134015": {
+        "nombre": "CINTO JAZMIN 30MM",
+        "precio": 19500
+    },
+    "844145000": {
+        "nombre": "CINTO MAITEN LISO 40 SUELA",
+        "precio": 28800
+    },
+    "844145002": {
+        "nombre": "CINTO SUELA ALERCE 40MM",
+        "precio": 26000
+    },
     "811134107": {
         "nombre": "BILLETERA CABRAL H. NOBUK COMBINADO",
         "precio": 25300
@@ -683,9 +607,89 @@
         "nombre": "BILLETERA NEUQUEN H. CUERO ANILINA",
         "precio": 25800
     },
+    "441106009": {
+        "nombre": "CINTO GALÓN SAUCE 35MM",
+        "precio": 26500
+    },
+    "481134101": {
+        "nombre": "BILLETERA ROJAS H FLOTTER",
+        "precio": 35500
+    },
+    "481134104": {
+        "nombre": "MORRAL ACASSUSO",
+        "precio": 95500
+    },
+    "481331116": {
+        "nombre": "BOLSO YABIRU LONA GDE",
+        "precio": 82800
+    },
+    "482116004": {
+        "nombre": "BOLSO ARIEL ( CILINDRO)",
+        "precio": 137800
+    },
+    "489116004": {
+        "nombre": "NECESSAIRE PICABUEY LONA CHICO",
+        "precio": 23900
+    },
+    "489116005": {
+        "nombre": "NECESSAIRE PICABUEY LONA GRANDE",
+        "precio": 26000
+    },
+    "489116006": {
+        "nombre": "NECESSAIRE AMAPOLA",
+        "precio": 24900
+    },
+    "471134000": {
+        "nombre": "TERMERA OLMOS",
+        "precio": 135500
+    },
+    "471154001": {
+        "nombre": "TERMERA CHAMPAQUI",
+        "precio": 94800
+    },
+    "478134100": {
+        "nombre": "MATE PAMPERO BOCA ANCHA",
+        "precio": 40000
+    },
+    "478134101": {
+        "nombre": "MATE PAMPERO BOCA CHICA",
+        "precio": 32000
+    },
+    "478134103": {
+        "nombre": "MATE CHAMPAQUÍ TRES PATAS",
+        "precio": 40000
+    },
+    "478163100": {
+        "nombre": "BOMBILLA PAMPERO",
+        "precio": 10000
+    },
+    "480134000": {
+        "nombre": "BILLETERA ALERCE H.COMB.LONA",
+        "precio": 21900
+    },
+    "U44122002": {
+        "nombre": "CINTO FRESNO GALÓN 35MM",
+        "precio": 19500
+    },
     "U44134000": {
         "nombre": "CINTO TACHAS",
         "precio": 35700
+    },
+    "944106000": {
+        "nombre": "CINTO LAPACHILLO LISO 30 SOGA",
+        "precio": 9000
+    },
+    "U00173507": {
+        "nombre": "CANDADO PAMPERO",
+        "precio": 10500
+    },
+    "944145000": {
+        "nombre": "CINTO CHURQUI BORD.25 SUELA",
+        "precio": 18000
+    },
+    "944145001": {
+        "nombre": "CINTO QUEBRACHILLO 30 SUELA",
+        "precio": 9500
     },
     "U82116004": {
         "nombre": "MORRAL QUILA",
@@ -714,10 +718,6 @@
     "U89134001": {
         "nombre": "RIñONERA PALACIO",
         "precio": 98900
-    },
-    "U44122002": {
-        "nombre": "CINTO FRESNO GALÓN 35MM",
-        "precio": 19500
     },
     "U80134001": {
         "nombre": "BILLETERA CON CIERRE",
@@ -819,9 +819,9 @@
         "nombre": "NECESER SAN BENITO",
         "precio": 36500
     },
-    "U43173000": {
-        "nombre": "PULSERA PIEDRA VOLCANICA",
-        "precio": 17100
+    "U45134005": {
+        "nombre": "LLAVERO CUERO",
+        "precio": 33500
     },
     "U45173084": {
         "nombre": "CUCHILLO TRENZADO 24 TIRAS",
@@ -835,10 +835,6 @@
         "nombre": "CUCHILLO MADERA Y ALPACA",
         "precio": 135700
     },
-    "U45134005": {
-        "nombre": "LLAVERO CUERO",
-        "precio": 33500
-    },
     "U42134000": {
         "nombre": "PASAPAÑUELO DE CUERO",
         "precio": 16000
@@ -851,13 +847,105 @@
         "nombre": "TIENTO GAMUZA",
         "precio": 6500
     },
+    "U43173000": {
+        "nombre": "PULSERA PIEDRA VOLCANICA",
+        "precio": 17100
+    },
+    "U00174000": {
+        "nombre": "BOMBILLA ALPACA",
+        "precio": 24600
+    },
+    "U00174001": {
+        "nombre": "HEBILLA CINTURON",
+        "precio": 43000
+    },
+    "441174003": {
+        "nombre": "DIJE CRUZ CHICA DE ALPACA BAÑADA EN PLATA",
+        "precio": 21000
+    },
     "442106005": {
         "nombre": "PAÑUELO ESTAMPADO",
         "precio": 21900
     },
+    "442174000": {
+        "nombre": "PASAPAÑUELO ALPACA",
+        "precio": 29500
+    },
+    "442174001": {
+        "nombre": "PASAPAÑUELO PENSAMIENTO",
+        "precio": 29900
+    },
+    "442174002": {
+        "nombre": "DIJE CRUZ GRANDE DE ALPACA BAÑADA EN PLATA",
+        "precio": 23500
+    },
+    "445174000": {
+        "nombre": "LLAVERO",
+        "precio": 32500
+    },
     "844134012": {
         "nombre": "LONJA DE CUERO CRUDO",
         "precio": 26700
+    },
+    "842130000": {
+        "nombre": "TIENTOS EN HILOS TRENZADOS",
+        "precio": 8500
+    },
+    "842134000": {
+        "nombre": "GARGANTILLA  DE GAMUZA",
+        "precio": 28000
+    },
+    "842173011": {
+        "nombre": "ROSARIO SEMILLAS",
+        "precio": 33500
+    },
+    "842174001": {
+        "nombre": "GARGANTILLA LISA",
+        "precio": 26500
+    },
+    "842174002": {
+        "nombre": "ROSARIO COLLAR",
+        "precio": 29900
+    },
+    "842174015": {
+        "nombre": "CADENA DE ACERO QUIRUGICO GRUESA",
+        "precio": 9500
+    },
+    "842174016": {
+        "nombre": "GARGANTILLA FINA CERRADA",
+        "precio": 21900
+    },
+    "842174017": {
+        "nombre": "DECENARIO COLLAR",
+        "precio": 21500
+    },
+    "842174018": {
+        "nombre": "DIJE DOBLE CON PIEDRA",
+        "precio": 44500
+    },
+    "842174019": {
+        "nombre": "DIJE PIEDRA ONIX Y ALPACA",
+        "precio": 19600
+    },
+    "842174020": {
+        "nombre": "COLLAR 5 ARGOLLAS",
+        "precio": 39100
+    },
+    "842174022": {
+        "nombre": "DECENARIO COLLAR SEMILLAS",
+        "precio": 21000
+    },
+    "842174023": {
+        "nombre": "COLLAR DIJE DOBLE CON TIRAS DE GAMUZA",
+        "precio": 36800
+    },
+    "842174024": {
+        "nombre": "CADENA CHATA ACERO",
+        "precio": 8100
+    },
+    "842174025": {
+        "nombre": "COLLAR LARGO DE SEMILLAS CON DIJE GRANDE",
+        "precio": 43500
     },
     "843154000": {
         "nombre": "PULSERA TIENTO GAMUZA",
@@ -939,6 +1027,10 @@
         "nombre": "ANILLO ALUMINIO Y CUERO",
         "precio": 33200
     },
+    "842154002": {
+        "nombre": "TIENTO MULTIGAMUZA",
+        "precio": 11800
+    },
     "845174001": {
         "nombre": "ARO GRANDE GOLPEADO",
         "precio": 23000
@@ -1003,98 +1095,6 @@
         "nombre": "ARO ZIRCON PLATA 925 GRANDE",
         "precio": 39100
     },
-    "U00174000": {
-        "nombre": "BOMBILLA ALPACA",
-        "precio": 24600
-    },
-    "U00174001": {
-        "nombre": "HEBILLA CINTURON",
-        "precio": 43000
-    },
-    "842154002": {
-        "nombre": "TIENTO MULTIGAMUZA",
-        "precio": 11800
-    },
-    "842130000": {
-        "nombre": "TIENTOS EN HILOS TRENZADOS",
-        "precio": 8500
-    },
-    "842134000": {
-        "nombre": "GARGANTILLA  DE GAMUZA",
-        "precio": 28000
-    },
-    "842173011": {
-        "nombre": "ROSARIO SEMILLAS",
-        "precio": 33500
-    },
-    "842174001": {
-        "nombre": "GARGANTILLA LISA",
-        "precio": 26500
-    },
-    "842174002": {
-        "nombre": "ROSARIO COLLAR",
-        "precio": 29900
-    },
-    "842174015": {
-        "nombre": "CADENA DE ACERO QUIRUGICO GRUESA",
-        "precio": 9500
-    },
-    "842174016": {
-        "nombre": "GARGANTILLA FINA CERRADA",
-        "precio": 21900
-    },
-    "842174017": {
-        "nombre": "DECENARIO COLLAR",
-        "precio": 21500
-    },
-    "842174018": {
-        "nombre": "DIJE DOBLE CON PIEDRA",
-        "precio": 44500
-    },
-    "842174019": {
-        "nombre": "DIJE PIEDRA ONIX Y ALPACA",
-        "precio": 19600
-    },
-    "842174020": {
-        "nombre": "COLLAR 5 ARGOLLAS",
-        "precio": 39100
-    },
-    "842174022": {
-        "nombre": "DECENARIO COLLAR SEMILLAS",
-        "precio": 21000
-    },
-    "842174023": {
-        "nombre": "COLLAR DIJE DOBLE CON TIRAS DE GAMUZA",
-        "precio": 36800
-    },
-    "842174024": {
-        "nombre": "CADENA CHATA ACERO",
-        "precio": 8100
-    },
-    "842174025": {
-        "nombre": "COLLAR LARGO DE SEMILLAS CON DIJE GRANDE",
-        "precio": 43500
-    },
-    "445174000": {
-        "nombre": "LLAVERO",
-        "precio": 32500
-    },
-    "441174003": {
-        "nombre": "DIJE CRUZ CHICA DE ALPACA BAÑADA EN PLATA",
-        "precio": 21000
-    },
-    "442174000": {
-        "nombre": "PASAPAÑUELO ALPACA",
-        "precio": 29500
-    },
-    "442174001": {
-        "nombre": "PASAPAÑUELO PENSAMIENTO",
-        "precio": 29900
-    },
-    "442174002": {
-        "nombre": "DIJE CRUZ GRANDE DE ALPACA BAÑADA EN PLATA",
-        "precio": 23500
-    },
     "045174000": {
         "nombre": "CUNEROS CHICOS",
         "precio": 22100
@@ -1155,18 +1155,6 @@
         "nombre": "BUZO MEDIO CIERRE FRIZA H.",
         "precio": 54000
     },
-    "511138002": {
-        "nombre": "CHOMBA M/C MICROPIQUE MUJER.",
-        "precio": 26700
-    },
-    "511138003": {
-        "nombre": "CHOMBA M/L MICROPIQUE MUJER.",
-        "precio": 28300
-    },
-    "513118000": {
-        "nombre": "MUJER CAMPERA CON CIERRE CUELLO ALTO (FRISA INVISIBLE)",
-        "precio": 48700
-    },
     "511118000": {
         "nombre": "BUZO CUELLO REDONDO FRIZA M.",
         "precio": 38400
@@ -1183,41 +1171,33 @@
         "nombre": "REMERA CUELLO REDONDO TIRA DE LIMPIEZA MC M",
         "precio": 17500
     },
-    "612107001": {
-        "nombre": "BOMBACHA MUJER ELASTIZADA",
-        "precio": 51000
+    "511138002": {
+        "nombre": "CHOMBA M/C MICROPIQUE MUJER.",
+        "precio": 26700
+    },
+    "511138003": {
+        "nombre": "CHOMBA M/L MICROPIQUE MUJER.",
+        "precio": 28300
+    },
+    "513118000": {
+        "nombre": "MUJER CAMPERA CON CIERRE CUELLO ALTO (FRISA INVISIBLE)",
+        "precio": 48700
     },
     "61228101M": {
         "nombre": "BOMBACHA DE MUJER",
         "precio": 37000
     },
-    "91228001M": {
-        "nombre": "BOMBACHA LISA NIÑO",
-        "precio": 33000
-    },
     "51218001M": {
         "nombre": "PANTALÓN CARGO DE TRABAJO MUJER",
         "precio": 50500
     },
-    "412506009": {
-        "nombre": "PANTALÓN CHINO",
-        "precio": 47000
+    "612107001": {
+        "nombre": "BOMBACHA MUJER ELASTIZADA",
+        "precio": 51000
     },
-    "41210102M": {
-        "nombre": "PANTALÓN CARGO SUMALAO",
-        "precio": 72500
-    },
-    "41210103M": {
-        "nombre": "PANTALÓN CARGO SUMALAO",
-        "precio": 76400
-    },
-    "412104001": {
-        "nombre": "JEAN WORKER",
-        "precio": 27000
-    },
-    "412104007": {
-        "nombre": "JEAN RANGER PAMPERO",
-        "precio": 28500
+    "91228001M": {
+        "nombre": "BOMBACHA LISA NIÑO",
+        "precio": 33000
     },
     "11111001M": {
         "nombre": "CAMISA DE TRABAJO H.M/L",
@@ -1303,13 +1283,33 @@
         "nombre": "BERMUDA CARGO FIT ELASTIZADA",
         "precio": 50500
     },
-    "U13122006": {
-        "nombre": "CAMPERA RAIGAL PAMPERO",
-        "precio": 126500
+    "412506009": {
+        "nombre": "PANTALÓN CHINO",
+        "precio": 47000
+    },
+    "41210102M": {
+        "nombre": "PANTALÓN CARGO SUMALAO",
+        "precio": 72500
+    },
+    "41210103M": {
+        "nombre": "PANTALÓN CARGO SUMALAO",
+        "precio": 76400
+    },
+    "412104001": {
+        "nombre": "JEAN WORKER",
+        "precio": 27000
+    },
+    "412104007": {
+        "nombre": "JEAN RANGER PAMPERO",
+        "precio": 28500
     },
     "U12106004": {
         "nombre": "PANTALÓN CAIRO DESMONTABLE",
         "precio": 94500
+    },
+    "U13122006": {
+        "nombre": "CAMPERA RAIGAL PAMPERO",
+        "precio": 126500
     },
     "U11106010": {
         "nombre": "CAMISA CAIRO PAMPERO",
@@ -1327,6 +1327,10 @@
         "nombre": "PANTALÓN CARGO STRETCH",
         "precio": 97500
     },
+    "400122248": {
+        "nombre": "SWEATER MERCEDARIO BOSA",
+        "precio": 66500
+    },
     "U42135002": {
         "nombre": "BUFANDO OCHOS",
         "precio": 26800
@@ -1343,81 +1347,9 @@
         "nombre": "GORRO ARROZ",
         "precio": 13500
     },
-    "411106003": {
-        "nombre": "SWEATER POLICIAL",
-        "precio": 117000
-    },
-    "411106008": {
-        "nombre": "BOSA GALVAN",
-        "precio": 84500
-    },
-    "411122008": {
-        "nombre": "CAMPERA POMA CON CIERRE",
-        "precio": 101000
-    },
-    "411122024": {
-        "nombre": "SWEATER SAN CARLOS MEDIO CIERRE",
-        "precio": 80000
-    },
-    "411122059": {
-        "nombre": "CAMPERA SAN CARLOS",
-        "precio": 90000
-    },
-    "411122121": {
-        "nombre": "CAMPERA LA PAMPA",
-        "precio": 150300
-    },
-    "411122162": {
-        "nombre": "SWEATER CENTENERA Bosa",
-        "precio": 51100
-    },
-    "411122163": {
-        "nombre": "SWEATER SAN IGNACIO",
-        "precio": 79500
-    },
-    "411122166": {
-        "nombre": "CHALECO CONDARCO",
-        "precio": 63500
-    },
-    "411122167": {
-        "nombre": "SWEATER NEUQUEN BOSA",
-        "precio": 66000
-    },
-    "411122191": {
-        "nombre": "CAMPERA ACONQUIJA",
-        "precio": 80000
-    },
-    "411122146": {
-        "nombre": "BOSA OLIVO",
-        "precio": 51100
-    },
-    "411122148": {
-        "nombre": "BOSA PINAR",
-        "precio": 65200
-    },
-    "411122211": {
-        "nombre": "SWEATER ACONCAGUA LISO",
-        "precio": 90000
-    },
-    "411122226": {
-        "nombre": "SWEATER BUENOS AIRES",
-        "precio": 70500
-    },
-    "411539001": {
-        "nombre": "SWEATER ACONQUIJA H. 1/2CIERRE ALG/LANA",
-        "precio": 74000
-    },
-    "411540001": {
-        "nombre": "SWEATER MERCEDARIO H. V ALG./LANA",
-        "precio": 62000
-    },
-    "412122202": {
-        "nombre": "SWETER NEUQUEN ESCOTE EN V",
-        "precio": 66000
-    },
     "411514107": {
         "nombre": "CHALECO CONDARCO",
-        "precio": 62000
+        "precio": 66500
     },
     "411514111": {
         "nombre": "SWEATER MOLINO",
@@ -1427,9 +1359,21 @@
         "nombre": "SWEATER TAFÍ",
         "precio": 75500
     },
+    "411539001": {
+        "nombre": "SWEATER ACONQUIJA H. 1/2CIERRE ALG/LANA",
+        "precio": 79500
+    },
+    "411540001": {
+        "nombre": "SWEATER MERCEDARIO H. V ALG./LANA",
+        "precio": 66500
+    },
+    "411122211": {
+        "nombre": "SWEATER ACONCAGUA LISO",
+        "precio": 90000
+    },
     "411135000": {
         "nombre": "SWEATER ACONCAGUA",
-        "precio": 103500
+        "precio": 99000
     },
     "411135006": {
         "nombre": "CUELLO SMOKING ESPARZA",
@@ -1445,27 +1389,111 @@
     },
     "413106000": {
         "nombre": "CAMPERA TRELEW H.MATELASEE",
-        "precio": 134500
+        "precio": 144500
     },
     "413106003": {
         "nombre": "CHALECO TRELEW H.MATELASEE",
-        "precio": 104000
+        "precio": 112000
     },
     "413106014": {
         "nombre": "CHALECO ALTA MONTAÑA (POLO)",
         "precio": 119700
     },
+    "412122202": {
+        "nombre": "SWETER NEUQUEN ESCOTE EN V",
+        "precio": 71000
+    },
+    "411106003": {
+        "nombre": "SWEATER POLICIAL",
+        "precio": 107500
+    },
+    "411106008": {
+        "nombre": "BOSA GALVAN",
+        "precio": 84500
+    },
+    "411122008": {
+        "nombre": "CAMPERA POMA CON CIERRE",
+        "precio": 98500
+    },
+    "411122024": {
+        "nombre": "SWEATER SAN CARLOS MEDIO CIERRE",
+        "precio": 86500
+    },
+    "411122059": {
+        "nombre": "CAMPERA SAN CARLOS",
+        "precio": 97500
+    },
+    "411122121": {
+        "nombre": "CAMPERA LA PAMPA",
+        "precio": 128500
+    },
+    "411122162": {
+        "nombre": "SWEATER CENTENERA Bosa",
+        "precio": 51100
+    },
+    "411122163": {
+        "nombre": "SWEATER SAN IGNACIO",
+        "precio": 79500
+    },
+    "411122166": {
+        "nombre": "CHALECO CONDARCO",
+        "precio": 63500
+    },
+    "411122167": {
+        "nombre": "SWEATER NEUQUEN BOSA",
+        "precio": 71000
+    },
+    "411122191": {
+        "nombre": "CAMPERA ACONQUIJA",
+        "precio": 87500
+    },
+    "411122146": {
+        "nombre": "BOSA OLIVO",
+        "precio": 51100
+    },
+    "411122148": {
+        "nombre": "BOSA PINAR",
+        "precio": 65200
+    },
+    "411122226": {
+        "nombre": "SWEATER BUENOS AIRES",
+        "precio": 70500
+    },
+    "811520017": {
+        "nombre": "SWEATER LA BARRA",
+        "precio": 68000
+    },
+    "811520128": {
+        "nombre": "SWEATER COCHINOCA Bosa Combinado",
+        "precio": 57300
+    },
+    "811520129": {
+        "nombre": "SWEATER UQUÍA Bosa",
+        "precio": 61500
+    },
     "811540002": {
         "nombre": "CARDIGAN HUMAHUACA M. ALG./LANA",
-        "precio": 66000
+        "precio": 71000
+    },
+    "811540006": {
+        "nombre": "SWEATER LAS GRUTAS",
+        "precio": 87000
+    },
+    "811540007": {
+        "nombre": "CHALECO SIERRA GRANDE",
+        "precio": 71000
+    },
+    "811540008": {
+        "nombre": "PONCHO RAWSON",
+        "precio": 98500
     },
     "813106000": {
         "nombre": "CAMPERA ANGOSTURA M.MATELASEE",
-        "precio": 99000
+        "precio": 106500
     },
     "813106001": {
         "nombre": "CHALECO ANGOSTURA M.MATELASEE",
-        "precio": 81000
+        "precio": 87500
     },
     "813106023": {
         "nombre": "CHALECO CACHI MORLEY",
@@ -1485,7 +1513,7 @@
     },
     "811106211": {
         "nombre": "POLERA ABALOS",
-        "precio": 83000
+        "precio": 82500
     },
     "811106261": {
         "nombre": "SACO ANTONIA",
@@ -1497,7 +1525,7 @@
     },
     "811122030": {
         "nombre": "SACO SIERRA MUJER",
-        "precio": 66000
+        "precio": 71500
     },
     "811122121": {
         "nombre": "SACO ESPERANZA CALADO",
@@ -1521,7 +1549,7 @@
     },
     "811135019": {
         "nombre": "SWEATER MAIMARA",
-        "precio": 70000
+        "precio": 83000
     },
     "811135020": {
         "nombre": "POLERÓN PURMAMARCA",
@@ -1551,13 +1579,13 @@
         "nombre": "SWEATER SANTA INES",
         "precio": 72500
     },
-    "811122285": {
-        "nombre": "SWEATER PUNA",
-        "precio": 64000
-    },
     "811514107": {
         "nombre": "RUANA BELTRAN OCHOS",
-        "precio": 102000
+        "precio": 103500
+    },
+    "811514117": {
+        "nombre": "CHALECO CARRANZA",
+        "precio": 48400
     },
     "811166065": {
         "nombre": "REMERA DELFINA",
@@ -1567,77 +1595,45 @@
         "nombre": "CHALECO CARRANZA",
         "precio": 60500
     },
+    "811122285": {
+        "nombre": "SWEATER PUNA",
+        "precio": 69000
+    },
     "811152004": {
         "nombre": "SWEATER IRUYA",
-        "precio": 66000
+        "precio": 71500
     },
     "811152005": {
         "nombre": "SWEATER IRUYA RAYADO",
-        "precio": 66000
+        "precio": 71500
     },
-    "811520017": {
-        "nombre": "SWEATER LA BARRA",
-        "precio": 68000
-    },
-    "811520128": {
-        "nombre": "SWEATER COCHINOCA Bosa Combinado",
-        "precio": 57300
-    },
-    "811520129": {
-        "nombre": "SWEATER UQUÍA Bosa",
-        "precio": 61500
-    },
-    "811514117": {
-        "nombre": "CHALECO CARRANZA",
-        "precio": 48400
-    },
-    "811540006": {
-        "nombre": "SWEATER LAS GRUTAS",
-        "precio": 87500
-    },
-    "811540007": {
-        "nombre": "CHALECO SIERRA GRANDE",
-        "precio": 68000
-    },
-    "811540008": {
-        "nombre": "PONCHO RAWSON",
-        "precio": 93000
-    },
-    "812101006": {
-        "nombre": "PANTALÓN SAUCE GABARDINA",
-        "precio": 77000
-    },
-    "812101007": {
-        "nombre": "PANTALÓN ANDINA GABARDINA",
-        "precio": 84500
-    },
-    "812101008": {
-        "nombre": "PANTALÓN SENDERO ANCHO",
-        "precio": 82000
-    },
-    "812101009": {
-        "nombre": "SHORT LIRIO",
-        "precio": 70000
-    },
-    "812101010": {
-        "nombre": "BERMUDA SAUCE GABARDINA",
-        "precio": 70000
-    },
-    "812104000": {
-        "nombre": "PANTALÓN CATALINA RELAJADO",
-        "precio": 86000
+    "612102000": {
+        "nombre": "BOMBACHA    ALUMINE       MUJER",
+        "precio": 52700
     },
     "612283101": {
         "nombre": "BOMBACHA CORONDA RECTA",
         "precio": 65000
     },
-    "812525001": {
-        "nombre": "PANTALÓN VALLECITO MUY ANGOSTO",
-        "precio": 67000
+    "599541000": {
+        "nombre": "PANTALÓN CAPITAL INDUSTRIA",
+        "precio": 565000
     },
-    "812525002": {
-        "nombre": "PANTALÓN MEDRANO ANGOSTO",
-        "precio": 64500
+    "612124000": {
+        "nombre": "BOMBACHA ALUMINE ANGOSTA",
+        "precio": 82500
+    },
+    "612124002": {
+        "nombre": "BOMBACHA MARTINA ANGOSTA",
+        "precio": 98000
+    },
+    "612124003": {
+        "nombre": "BOMBACHA MORA ANGOSTA",
+        "precio": 68000
+    },
+    "812545000": {
+        "nombre": "PANTALÓN JAZMIN SEMIOXFORD",
+        "precio": 81000
     },
     "812529008": {
         "nombre": "PANTALÓN ALBARIZA ANGOSTO",
@@ -1651,41 +1647,65 @@
         "nombre": "PANTALÓN FELICITAS ANGOSTO",
         "precio": 68000
     },
-    "812545000": {
-        "nombre": "PANTALÓN JAZMIN SEMIOXFORD",
-        "precio": 81000
+    "812182507": {
+        "nombre": "PANTALÓN BARRACAS RECTO",
+        "precio": 60500
     },
-    "812122013": {
-        "nombre": "SHORT  PAMPA",
-        "precio": 64100
+    "812500050": {
+        "nombre": "PANTALÓN EMILIA AMPLIO",
+        "precio": 56100
     },
-    "812122015": {
-        "nombre": "PANTALÓN DELTA RELAJADO",
-        "precio": 80600
+    "812500053": {
+        "nombre": "PANTALÓN ANTONIA AMPLIO",
+        "precio": 86900
     },
-    "812122017": {
-        "nombre": "PANTALÓN CHECA CAPRI",
-        "precio": 59300
+    "812500054": {
+        "nombre": "BOMBACHA MORA DENIM",
+        "precio": 85500
     },
-    "812122210": {
-        "nombre": "PANTALÓN BLANCA",
-        "precio": 78200
+    "812500055": {
+        "nombre": "PANTALÓN CUMBRE CORDEROY",
+        "precio": 103500
     },
-    "812122211": {
-        "nombre": "BOMBACHA MARTINA FLOR ANGOSTA",
-        "precio": 98000
+    "812500056": {
+        "nombre": "PANTALÓN LLANURA DENIM",
+        "precio": 78500
     },
-    "812122212": {
-        "nombre": "BERMUDA MARGARITA",
-        "precio": 67000
+    "812500057": {
+        "nombre": "PANTALÓN SENDERO DENIM",
+        "precio": 80500
     },
-    "812122213": {
-        "nombre": "BERMUDA SALTO",
-        "precio": 73000
+    "812500058": {
+        "nombre": "PANTALÓN ONELLI",
+        "precio": 103000
     },
-    "812122215": {
-        "nombre": "PANTALÓN MARGARITA",
-        "precio": 82000
+    "812506035": {
+        "nombre": "PANTALÓN SAUCE DENIM",
+        "precio": 57500
+    },
+    "812506036": {
+        "nombre": "PANTALÓN CUMBRE DENIM",
+        "precio": 91000
+    },
+    "812506037": {
+        "nombre": "PANTALÓN ANDINA DENIM",
+        "precio": 91000
+    },
+    "812506038": {
+        "nombre": "PANTALÓN TRIGAL",
+        "precio": 86500
+    },
+    "812506039": {
+        "nombre": "PANTALÓN SENDERO CORDEROY",
+        "precio": 103500
+    },
+    "812506041": {
+        "nombre": "PANTALÓN CARHUÉ",
+        "precio": 74500
+    },
+    "812513000": {
+        "nombre": "PANTALÓN TREVELIN ANGOSTO",
+        "precio": 64200
     },
     "812122224": {
         "nombre": "PANTALÓN CARGO MONTE",
@@ -1719,37 +1739,69 @@
         "nombre": "BOMBACHA MORA",
         "precio": 74000
     },
-    "812182507": {
-        "nombre": "PANTALÓN BARRACAS RECTO",
-        "precio": 60500
+    "812525001": {
+        "nombre": "PANTALÓN VALLECITO MUY ANGOSTO",
+        "precio": 67000
     },
-    "812500050": {
-        "nombre": "PANTALÓN EMILIA AMPLIO",
-        "precio": 56100
+    "812525002": {
+        "nombre": "PANTALÓN MEDRANO ANGOSTO",
+        "precio": 64500
     },
-    "812500053": {
-        "nombre": "PANTALÓN ANTONIA AMPLIO",
-        "precio": 86900
+    "812101006": {
+        "nombre": "PANTALÓN SAUCE GABARDINA",
+        "precio": 77000
     },
-    "812500054": {
-        "nombre": "BOMBACHA MORA DENIM",
-        "precio": 85500
+    "812101007": {
+        "nombre": "PANTALÓN ANDINA GABARDINA",
+        "precio": 84500
     },
-    "812500055": {
-        "nombre": "PANTALÓN CUMBRE CORDEROY",
-        "precio": 103500
+    "812101008": {
+        "nombre": "PANTALÓN SENDERO ANCHO",
+        "precio": 82000
     },
-    "812500056": {
-        "nombre": "PANTALÓN LLANURA DENIM",
-        "precio": 78500
+    "812101009": {
+        "nombre": "SHORT LIRIO",
+        "precio": 70000
     },
-    "812500057": {
-        "nombre": "PANTALÓN SENDERO DENIM",
-        "precio": 80500
+    "812101010": {
+        "nombre": "BERMUDA SAUCE GABARDINA",
+        "precio": 70000
     },
-    "812500058": {
-        "nombre": "PANTALÓN ONELLI",
-        "precio": 103000
+    "812104000": {
+        "nombre": "PANTALÓN CATALINA RELAJADO",
+        "precio": 86000
+    },
+    "812122013": {
+        "nombre": "SHORT  PAMPA",
+        "precio": 64100
+    },
+    "812122015": {
+        "nombre": "PANTALÓN DELTA RELAJADO",
+        "precio": 80600
+    },
+    "812122017": {
+        "nombre": "PANTALÓN CHECA CAPRI",
+        "precio": 59300
+    },
+    "812122210": {
+        "nombre": "PANTALÓN BLANCA",
+        "precio": 78200
+    },
+    "812122211": {
+        "nombre": "BOMBACHA MARTINA FLOR ANGOSTA",
+        "precio": 98000
+    },
+    "812122212": {
+        "nombre": "BERMUDA MARGARITA",
+        "precio": 67000
+    },
+    "812122213": {
+        "nombre": "BERMUDA SALTO",
+        "precio": 73000
+    },
+    "812122215": {
+        "nombre": "PANTALÓN MARGARITA",
+        "precio": 82000
     },
     "812506000": {
         "nombre": "PANTALÓN CANDELARIA ANGOSTO",
@@ -1795,37 +1847,9 @@
         "nombre": "PANTALÓN VALLECITO MUY ANGOSTO",
         "precio": 67200
     },
-    "812506035": {
-        "nombre": "PANTALÓN SAUCE DENIM",
-        "precio": 57500
-    },
-    "812506036": {
-        "nombre": "PANTALÓN CUMBRE DENIM",
-        "precio": 91000
-    },
-    "812506037": {
-        "nombre": "PANTALÓN ANDINA DENIM",
-        "precio": 91000
-    },
-    "812506038": {
-        "nombre": "PANTALÓN TRIGAL",
-        "precio": 86500
-    },
-    "812506039": {
-        "nombre": "PANTALÓN SENDERO CORDEROY",
-        "precio": 103500
-    },
-    "812506041": {
-        "nombre": "PANTALÓN CARHUÉ",
-        "precio": 74500
-    },
-    "812513000": {
-        "nombre": "PANTALÓN TREVELIN ANGOSTO",
-        "precio": 64200
-    },
-    "812506030": {
-        "nombre": "PANTALÓN ANTONIA AMPLIO",
-        "precio": 80600
+    "912500003": {
+        "nombre": "PANTALÓN MANZANARES ANGOSTO",
+        "precio": 47000
     },
     "912101012": {
         "nombre": "BOMBACHA ZELAYA",
@@ -1847,33 +1871,89 @@
         "nombre": "PANTALÓN BRUNO CHINO",
         "precio": 62500
     },
-    "912122014": {
-        "nombre": "BOMBACHA ZELAYA DENIM",
-        "precio": 48500
-    },
-    "912122015": {
-        "nombre": "PANTALÓN NARANJO",
-        "precio": 68000
-    },
-    "912122016": {
-        "nombre": "PANTALÓN LIMA CARGO",
-        "precio": 78000
-    },
-    "912500003": {
-        "nombre": "PANTALÓN MANZANARES ANGOSTO",
-        "precio": 47000
-    },
     "911122196": {
         "nombre": "VESTIDO ISABELA",
         "precio": 52900
     },
-    "412545000": {
-        "nombre": "PANTALÓN SIMON MUY ANGOSTO",
-        "precio": 80000
+    "812506030": {
+        "nombre": "PANTALÓN ANTONIA AMPLIO",
+        "precio": 80600
     },
-    "412545002": {
-        "nombre": "PANTALÓN FELIPE ANGOSTO",
-        "precio": 86500
+    "212287101": {
+        "nombre": "BOMBACHA ZELAYA",
+        "precio": 65500
+    },
+    "212122211": {
+        "nombre": "BOMBACHA ZENÓN FANTASIA",
+        "precio": 96000
+    },
+    "212124000": {
+        "nombre": "BOMBACHA OLIVERA",
+        "precio": 82500
+    },
+    "212192101": {
+        "nombre": "PANTALÓN BAHIA RECTO",
+        "precio": 61000
+    },
+    "012122018": {
+        "nombre": "BOMBACHA PAÑALERA DENIM",
+        "precio": 40500
+    },
+    "012281101": {
+        "nombre": "BOMBACHA PAÑALERA",
+        "precio": 40500
+    },
+    "112541000": {
+        "nombre": "PANTALÓN AMERICA INDUSTRIA",
+        "precio": 60000
+    },
+    "412122203": {
+        "nombre": "BERMUDA MORON",
+        "precio": 68000
+    },
+    "412122204": {
+        "nombre": "BERMUDA FRONTERA CARGO",
+        "precio": 72000
+    },
+    "412122205": {
+        "nombre": "BERMUDA ALSINA",
+        "precio": 77000
+    },
+    "412122208": {
+        "nombre": "PANTALÓN CALDEN PINZADO",
+        "precio": 91200
+    },
+    "412122209": {
+        "nombre": "PANTALÓN CARPINTERO ROBLE",
+        "precio": 108500
+    },
+    "412122210": {
+        "nombre": "PANTALÓN CARGO ALGARROBO",
+        "precio": 115000
+    },
+    "412122212": {
+        "nombre": "BOMBACHA OLMO CARGO DENIM",
+        "precio": 99990
+    },
+    "412124000": {
+        "nombre": "PANTALÓN BAHIA POPLIN",
+        "precio": 59300
+    },
+    "412124001": {
+        "nombre": "BERMUDA ROMERILLO RECTA",
+        "precio": 69000
+    },
+    "412506012": {
+        "nombre": "BOMBACHA ZENON",
+        "precio": 86000
+    },
+    "412506015": {
+        "nombre": "BOMBACHA ZENON corderoy",
+        "precio": 117000
+    },
+    "412506016": {
+        "nombre": "BOMBACHA ZENON ripstop",
+        "precio": 105000
     },
     "412525002": {
         "nombre": "PANTALÓN BAHIA RECTO",
@@ -1902,26 +1982,6 @@
     "412541016": {
         "nombre": "PANTALÓN ROCA DENIM C/LYCRA",
         "precio": 79500
-    },
-    "412122002": {
-        "nombre": "BERMUDA TIMBO  RECTA",
-        "precio": 52100
-    },
-    "412506020": {
-        "nombre": "PANTALÓN MONTECITOS CORDEROY",
-        "precio": 112000
-    },
-    "412506012": {
-        "nombre": "BOMBACHA ZENON",
-        "precio": 86000
-    },
-    "412506015": {
-        "nombre": "BOMBACHA ZENON corderoy",
-        "precio": 117000
-    },
-    "412506016": {
-        "nombre": "BOMBACHA ZENON ripstop",
-        "precio": 105000
     },
     "412500050": {
         "nombre": "PANTALÓN HERRADURA ANGOSTO",
@@ -1979,113 +2039,41 @@
         "nombre": "PANTALÓN GARCIA MUY ANGOSTO",
         "precio": 86500
     },
-    "599541000": {
-        "nombre": "PANTALÓN CAPITAL INDUSTRIA",
-        "precio": 565000
+    "412506020": {
+        "nombre": "PANTALÓN MONTECITOS CORDEROY",
+        "precio": 112000
     },
-    "612102000": {
-        "nombre": "BOMBACHA    ALUMINE       MUJER",
-        "precio": 52700
+    "412545000": {
+        "nombre": "PANTALÓN SIMON MUY ANGOSTO",
+        "precio": 80000
     },
-    "612124000": {
-        "nombre": "BOMBACHA ALUMINE ANGOSTA",
-        "precio": 82500
-    },
-    "612124002": {
-        "nombre": "BOMBACHA MARTINA ANGOSTA",
-        "precio": 98000
-    },
-    "612124003": {
-        "nombre": "BOMBACHA MORA ANGOSTA",
-        "precio": 68000
-    },
-    "412122203": {
-        "nombre": "BERMUDA MORON",
-        "precio": 68000
-    },
-    "412122204": {
-        "nombre": "BERMUDA FRONTERA CARGO",
-        "precio": 72000
-    },
-    "412122205": {
-        "nombre": "BERMUDA ALSINA",
-        "precio": 77000
-    },
-    "412122208": {
-        "nombre": "PANTALÓN CALDEN PINZADO",
-        "precio": 91200
-    },
-    "412122209": {
-        "nombre": "PANTALÓN CARPINTERO ROBLE",
-        "precio": 108500
-    },
-    "412122210": {
-        "nombre": "PANTALÓN CARGO ALGARROBO",
-        "precio": 115000
-    },
-    "412122212": {
-        "nombre": "BOMBACHA OLMO CARGO DENIM",
-        "precio": 99990
-    },
-    "412124000": {
-        "nombre": "PANTALÓN BAHIA POPLIN",
-        "precio": 59300
-    },
-    "412124001": {
-        "nombre": "BERMUDA ROMERILLO RECTA",
-        "precio": 69000
+    "412545002": {
+        "nombre": "PANTALÓN FELIPE ANGOSTO",
+        "precio": 86500
     },
     "412104013": {
         "nombre": "PANTALÓN CAMPO RECTO",
         "precio": 61000
     },
-    "212287101": {
-        "nombre": "BOMBACHA ZELAYA",
-        "precio": 65500
-    },
-    "212122211": {
-        "nombre": "BOMBACHA ZENÓN FANTASIA",
-        "precio": 96000
-    },
-    "212124000": {
-        "nombre": "BOMBACHA OLIVERA",
-        "precio": 82500
-    },
-    "212192101": {
-        "nombre": "PANTALÓN BAHIA RECTO",
-        "precio": 61000
-    },
-    "012122018": {
-        "nombre": "BOMBACHA PAÑALERA DENIM",
-        "precio": 40500
-    },
-    "012281101": {
-        "nombre": "BOMBACHA PAÑALERA",
-        "precio": 40500
-    },
-    "112541000": {
-        "nombre": "PANTALÓN AMERICA INDUSTRIA",
-        "precio": 60000
+    "412122002": {
+        "nombre": "BERMUDA TIMBO  RECTA",
+        "precio": 52100
     },
     "U11122002": {
         "nombre": "CAMPERA CLASICA",
         "precio": 138000
     },
-    "812124008": {
-        "nombre": "BOMBACHA MORA FANTASIA",
-        "precio": 82000
+    "912122014": {
+        "nombre": "BOMBACHA ZELAYA DENIM",
+        "precio": 48500
     },
-    "412122216": {
-        "nombre": "BERMUDA ANDES CARGO",
-        "precio": 82000
+    "912122015": {
+        "nombre": "PANTALÓN NARANJO",
+        "precio": 68000
     },
-    "812122229": {
-        "nombre": "PANTALÓN CUMBRES RECTO BULL",
-        "precio": 91000
-    },
-    "912122027": {
-        "nombre": "PANTALÓN CEREZO",
-        "precio": 56500
+    "912122016": {
+        "nombre": "PANTALÓN LIMA CARGO",
+        "precio": 78000
     },
     "412104014": {
         "nombre": "PANTALÓN ANDES",
@@ -2115,9 +2103,21 @@
         "nombre": "PANTALÓN PAMPA",
         "precio": 102500
     },
-    "121134004": {
-        "nombre": "BOTIN HUEPIL",
-        "precio": 68500
+    "812124008": {
+        "nombre": "BOMBACHA MORA FANTASIA",
+        "precio": 82000
+    },
+    "412122216": {
+        "nombre": "BERMUDA ANDES CARGO",
+        "precio": 82000
+    },
+    "812122229": {
+        "nombre": "PANTALÓN CUMBRES RECTO BULL",
+        "precio": 91000
+    },
+    "912122027": {
+        "nombre": "PANTALÓN CEREZO",
+        "precio": 56500
     },
     "123131002": {
         "nombre": "BOTA PETROLERA C/P",
@@ -2126,6 +2126,10 @@
     "121136010": {
         "nombre": "BOTIN FRANCES C/P",
         "precio": 145000
+    },
+    "121134004": {
+        "nombre": "BOTIN HUEPIL",
+        "precio": 68500
     },
     "U21131000": {
         "nombre": "BOTIN NAHUEN",
@@ -2143,9 +2147,25 @@
         "nombre": "BOTIN GUNEY",
         "precio": 73500
     },
+    "U00173500": {
+        "nombre": "CORDONES CLASICOS 120cm",
+        "precio": 3000
+    },
+    "U00173501": {
+        "nombre": "CORDON REFORZADOS FANTASÍA 120cm",
+        "precio": 4000
+    },
+    "U00173502": {
+        "nombre": "CORDONES REFORZADOS REFLEX 120cm",
+        "precio": 5000
+    },
+    "321173000": {
+        "nombre": "ZAPATILLA YENU",
+        "precio": 73000
+    },
     "121131001": {
         "nombre": "BOTIN YAVU",
-        "precio": 85000
+        "precio": 81000
     },
     "121131002": {
         "nombre": "BOTIN YAVU",
@@ -2153,7 +2173,7 @@
     },
     "121131003": {
         "nombre": "ZAPATO YAVU",
-        "precio": 83500
+        "precio": 79500
     },
     "121131004": {
         "nombre": "ZAPATO YAVU",
@@ -2215,22 +2235,6 @@
         "nombre": "ZAPATO MACHI",
         "precio": 82000
     },
-    "321173000": {
-        "nombre": "ZAPATILLA YENU",
-        "precio": 73000
-    },
-    "U00173500": {
-        "nombre": "CORDONES CLASICOS 120cm",
-        "precio": 3000
-    },
-    "U00173501": {
-        "nombre": "CORDON REFORZADOS FANTASÍA 120cm",
-        "precio": 4000
-    },
-    "U00173502": {
-        "nombre": "CORDONES REFORZADOS REFLEX 120cm",
-        "precio": 5000
-    },
     "813106065": {
         "nombre": "CAMPERA VALLE",
         "precio": 155000
@@ -2254,14 +2258,6 @@
     "824121000": {
         "nombre": "BOTA DE LLUVIA MUJER REGINA",
         "precio": 27200
-    },
-    "921106000": {
-        "nombre": "BOTA BASALÚ",
-        "precio": 26600
-    },
-    "922140001": {
-        "nombre": "FERCHU-ZAPATILLA FANTASIA NIÑO CORDON",
-        "precio": 30000
     },
     "923134001": {
         "nombre": "ZAPATILLA MATI CON ABROJO",
@@ -2321,7 +2317,7 @@
     },
     "924119000": {
         "nombre": "BOTA JOSE",
-        "precio": 33900
+        "precio": 40500
     },
     "924122001": {
         "nombre": "PATO - ZAPATILLA FANTASIA NIÑO ABROJO",
@@ -2373,11 +2369,11 @@
     },
     "924331122": {
         "nombre": "BOTA DE LLUVIA  JULI BASE NUEVA",
-        "precio": 28500
+        "precio": 29000
     },
     "924610116": {
         "nombre": "ZAPATILLA FRAN BASICA",
-        "precio": 32500
+        "precio": 33000
     },
     "924610119": {
         "nombre": "ZAPATILLA COLEGIAL ALE",
@@ -2390,26 +2386,6 @@
     "924620119": {
         "nombre": "ZAPATILLA FER COLEGIAL C/ABROJO",
         "precio": 36500
-    },
-    "423116000": {
-        "nombre": "ZAPATILLA MONSERRAT",
-        "precio": 25900
-    },
-    "423116001": {
-        "nombre": "ALPARGATA RETIRO",
-        "precio": 27800
-    },
-    "423116002": {
-        "nombre": "ZAPATILLA SAAVEDRA",
-        "precio": 42500
-    },
-    "424106000": {
-        "nombre": "ZUECO DEL MAR",
-        "precio": 32000
-    },
-    "424116004": {
-        "nombre": "ZAPATILLA COLON ADULTO HOMBRE",
-        "precio": 30000
     },
     "024101001": {
         "nombre": "ZAPATILLA JUANI BB",
@@ -2447,13 +2423,49 @@
         "nombre": "ZAPATILLA EMI FANT.BB.H.CANVAS C/ABROJO",
         "precio": 19900
     },
-    "924106012": {
-        "nombre": "SANDALIA LARA",
-        "precio": 36000
+    "423116000": {
+        "nombre": "ZAPATILLA MONSERRAT",
+        "precio": 25900
+    },
+    "423116001": {
+        "nombre": "ALPARGATA RETIRO",
+        "precio": 27800
+    },
+    "423116002": {
+        "nombre": "ZAPATILLA SAAVEDRA",
+        "precio": 42500
+    },
+    "424106000": {
+        "nombre": "ZUECO DEL MAR",
+        "precio": 32000
+    },
+    "424116004": {
+        "nombre": "ZAPATILLA COLON ADULTO HOMBRE",
+        "precio": 30000
+    },
+    "922140001": {
+        "nombre": "FERCHU-ZAPATILLA FANTASIA NIÑO CORDON",
+        "precio": 30000
+    },
+    "921106000": {
+        "nombre": "BOTA BASALÚ",
+        "precio": 26600
     },
     "924106013": {
         "nombre": "ZAPATILLA ARI",
         "precio": 35500
+    },
+    "924106012": {
+        "nombre": "SANDALIA LARA",
+        "precio": 36000
+    },
+    "943122001": {
+        "nombre": "MEDIA CAÑA 3/4 COLEGIAL (PX3)",
+        "precio": 12500
+    },
+    "943122002": {
+        "nombre": "INFANTIL CAÑA INVISIBLE PAX3",
+        "precio": 2500
     },
     "U43165000": {
         "nombre": "MEDIA TUBO INDUSTRIA ALGODON",
@@ -2578,14 +2590,6 @@
     "152128003": {
         "nombre": "CALZA MICROFIBRA",
         "precio": 36600
-    },
-    "943122001": {
-        "nombre": "MEDIA CAÑA 3/4 COLEGIAL (PX3)",
-        "precio": 12500
-    },
-    "943122002": {
-        "nombre": "INFANTIL CAÑA INVISIBLE PAX3",
-        "precio": 2500
     },
     "136517008": {
         "nombre": "PROTECTOR LUMBAR PAMPERO",
@@ -2743,13 +2747,13 @@
         "nombre": "CAMPERA DARACT FRISA Y CIRE",
         "precio": 64500
     },
-    "U11105001": {
-        "nombre": "REMERA TÉRMICA MICROFIBRA",
-        "precio": 40500
-    },
     "U12105001": {
         "nombre": "PANTALÓN TERMICO PRIMERA PIEL MICROFIBRA",
         "precio": 21500
+    },
+    "U11105001": {
+        "nombre": "REMERA TÉRMICA MICROFIBRA",
+        "precio": 40500
     },
     "511106004": {
         "nombre": "CAMPERA DE SOFTSHELL AURA",
@@ -2859,18 +2863,6 @@
         "nombre": "CAMPERA EL CHOCON H.MICROPOLAR",
         "precio": 63300
     },
-    "713106007": {
-        "nombre": "TAPADO LAS GRUTAS",
-        "precio": 131100
-    },
-    "711152001": {
-        "nombre": "CAMISA AURORA SECADO RAPIDO",
-        "precio": 141700
-    },
-    "711411141": {
-        "nombre": "BUZO LACAR M.MICROPOLAR 1/2CIERRE",
-        "precio": 53200
-    },
     "713211145": {
         "nombre": "campera softshell aconcagua mujer",
         "precio": 227700
@@ -2891,6 +2883,18 @@
         "nombre": "CAMPERA LIMAY M.MICROPOLAR",
         "precio": 63300
     },
+    "713106007": {
+        "nombre": "TAPADO LAS GRUTAS",
+        "precio": 131100
+    },
+    "711152001": {
+        "nombre": "CAMISA AURORA SECADO RAPIDO",
+        "precio": 141700
+    },
+    "711411141": {
+        "nombre": "BUZO LACAR M.MICROPOLAR 1/2CIERRE",
+        "precio": 53200
+    },
     "711106010": {
         "nombre": "REMERA PEONIA TERMICA AVANZADA M M/L",
         "precio": 25300
@@ -2902,6 +2906,238 @@
     "682144001": {
         "nombre": "MOCHILA THELMA",
         "precio": 40600
+    },
+    "480173000": {
+        "nombre": "BILLETRA GAIA",
+        "precio": 15800
+    },
+    "482173002": {
+        "nombre": "Mochila Duomo Haka",
+        "precio": 31300
+    },
+    "482173003": {
+        "nombre": "Mochila New Step",
+        "precio": 35900
+    },
+    "482173004": {
+        "nombre": "TROLLEY GUESS LINE",
+        "precio": 65000
+    },
+    "482173005": {
+        "nombre": "BOLSO DENVER",
+        "precio": 79900
+    },
+    "482173006": {
+        "nombre": "MOCHILA LISA",
+        "precio": 13800
+    },
+    "441173002": {
+        "nombre": "GORRO RUFINO",
+        "precio": 21400
+    },
+    "441173003": {
+        "nombre": "GORRO SANTA FE",
+        "precio": 35300
+    },
+    "441173004": {
+        "nombre": "SOMBRERO TIGRE (EX QUEQUEN)",
+        "precio": 29700
+    },
+    "445173011": {
+        "nombre": "SILLA PLEGABLE",
+        "precio": 169000
+    },
+    "445173013": {
+        "nombre": "COOLER FIESTA OUTDOOR (EX GLACIAR)",
+        "precio": 161000
+    },
+    "271545000": {
+        "nombre": "TERMO IGUAZU",
+        "precio": 69000
+    },
+    "271545001": {
+        "nombre": "JARRO CHALTEN",
+        "precio": 13400
+    },
+    "271545002": {
+        "nombre": "TERMO ORIGEN",
+        "precio": 99000
+    },
+    "271545003": {
+        "nombre": "MATE C/ BOMBILLA ORIGEN",
+        "precio": 31600
+    },
+    "271545004": {
+        "nombre": "Termo Ivy",
+        "precio": 80500
+    },
+    "282105000": {
+        "nombre": "MATERA FATIMA",
+        "precio": 66800
+    },
+    "282105001": {
+        "nombre": "Matera Ana",
+        "precio": 39800
+    },
+    "282105002": {
+        "nombre": "MATERA ARCE PU SIMIL CUERO",
+        "precio": 59200
+    },
+    "282105003": {
+        "nombre": "MATERA ROBLE PU SIMIL CARPINCHO",
+        "precio": 59200
+    },
+    "311108001": {
+        "nombre": "CHALECO DEL PLATA POLAR H",
+        "precio": 44700
+    },
+    "311108002": {
+        "nombre": "CAMPERA VIEDMA",
+        "precio": 67000
+    },
+    "111138006": {
+        "nombre": "CHOMBA TILCARA  PIQUE M/C",
+        "precio": 36700
+    },
+    "111118100": {
+        "nombre": "BUZO GOYA",
+        "precio": 24600
+    },
+    "111118101": {
+        "nombre": "BUZO TAFI",
+        "precio": 32800
+    },
+    "111514010": {
+        "nombre": "REMERA TOAY M/C",
+        "precio": 10300
+    },
+    "345173000": {
+        "nombre": "JARRO TERMICO ALERCE",
+        "precio": 17500
+    },
+    "382105200": {
+        "nombre": "TOTE RAMADA",
+        "precio": 123100
+    },
+    "311124000": {
+        "nombre": "CAMPERA ROMPEVIENTO",
+        "precio": 80800
+    },
+    "U00106000": {
+        "nombre": "PARAGUAS RAINY",
+        "precio": 24000
+    },
+    "U00161003": {
+        "nombre": "PARLANTE POLIFONIC",
+        "precio": 33200
+    },
+    "U01173508": {
+        "nombre": "JARRO BREEZE",
+        "precio": 9700
+    },
+    "U01173509": {
+        "nombre": "BOTELLA PASADENA",
+        "precio": 41300
+    },
+    "U01173511": {
+        "nombre": "JARRO HORIZON",
+        "precio": 48200
+    },
+    "U01173512": {
+        "nombre": "TERMO PRACTICO",
+        "precio": 44200
+    },
+    "U06173177": {
+        "nombre": "JARRO BREAK",
+        "precio": 13800
+    },
+    "U6173018": {
+        "nombre": "JARRO TERMICO MAIPO",
+        "precio": 22000
+    },
+    "U89134023": {
+        "nombre": "SET DE ASADO ROTI",
+        "precio": 39600
+    },
+    "U89134024": {
+        "nombre": "SET DE ASADO  FUEGO",
+        "precio": 69100
+    },
+    "U89134025": {
+        "nombre": "SET DE ASADO BRASA",
+        "precio": 54700
+    },
+    "U89134026": {
+        "nombre": "AURICULARES DEMO",
+        "precio": 54800
+    },
+    "U89134027": {
+        "nombre": "AURICULARES GALIO",
+        "precio": 45000
+    },
+    "U91173003": {
+        "nombre": "RESCUE MULTITOOL",
+        "precio": 28900
+    },
+    "U45173133": {
+        "nombre": "MOCHILA UP",
+        "precio": 24000
+    },
+    "U45173134": {
+        "nombre": "MOCHILA DIGMA",
+        "precio": 12100
+    },
+    "U45173135": {
+        "nombre": "MOCHILA DUAL",
+        "precio": 42000
+    },
+    "U45173136": {
+        "nombre": "MOCHILA HESSE",
+        "precio": 34900
+    },
+    "U45173137": {
+        "nombre": "BOLSO KOFFER",
+        "precio": 34500
+    },
+    "U45173138": {
+        "nombre": "RIÑONERA VECTOR",
+        "precio": 22700
+    },
+    "U45173139": {
+        "nombre": "SET CHICAGO",
+        "precio": 35700
+    },
+    "U45173140": {
+        "nombre": "FUNDA MATERA TAHG",
+        "precio": 29900
+    },
+    "U45173141": {
+        "nombre": "MATE SAN ROQUE",
+        "precio": 31600
+    },
+    "U45173142": {
+        "nombre": "FUNDA YERBERA",
+        "precio": 6700
+    },
+    "U45173143": {
+        "nombre": "BOLSO DUOMO",
+        "precio": 42400
+    },
+    "U45173149": {
+        "nombre": "BOLSO EASY TOTE",
+        "precio": 15900
+    },
+    "U45173150": {
+        "nombre": "BOLSO SMASH",
+        "precio": 73600
+    },
+    "U45173151": {
+        "nombre": "MOCHILA FLIGHT",
+        "precio": 143900
+    },
+    "U45173152": {
+        "nombre": "TOTE CATEDRAL",
+        "precio": 67700
     },
     "U00173991": {
         "nombre": "COOLER YUTE",
@@ -2938,18 +3174,6 @@
     "U00173999": {
         "nombre": "CUADERNO ONYX",
         "precio": 7100
-    },
-    "U00173503": {
-        "nombre": "AURICULARES SHIELD",
-        "precio": 43500
-    },
-    "U00173505": {
-        "nombre": "PARAGUAS PG006",
-        "precio": 16100
-    },
-    "U00173506": {
-        "nombre": "PELOTA ASIA",
-        "precio": 12400
     },
     "U01173000": {
         "nombre": "JARRO OSLO",
@@ -3299,130 +3523,6 @@
         "nombre": "SILLA PASTOR",
         "precio": 108700
     },
-    "441173002": {
-        "nombre": "GORRO RUFINO",
-        "precio": 21400
-    },
-    "441173003": {
-        "nombre": "GORRO SANTA FE",
-        "precio": 35300
-    },
-    "441173004": {
-        "nombre": "SOMBRERO TIGRE (EX QUEQUEN)",
-        "precio": 29700
-    },
-    "480173000": {
-        "nombre": "BILLETRA GAIA",
-        "precio": 15800
-    },
-    "482173002": {
-        "nombre": "Mochila Duomo Haka",
-        "precio": 31300
-    },
-    "482173003": {
-        "nombre": "Mochila New Step",
-        "precio": 35900
-    },
-    "482173004": {
-        "nombre": "TROLLEY GUESS LINE",
-        "precio": 65000
-    },
-    "482173005": {
-        "nombre": "BOLSO DENVER",
-        "precio": 79900
-    },
-    "482173006": {
-        "nombre": "MOCHILA LISA",
-        "precio": 13800
-    },
-    "445173011": {
-        "nombre": "SILLA PLEGABLE",
-        "precio": 169000
-    },
-    "445173013": {
-        "nombre": "COOLER FIESTA OUTDOOR (EX GLACIAR)",
-        "precio": 161000
-    },
-    "271545000": {
-        "nombre": "TERMO IGUAZU",
-        "precio": 69000
-    },
-    "271545001": {
-        "nombre": "JARRO CHALTEN",
-        "precio": 13400
-    },
-    "271545002": {
-        "nombre": "TERMO ORIGEN",
-        "precio": 99000
-    },
-    "271545003": {
-        "nombre": "MATE C/ BOMBILLA ORIGEN",
-        "precio": 31600
-    },
-    "271545004": {
-        "nombre": "Termo Ivy",
-        "precio": 80500
-    },
-    "282105000": {
-        "nombre": "MATERA FATIMA",
-        "precio": 66800
-    },
-    "282105001": {
-        "nombre": "Matera Ana",
-        "precio": 39800
-    },
-    "282105002": {
-        "nombre": "MATERA ARCE PU SIMIL CUERO",
-        "precio": 59200
-    },
-    "282105003": {
-        "nombre": "MATERA ROBLE PU SIMIL CARPINCHO",
-        "precio": 59200
-    },
-    "311108001": {
-        "nombre": "CHALECO DEL PLATA POLAR H",
-        "precio": 44700
-    },
-    "311108002": {
-        "nombre": "CAMPERA VIEDMA",
-        "precio": 67000
-    },
-    "111138006": {
-        "nombre": "CHOMBA TILCARA  PIQUE M/C",
-        "precio": 36700
-    },
-    "111118100": {
-        "nombre": "BUZO GOYA",
-        "precio": 24600
-    },
-    "111118101": {
-        "nombre": "BUZO TAFI",
-        "precio": 32800
-    },
-    "111514010": {
-        "nombre": "REMERA TOAY M/C",
-        "precio": 10300
-    },
-    "345173000": {
-        "nombre": "JARRO TERMICO ALERCE",
-        "precio": 17500
-    },
-    "382105200": {
-        "nombre": "TOTE RAMADA",
-        "precio": 123100
-    },
-    "311124000": {
-        "nombre": "CAMPERA ROMPEVIENTO",
-        "precio": 80800
-    },
-    "U00106000": {
-        "nombre": "PARAGUAS RAINY",
-        "precio": 24000
-    },
-    "U6173018": {
-        "nombre": "JARRO TERMICO MAIPO",
-        "precio": 22000
-    },
     "U41173000": {
         "nombre": "GORRO DAVIS",
         "precio": 19000
@@ -3435,113 +3535,17 @@
         "nombre": "DELANTAL GRILL DENIM",
         "precio": 32200
     },
-    "U00161003": {
-        "nombre": "PARLANTE POLIFONIC",
-        "precio": 33200
+    "U00173503": {
+        "nombre": "AURICULARES SHIELD",
+        "precio": 43500
     },
-    "U01173508": {
-        "nombre": "JARRO BREEZE",
-        "precio": 9700
+    "U00173505": {
+        "nombre": "PARAGUAS PG006",
+        "precio": 16100
     },
-    "U01173509": {
-        "nombre": "BOTELLA PASADENA",
-        "precio": 41300
-    },
-    "U01173511": {
-        "nombre": "JARRO HORIZON",
-        "precio": 48200
-    },
-    "U01173512": {
-        "nombre": "TERMO PRACTICO",
-        "precio": 44200
-    },
-    "U06173177": {
-        "nombre": "JARRO BREAK",
-        "precio": 13800
-    },
-    "U45173149": {
-        "nombre": "BOLSO EASY TOTE",
-        "precio": 15900
-    },
-    "U45173150": {
-        "nombre": "BOLSO SMASH",
-        "precio": 73600
-    },
-    "U45173151": {
-        "nombre": "MOCHILA FLIGHT",
-        "precio": 143900
-    },
-    "U45173152": {
-        "nombre": "TOTE CATEDRAL",
-        "precio": 67700
-    },
-    "U89134023": {
-        "nombre": "SET DE ASADO ROTI",
-        "precio": 39600
-    },
-    "U89134024": {
-        "nombre": "SET DE ASADO  FUEGO",
-        "precio": 69100
-    },
-    "U89134025": {
-        "nombre": "SET DE ASADO BRASA",
-        "precio": 54700
-    },
-    "U89134026": {
-        "nombre": "AURICULARES DEMO",
-        "precio": 54800
-    },
-    "U89134027": {
-        "nombre": "AURICULARES GALIO",
-        "precio": 45000
-    },
-    "U91173003": {
-        "nombre": "RESCUE MULTITOOL",
-        "precio": 28900
-    },
-    "U45173133": {
-        "nombre": "MOCHILA UP",
-        "precio": 24000
-    },
-    "U45173134": {
-        "nombre": "MOCHILA DIGMA",
-        "precio": 12100
-    },
-    "U45173135": {
-        "nombre": "MOCHILA DUAL",
-        "precio": 42000
-    },
-    "U45173136": {
-        "nombre": "MOCHILA HESSE",
-        "precio": 34900
-    },
-    "U45173137": {
-        "nombre": "BOLSO KOFFER",
-        "precio": 34500
-    },
-    "U45173138": {
-        "nombre": "RIÑONERA VECTOR",
-        "precio": 22700
-    },
-    "U45173139": {
-        "nombre": "SET CHICAGO",
-        "precio": 35700
-    },
-    "U45173140": {
-        "nombre": "FUNDA MATERA TAHG",
-        "precio": 29900
-    },
-    "U45173141": {
-        "nombre": "MATE SAN ROQUE",
-        "precio": 31600
-    },
-    "U45173142": {
-        "nombre": "FUNDA YERBERA",
-        "precio": 6700
-    },
-    "U45173143": {
-        "nombre": "BOLSO DUOMO",
-        "precio": 42400
+    "U00173506": {
+        "nombre": "PELOTA ASIA",
+        "precio": 12400
     },
     "136121501": {
         "nombre": "TRAJE DE LLUVIA (CON PANTALÓN) IMPORTADO",
@@ -3610,10 +3614,6 @@
     "411118013": {
         "nombre": "CAMPERA JILGUERO",
         "precio": 66300
-    },
-    "411122212": {
-        "nombre": "CAMPERA FRESNO",
-        "precio": 91500
     },
     "411122216": {
         "nombre": "REMERA ALERCE",
@@ -3711,21 +3711,9 @@
         "nombre": "REMERA BASICA ESC REDONDO ML",
         "precio": 33500
     },
-    "452167000": {
-        "nombre": "BOXER",
-        "precio": 24000
-    },
     "412514000": {
         "nombre": "PANTALÓN JARAMILLO",
         "precio": 62000
-    },
-    "412139004": {
-        "nombre": "SHORT CASTILLO",
-        "precio": 47500
-    },
-    "412139005": {
-        "nombre": "PANTALÓN NERVO RECTO",
-        "precio": 45200
     },
     "412118004": {
         "nombre": "PANTALÓN DURAND",
@@ -3735,6 +3723,22 @@
         "nombre": "PANTALÓN DURAND SIN PUÑO",
         "precio": 49700
     },
+    "412139004": {
+        "nombre": "SHORT CASTILLO",
+        "precio": 47500
+    },
+    "412139005": {
+        "nombre": "PANTALÓN NERVO RECTO",
+        "precio": 45200
+    },
+    "412122206": {
+        "nombre": "PANTALÓN CALDEN RECTO",
+        "precio": 75000
+    },
+    "412122207": {
+        "nombre": "PANTALÓN CALDEN CON PUÑO",
+        "precio": 75000
+    },
     "411108008": {
         "nombre": "BUZO PAMPERO POLAR",
         "precio": 46600
@@ -3742,6 +3746,10 @@
     "411514004": {
         "nombre": "CAMPERA TRAPICHE",
         "precio": 79990
+    },
+    "411122212": {
+        "nombre": "CAMPERA FRESNO",
+        "precio": 91500
     },
     "411168103": {
         "nombre": "REMERA LAGO PUELO",
@@ -3810,14 +3818,6 @@
     "411140175": {
         "nombre": "POLO LAGO PAIMUN",
         "precio": 34800
-    },
-    "412122206": {
-        "nombre": "PANTALÓN CALDEN RECTO",
-        "precio": 75000
-    },
-    "412122207": {
-        "nombre": "PANTALÓN CALDEN CON PUÑO",
-        "precio": 75000
     },
     "411138008": {
         "nombre": "REMERA POLO BASICA",
@@ -4075,77 +4075,109 @@
         "nombre": "REMERA SAN NICOLAS MANGA RANGLAN",
         "precio": 34500
     },
-    "812522210": {
-        "nombre": "PANTALÓN LAGO ARGENTINO",
-        "precio": 48900
+    "452167000": {
+        "nombre": "BOXER",
+        "precio": 24000
     },
-    "811537002": {
-        "nombre": "BUZO AGUAPE",
-        "precio": 54000
+    "511122005": {
+        "nombre": "REMERA MANGA CORTA CORPORATIVA",
+        "precio": 19000
     },
-    "812118001": {
-        "nombre": "PANTALÓN SALTA",
-        "precio": 63000
+    "511122006": {
+        "nombre": "CHOMBA MANGA CORTA CORPORATIVA",
+        "precio": 25800
     },
-    "842106016": {
-        "nombre": "CUELLO POLAR PAMPERO",
-        "precio": 13500
+    "811106141": {
+        "nombre": "SACON TILCARA I22",
+        "precio": 115000
     },
-    "812139012": {
-        "nombre": "PANTALÓN NEUQUEN",
-        "precio": 79200
+    "811106268": {
+        "nombre": "CAMPERA RIO LAPATAIA",
+        "precio": 88600
     },
-    "812139013": {
-        "nombre": "PANTALÓN MENDOZA",
-        "precio": 66000
+    "811118003": {
+        "nombre": "CAMPERA ORAN",
+        "precio": 87500
     },
-    "812139014": {
-        "nombre": "SHORT PAMPEANO",
-        "precio": 48000
+    "811122092": {
+        "nombre": "REMERA PETUNIA",
+        "precio": 35000
     },
-    "812139015": {
-        "nombre": "PANTALÓN VIRA VIRA",
-        "precio": 75000
+    "811122093": {
+        "nombre": "REMERA ROSA DE RIO",
+        "precio": 36500
     },
-    "812139016": {
-        "nombre": "PANTALÓN NEUQUEN",
-        "precio": 68500
+    "811122094": {
+        "nombre": "MUSCULOSA GALVEZ AMPLIA ESCOTE V",
+        "precio": 32900
     },
-    "812139017": {
-        "nombre": "PANTALÓN PENINSULA VALDEZ",
-        "precio": 74000
+    "811106215": {
+        "nombre": "POLO RIO TUPUNGATO",
+        "precio": 45500
     },
-    "812537001": {
-        "nombre": "PANTALÓN CEIBO",
-        "precio": 66000
+    "811106176": {
+        "nombre": "REMERA POMPEYA",
+        "precio": 25000
     },
-    "813106077": {
-        "nombre": "CAMPERA JACARANDÁ",
-        "precio": 123000
+    "811106177": {
+        "nombre": "REMERA POSADAS",
+        "precio": 42900
     },
-    "813106078": {
-        "nombre": "CHALECO JAZMIN",
+    "811106178": {
+        "nombre": "REMERA PARANACITO",
+        "precio": 28000
+    },
+    "811106274": {
+        "nombre": "REMERA MIRASOL",
+        "precio": 45000
+    },
+    "811106275": {
+        "nombre": "POLERA PLUMERILLO",
+        "precio": 45000
+    },
+    "811106276": {
+        "nombre": "REMERA ACAIA BLANCA",
+        "precio": 65500
+    },
+    "811106277": {
+        "nombre": "POLO LLATEN",
+        "precio": 57000
+    },
+    "811106278": {
+        "nombre": "POLERON AROMO",
+        "precio": 68000
+    },
+    "811106279": {
+        "nombre": "POLERON RETAMA",
         "precio": 98000
     },
-    "813106079": {
-        "nombre": "CAMPERA GLICINA",
-        "precio": 135000
+    "811122046": {
+        "nombre": "REMERA BASICA ESC RED. M.L.",
+        "precio": 28500
     },
-    "812514000": {
-        "nombre": "PANTALÓN POTRERILLOS",
-        "precio": 56200
+    "811122047": {
+        "nombre": "REMERA BASICA ESCOTE REDONDO",
+        "precio": 28000
     },
-    "812505000": {
-        "nombre": "PANTALÓN MOLLE",
-        "precio": 69000
+    "811122048": {
+        "nombre": "REMERA BASICA ESC. V M.L.",
+        "precio": 31000
     },
-    "812106086": {
-        "nombre": "PANTALÓN JAZMIN AZUL",
-        "precio": 63000
+    "811122049": {
+        "nombre": "REMERA BASICA ESCOTE EN V",
+        "precio": 29000
     },
-    "812122209": {
-        "nombre": "PANTALÓN LAGO FAGNANO",
-        "precio": 46200
+    "811122058": {
+        "nombre": "REMERON VILLA TRAFUL",
+        "precio": 43600
+    },
+    "811106248": {
+        "nombre": "VESTIDO VALLECITO",
+        "precio": 64000
+    },
+    "811106249": {
+        "nombre": "VESTIDO PENITENTES",
+        "precio": 56900
     },
     "811122134": {
         "nombre": "REMERA RIO GRANDE",
@@ -4154,10 +4186,6 @@
     "811122135": {
         "nombre": "REMERA RIO PILCOMAYO",
         "precio": 32900
-    },
-    "811122058": {
-        "nombre": "REMERON VILLA TRAFUL",
-        "precio": 43600
     },
     "811122288": {
         "nombre": "BUZO PASPALUM",
@@ -4183,145 +4211,81 @@
         "nombre": "SACO CHUBUT",
         "precio": 85200
     },
-    "811138001": {
-        "nombre": "POLO TREBOL BLANCO",
-        "precio": 46500
-    },
-    "811139102": {
-        "nombre": "BUZO JUVENILES",
-        "precio": 50200
-    },
-    "811147021": {
-        "nombre": "MUSCULOSA BARRANQUERAS",
-        "precio": 33000
-    },
-    "811147022": {
-        "nombre": "MUSCULOSA RIO BERMEJITO",
-        "precio": 33000
-    },
-    "811147023": {
-        "nombre": "REMERA GIRASOLES",
-        "precio": 35500
-    },
-    "811147024": {
-        "nombre": "REMERA CARVELINA",
-        "precio": 45000
-    },
-    "811140054": {
-        "nombre": "REMERA LEONCITO",
-        "precio": 31700
-    },
-    "811140055": {
-        "nombre": "REMERA AZUCENA",
-        "precio": 33000
-    },
-    "811140056": {
-        "nombre": "MUSCULOSA MAGNOLIAS",
+    "811122213": {
+        "nombre": "MUSCULOSA LANIN",
         "precio": 30000
     },
-    "811140057": {
-        "nombre": "MUSCULOSA GARDENIA",
+    "811122214": {
+        "nombre": "MUSCULOSA FITZ ROY",
+        "precio": 37900
+    },
+    "811122216": {
+        "nombre": "REMERA LAS TOTORAS",
+        "precio": 32200
+    },
+    "811122217": {
+        "nombre": "MUSCULOSA CERRO TORRE",
+        "precio": 30900
+    },
+    "811122219": {
+        "nombre": "MUSCULOSA CATEDRAL",
+        "precio": 38700
+    },
+    "811122237": {
+        "nombre": "REMERA LA ANGOSTURA",
+        "precio": 37500
+    },
+    "811122238": {
+        "nombre": "REMERA LOS ANTIGUOS",
+        "precio": 37500
+    },
+    "811122239": {
+        "nombre": "POLERA GAIMAN",
+        "precio": 38000
+    },
+    "811122240": {
+        "nombre": "REMERON EL MAITEN",
+        "precio": 33600
+    },
+    "811122241": {
+        "nombre": "REMERON CERRO ESCORIAL",
+        "precio": 56700
+    },
+    "811122242": {
+        "nombre": "MEDIA POLERA SOCOMPA",
+        "precio": 42000
+    },
+    "811122243": {
+        "nombre": "REMERON CERRO GALAN",
+        "precio": 43700
+    },
+    "811122244": {
+        "nombre": "POLO TRES CRUCES",
+        "precio": 51600
+    },
+    "811122246": {
+        "nombre": "BUZO LAGO ESPEJO",
+        "precio": 58500
+    },
+    "811122247": {
+        "nombre": "CHALECO LAGO VERDE",
+        "precio": 35800
+    },
+    "811166030": {
+        "nombre": "REMERA BASICA ML VISCOSA ESCOTE REDONDO",
+        "precio": 32000
+    },
+    "811166037": {
+        "nombre": "REMERA BASICA ML VISCOSA ESCOTE V",
         "precio": 33000
     },
-    "811140058": {
-        "nombre": "REMERA ALHELÍ",
-        "precio": 37000
+    "811166053": {
+        "nombre": "MUSCULOSA ACUARIO CON VOLADOS",
+        "precio": 38900
     },
-    "811140060": {
-        "nombre": "REMERA FLORA NACIONAL",
-        "precio": 36000
-    },
-    "811140061": {
-        "nombre": "REMERA DIENTE DE LEON",
-        "precio": 36000
-    },
-    "811140062": {
-        "nombre": "REMERA FLORES",
-        "precio": 36000
-    },
-    "811140063": {
-        "nombre": "REMERA NARCISO",
-        "precio": 37000
-    },
-    "811140065": {
-        "nombre": "PEMERA PUERTO PIRÁMIDES",
-        "precio": 42500
-    },
-    "811140066": {
-        "nombre": "VESTIDO IRUPE",
-        "precio": 69500
-    },
-    "811141000": {
-        "nombre": "BUZO MICROPOLAR ESC V LA RINCONADA",
-        "precio": 41500
-    },
-    "811141001": {
-        "nombre": "CAMPERA POLAR LA PAZ",
-        "precio": 76000
-    },
-    "811141002": {
-        "nombre": "BUZO MUITU",
-        "precio": 53000
-    },
-    "811536001": {
-        "nombre": "BUZO CERRO LOPEZ",
-        "precio": 84700
-    },
-    "811536002": {
-        "nombre": "PONCHO CERRO VENTANA",
-        "precio": 53700
-    },
-    "811533008": {
-        "nombre": "REMERA CERRO OTTO",
-        "precio": 28990
-    },
-    "811525014": {
-        "nombre": "REMRA POLO NATIVA",
-        "precio": 51000
-    },
-    "811525015": {
-        "nombre": "REMERA MARGARITA",
-        "precio": 39990
-    },
-    "811525016": {
-        "nombre": "REMERA REINA MORA",
-        "precio": 45000
-    },
-    "811522245": {
-        "nombre": "POLERON LAGUNA AZUL",
-        "precio": 54900
-    },
-    "811522248": {
-        "nombre": "BUZO LAGUNA DE LOS TRES",
-        "precio": 47800
-    },
-    "811525003": {
-        "nombre": "REMERA POLO NATIVA",
-        "precio": 49500
-    },
-    "811139121": {
-        "nombre": "MUSCULOSA GENERAL ACHE",
-        "precio": 43200
-    },
-    "811139122": {
-        "nombre": "VESTIDO MISIONES",
-        "precio": 70800
-    },
-    "811139123": {
-        "nombre": "CHALECO DALIA",
-        "precio": 46000
-    },
-    "811139124": {
-        "nombre": "REMERA AMAPOLA",
-        "precio": 60000
-    },
-    "811139125": {
-        "nombre": "CAMPERA CORCOVADO",
-        "precio": 81000
-    },
-    "811139126": {
-        "nombre": "BUZO LAGO GUTIERREZ",
-        "precio": 67500
+    "811166059": {
+        "nombre": "MUSCULOSA PEÑAFLOR",
+        "precio": 34600
     },
     "811166070": {
         "nombre": "REMERA PUERTO PIRAMIDES",
@@ -4423,34 +4387,6 @@
         "nombre": "BUZO QUILIMBAI",
         "precio": 74000
     },
-    "811166030": {
-        "nombre": "REMERA BASICA ML VISCOSA ESCOTE REDONDO",
-        "precio": 32000
-    },
-    "811166037": {
-        "nombre": "REMERA BASICA ML VISCOSA ESCOTE V",
-        "precio": 33000
-    },
-    "811166053": {
-        "nombre": "MUSCULOSA ACUARIO CON VOLADOS",
-        "precio": 38900
-    },
-    "811166059": {
-        "nombre": "MUSCULOSA PEÑAFLOR",
-        "precio": 34600
-    },
-    "811517000": {
-        "nombre": "BUZO RIO SENGUER",
-        "precio": 54400
-    },
-    "811501020": {
-        "nombre": "REMERA RIO TEUCO",
-        "precio": 42700
-    },
-    "811514104": {
-        "nombre": "CAMPERA VILLAVICENCIO",
-        "precio": 75600
-    },
     "811507000": {
         "nombre": "BUZA PEPERINA",
         "precio": 85000
@@ -4479,161 +4415,229 @@
         "nombre": "VESTIDO SIERRAS BAYAS",
         "precio": 57000
     },
-    "811106215": {
-        "nombre": "POLO RIO TUPUNGATO",
-        "precio": 45500
+    "811517000": {
+        "nombre": "BUZO RIO SENGUER",
+        "precio": 54400
     },
-    "811106141": {
-        "nombre": "SACON TILCARA I22",
-        "precio": 115000
+    "811501020": {
+        "nombre": "REMERA RIO TEUCO",
+        "precio": 42700
     },
-    "811106248": {
-        "nombre": "VESTIDO VALLECITO",
-        "precio": 64000
+    "811514104": {
+        "nombre": "CAMPERA VILLAVICENCIO",
+        "precio": 75600
     },
-    "811106249": {
-        "nombre": "VESTIDO PENITENTES",
-        "precio": 56900
+    "811522245": {
+        "nombre": "POLERON LAGUNA AZUL",
+        "precio": 54900
     },
-    "811106176": {
-        "nombre": "REMERA POMPEYA",
-        "precio": 25000
+    "811522248": {
+        "nombre": "BUZO LAGUNA DE LOS TRES",
+        "precio": 47800
     },
-    "811106177": {
-        "nombre": "REMERA POSADAS",
-        "precio": 42900
+    "811140054": {
+        "nombre": "REMERA LEONCITO",
+        "precio": 31700
     },
-    "811106178": {
-        "nombre": "REMERA PARANACITO",
-        "precio": 28000
+    "811140055": {
+        "nombre": "REMERA AZUCENA",
+        "precio": 33000
     },
-    "811106268": {
-        "nombre": "CAMPERA RIO LAPATAIA",
-        "precio": 88600
-    },
-    "811118003": {
-        "nombre": "CAMPERA ORAN",
-        "precio": 87500
-    },
-    "811106274": {
-        "nombre": "REMERA MIRASOL",
-        "precio": 45000
-    },
-    "811106275": {
-        "nombre": "POLERA PLUMERILLO",
-        "precio": 45000
-    },
-    "811106276": {
-        "nombre": "REMERA ACAIA BLANCA",
-        "precio": 65500
-    },
-    "811106277": {
-        "nombre": "POLO LLATEN",
-        "precio": 57000
-    },
-    "811106278": {
-        "nombre": "POLERON AROMO",
-        "precio": 68000
-    },
-    "811106279": {
-        "nombre": "POLERON RETAMA",
-        "precio": 98000
-    },
-    "511122005": {
-        "nombre": "REMERA MANGA CORTA CORPORATIVA",
-        "precio": 19000
-    },
-    "511122006": {
-        "nombre": "CHOMBA MANGA CORTA CORPORATIVA",
-        "precio": 25800
-    },
-    "811122213": {
-        "nombre": "MUSCULOSA LANIN",
+    "811140056": {
+        "nombre": "MUSCULOSA MAGNOLIAS",
         "precio": 30000
     },
-    "811122214": {
-        "nombre": "MUSCULOSA FITZ ROY",
-        "precio": 37900
+    "811140057": {
+        "nombre": "MUSCULOSA GARDENIA",
+        "precio": 33000
     },
-    "811122216": {
-        "nombre": "REMERA LAS TOTORAS",
-        "precio": 32200
+    "811140058": {
+        "nombre": "REMERA ALHELÍ",
+        "precio": 37000
     },
-    "811122217": {
-        "nombre": "MUSCULOSA CERRO TORRE",
-        "precio": 30900
+    "811140060": {
+        "nombre": "REMERA FLORA NACIONAL",
+        "precio": 36000
     },
-    "811122219": {
-        "nombre": "MUSCULOSA CATEDRAL",
-        "precio": 38700
+    "811140061": {
+        "nombre": "REMERA DIENTE DE LEON",
+        "precio": 36000
     },
-    "811122237": {
-        "nombre": "REMERA LA ANGOSTURA",
-        "precio": 37500
+    "811140062": {
+        "nombre": "REMERA FLORES",
+        "precio": 36000
     },
-    "811122238": {
-        "nombre": "REMERA LOS ANTIGUOS",
-        "precio": 37500
+    "811140063": {
+        "nombre": "REMERA NARCISO",
+        "precio": 37000
     },
-    "811122239": {
-        "nombre": "POLERA GAIMAN",
-        "precio": 38000
+    "811140065": {
+        "nombre": "PEMERA PUERTO PIRÁMIDES",
+        "precio": 42500
     },
-    "811122240": {
-        "nombre": "REMERON EL MAITEN",
-        "precio": 33600
+    "811140066": {
+        "nombre": "VESTIDO IRUPE",
+        "precio": 69500
     },
-    "811122241": {
-        "nombre": "REMERON CERRO ESCORIAL",
-        "precio": 56700
+    "811141000": {
+        "nombre": "BUZO MICROPOLAR ESC V LA RINCONADA",
+        "precio": 41500
     },
-    "811122242": {
-        "nombre": "MEDIA POLERA SOCOMPA",
-        "precio": 42000
+    "811141001": {
+        "nombre": "CAMPERA POLAR LA PAZ",
+        "precio": 76000
     },
-    "811122243": {
-        "nombre": "REMERON CERRO GALAN",
-        "precio": 43700
+    "811141002": {
+        "nombre": "BUZO MUITU",
+        "precio": 53000
     },
-    "811122244": {
-        "nombre": "POLO TRES CRUCES",
-        "precio": 51600
+    "811138001": {
+        "nombre": "POLO TREBOL BLANCO",
+        "precio": 46500
     },
-    "811122246": {
-        "nombre": "BUZO LAGO ESPEJO",
-        "precio": 58500
+    "811139102": {
+        "nombre": "BUZO JUVENILES",
+        "precio": 50200
     },
-    "811122247": {
-        "nombre": "CHALECO LAGO VERDE",
-        "precio": 35800
+    "811139121": {
+        "nombre": "MUSCULOSA GENERAL ACHE",
+        "precio": 43200
     },
-    "811122046": {
-        "nombre": "REMERA BASICA ESC RED. M.L.",
-        "precio": 28500
+    "811139122": {
+        "nombre": "VESTIDO MISIONES",
+        "precio": 70800
     },
-    "811122047": {
-        "nombre": "REMERA BASICA ESCOTE REDONDO",
-        "precio": 28000
+    "811139123": {
+        "nombre": "CHALECO DALIA",
+        "precio": 46000
     },
-    "811122048": {
-        "nombre": "REMERA BASICA ESC. V M.L.",
-        "precio": 31000
+    "811139124": {
+        "nombre": "REMERA AMAPOLA",
+        "precio": 60000
     },
-    "811122049": {
-        "nombre": "REMERA BASICA ESCOTE EN V",
-        "precio": 29000
+    "811139125": {
+        "nombre": "CAMPERA CORCOVADO",
+        "precio": 81000
     },
-    "811122092": {
-        "nombre": "REMERA PETUNIA",
-        "precio": 35000
+    "811139126": {
+        "nombre": "BUZO LAGO GUTIERREZ",
+        "precio": 67500
     },
-    "811122093": {
-        "nombre": "REMERA ROSA DE RIO",
-        "precio": 36500
+    "811147021": {
+        "nombre": "MUSCULOSA BARRANQUERAS",
+        "precio": 33000
     },
-    "811122094": {
-        "nombre": "MUSCULOSA GALVEZ AMPLIA ESCOTE V",
-        "precio": 32900
+    "811147022": {
+        "nombre": "MUSCULOSA RIO BERMEJITO",
+        "precio": 33000
+    },
+    "811147023": {
+        "nombre": "REMERA GIRASOLES",
+        "precio": 35500
+    },
+    "811147024": {
+        "nombre": "REMERA CARVELINA",
+        "precio": 45000
+    },
+    "812522210": {
+        "nombre": "PANTALÓN LAGO ARGENTINO",
+        "precio": 48900
+    },
+    "842106016": {
+        "nombre": "CUELLO POLAR PAMPERO",
+        "precio": 13500
+    },
+    "811537002": {
+        "nombre": "BUZO AGUAPE",
+        "precio": 54000
+    },
+    "812118001": {
+        "nombre": "PANTALÓN SALTA",
+        "precio": 63000
+    },
+    "813106077": {
+        "nombre": "CAMPERA JACARANDÁ",
+        "precio": 123000
+    },
+    "813106078": {
+        "nombre": "CHALECO JAZMIN",
+        "precio": 98000
+    },
+    "813106079": {
+        "nombre": "CAMPERA GLICINA",
+        "precio": 135000
+    },
+    "812106086": {
+        "nombre": "PANTALÓN JAZMIN AZUL",
+        "precio": 63000
+    },
+    "812122209": {
+        "nombre": "PANTALÓN LAGO FAGNANO",
+        "precio": 46200
+    },
+    "811533008": {
+        "nombre": "REMERA CERRO OTTO",
+        "precio": 28990
+    },
+    "811536001": {
+        "nombre": "BUZO CERRO LOPEZ",
+        "precio": 84700
+    },
+    "811536002": {
+        "nombre": "PONCHO CERRO VENTANA",
+        "precio": 53700
+    },
+    "811525003": {
+        "nombre": "REMERA POLO NATIVA",
+        "precio": 49500
+    },
+    "811525014": {
+        "nombre": "REMRA POLO NATIVA",
+        "precio": 51000
+    },
+    "811525015": {
+        "nombre": "REMERA MARGARITA",
+        "precio": 39990
+    },
+    "811525016": {
+        "nombre": "REMERA REINA MORA",
+        "precio": 45000
+    },
+    "812514000": {
+        "nombre": "PANTALÓN POTRERILLOS",
+        "precio": 56200
+    },
+    "812505000": {
+        "nombre": "PANTALÓN MOLLE",
+        "precio": 69000
+    },
+    "812537001": {
+        "nombre": "PANTALÓN CEIBO",
+        "precio": 66000
+    },
+    "812139012": {
+        "nombre": "PANTALÓN NEUQUEN",
+        "precio": 79200
+    },
+    "812139013": {
+        "nombre": "PANTALÓN MENDOZA",
+        "precio": 66000
+    },
+    "812139014": {
+        "nombre": "SHORT PAMPEANO",
+        "precio": 48000
+    },
+    "812139015": {
+        "nombre": "PANTALÓN VIRA VIRA",
+        "precio": 75000
+    },
+    "812139016": {
+        "nombre": "PANTALÓN NEUQUEN",
+        "precio": 68500
+    },
+    "812139017": {
+        "nombre": "PANTALÓN PENINSULA VALDEZ",
+        "precio": 74000
     },
     "U12122000": {
         "nombre": "PANTALÓN CARGO PAMPEANO RECTO",
@@ -4666,6 +4670,14 @@
     "411507000": {
         "nombre": "REMERA VALLE DE LA LUNA",
         "precio": 57000
+    },
+    "813106090": {
+        "nombre": "SACO RIO MANSO",
+        "precio": 96500
+    },
+    "813501022": {
+        "nombre": "SACO FUTALEUFU",
+        "precio": 114000
     },
     "413505000": {
         "nombre": "BUZO OCAMPO CON CAPUCHA",
@@ -4719,25 +4731,9 @@
         "nombre": "REMERA RIO DE LA PLATA",
         "precio": 31500
     },
-    "813106090": {
-        "nombre": "SACO RIO MANSO",
-        "precio": 96500
-    },
-    "813501022": {
-        "nombre": "SACO FUTALEUFU",
-        "precio": 114000
-    },
     "812122230": {
         "nombre": "PANTALÓN SILVESTRE",
         "precio": 93000
-    },
-    "U21116001": {
-        "nombre": "ALPARGATA DE YUTE",
-        "precio": 32500
-    },
-    "921214043": {
-        "nombre": "ALPARGATA BASICA INFANTIL (CITEX)",
-        "precio": 18000
     },
     "411122244": {
         "nombre": "CAMISA MONTE",
@@ -4751,13 +4747,49 @@
         "nombre": "BERMUDA NAUTICO",
         "precio": 69000
     },
+    "921214043": {
+        "nombre": "ALPARGATA BASICA INFANTIL (CITEX)",
+        "precio": 18000
+    },
     "U2411604C": {
         "nombre": "ALPARGATA YUTE",
         "precio": 31000
     },
+    "U21116001": {
+        "nombre": "ALPARGATA DE YUTE",
+        "precio": 32500
+    },
+    "812506040": {
+        "nombre": "PANTALÓN CARGO DEL NORTE DENIM MUJER",
+        "precio": 112500
+    },
+    "811122284": {
+        "nombre": "CAMISA ANA MARIA",
+        "precio": 64500
+    },
+    "811503000": {
+        "nombre": "CAMISA SANTA ROSA",
+        "precio": 44000
+    },
+    "811514500": {
+        "nombre": "CAMISA ANA MARIA FANTASIA",
+        "precio": 54500
+    },
     "612122000": {
         "nombre": "BOMBACHA CAMPIÑA ANGOSTA",
         "precio": 82500
+    },
+    "412506019": {
+        "nombre": "PANTALÓN CARGO DEL NORTE",
+        "precio": 118000
+    },
+    "611101101": {
+        "nombre": "CAMISA DIAGUITA M. ROLL UP GAB.",
+        "precio": 76000
+    },
+    "611124001": {
+        "nombre": "CAMISA ESTANCIERA",
+        "precio": 69000
     },
     "612506000": {
         "nombre": "PANTALÓN GARZA MUY ANGOSTO",
@@ -4783,22 +4815,6 @@
         "nombre": "ZUECO SAN JUAN",
         "precio": 45500
     },
-    "811503000": {
-        "nombre": "CAMISA SANTA ROSA",
-        "precio": 44000
-    },
-    "811514500": {
-        "nombre": "CAMISA ANA MARIA FANTASIA",
-        "precio": 54500
-    },
-    "811122284": {
-        "nombre": "CAMISA ANA MARIA",
-        "precio": 64500
-    },
-    "812506040": {
-        "nombre": "PANTALÓN CARGO DEL NORTE DENIM MUJER",
-        "precio": 112500
-    },
     "412101002": {
         "nombre": "PANTALÓN CARGO DEL NORTE",
         "precio": 113000
@@ -4810,18 +4826,6 @@
     "411514109": {
         "nombre": "CAMISA FRENCH FANTASIA",
         "precio": 55000
-    },
-    "611101101": {
-        "nombre": "CAMISA DIAGUITA M. ROLL UP GAB.",
-        "precio": 76000
-    },
-    "611124001": {
-        "nombre": "CAMISA ESTANCIERA",
-        "precio": 69000
-    },
-    "412506019": {
-        "nombre": "PANTALÓN CARGO DEL NORTE",
-        "precio": 118000
     },
     "424134011": {
         "nombre": "PANCHA PIRAY",
@@ -4915,14 +4919,6 @@
         "nombre": "BOTA NAUTICA PVC S/CUELLO NAUTILUS",
         "precio": 39100
     },
-    "823121001": {
-        "nombre": "BOTA LLUVIA MUJER PVC COLLECTION",
-        "precio": 43500
-    },
-    "923121000": {
-        "nombre": "BOTA DE LLUVIA NIÑOS PVC KINDER",
-        "precio": 36500
-    },
     "721144000": {
         "nombre": "ZAPATILLA CHAPELCO",
         "precio": 125000
@@ -4930,6 +4926,10 @@
     "721144001": {
         "nombre": "ZAPATILLA LEÑAS",
         "precio": 125000
+    },
+    "823121001": {
+        "nombre": "BOTA LLUVIA MUJER PVC COLLECTION",
+        "precio": 43500
     },
     "U23173002": {
         "nombre": "BOTÍN TREKKING TRONADOR",
@@ -4939,13 +4939,21 @@
         "nombre": "BOTÍN TREKKING LANIN",
         "precio": 130000
     },
-    "U11106008": {
-        "nombre": "CAMISA VIYELA CON CORDERITO",
-        "precio": 96000
+    "923121000": {
+        "nombre": "BOTA DE LLUVIA NIÑOS PVC KINDER",
+        "precio": 36500
+    },
+    "911543000": {
+        "nombre": "CAMISA JOSE LINO",
+        "precio": 42500
     },
     "U12122002": {
         "nombre": "PANTALÓN PIJAMA",
         "precio": 59000
+    },
+    "U11106008": {
+        "nombre": "CAMISA VIYELA CON CORDERITO",
+        "precio": 96000
     },
     "411122243": {
         "nombre": "CAMISA CUELLO MAO MEDIA CARTERA",
@@ -5011,33 +5019,77 @@
         "nombre": "CAMISA CLARA S/BOLSILLO CHAMBRAY C/SPANDEX",
         "precio": 70500
     },
-    "811106035": {
-        "nombre": "CAMISOLA CORDOBA",
-        "precio": 67000
+    "911111103": {
+        "nombre": "CAMISA SARA N. OXF M/L",
+        "precio": 43500
     },
-    "811106169": {
-        "nombre": "VESTIDO FESTIVAL",
-        "precio": 76500
+    "911103000": {
+        "nombre": "CAMISA MANUEL M/L C/BOLS. OXF.",
+        "precio": 43500
     },
-    "811106170": {
-        "nombre": "VESTIDO ELEONORA ESCOTE EN V FIBRANA",
+    "911104000": {
+        "nombre": "CAMISA JUANA DENIM C/BOLS.",
+        "precio": 43500
+    },
+    "911104001": {
+        "nombre": "CAMISA JUAN DENIM 1BOLS.",
+        "precio": 43500
+    },
+    "911122193": {
+        "nombre": "CAMISA NIÑO VIYELA",
+        "precio": 42500
+    },
+    "911122194": {
+        "nombre": "CAMISA M/L NIÑA BRODERY",
+        "precio": 42500
+    },
+    "911122195": {
+        "nombre": "CAMISA NIÑA VIYELA",
+        "precio": 42500
+    },
+    "911124003": {
+        "nombre": "CAMISA EMILIO CUADROS M/L",
+        "precio": 43500
+    },
+    "911124010": {
+        "nombre": "CAMISA EMILIA N. POPLIN",
+        "precio": 43500
+    },
+    "911124011": {
+        "nombre": "CAMISA COLEGIAL M/L SIN BOLSILLO",
+        "precio": 39000
+    },
+    "811533007": {
+        "nombre": "CAMISA BASICA MAIZANI M. POPLIN RAY M/L (VENTA CORPO)",
+        "precio": 46000
+    },
+    "811548000": {
+        "nombre": "CAMISA MAIZANI M/C ALG LYCRA",
+        "precio": 61000
+    },
+    "811526000": {
+        "nombre": "CAMISA BASICA MAIZANI M.OXFORD M/L",
+        "precio": 48500
+    },
+    "811527003": {
+        "nombre": "CAMISA BASICA MAIZANI M. FANTASIA M/L",
+        "precio": 43500
+    },
+    "811527004": {
+        "nombre": "CAMISA BASICA MAIZANI M. OXF RAY. M/L",
+        "precio": 46000
+    },
+    "811525007": {
+        "nombre": "CAMISA CORDOBA ELASTANO",
+        "precio": 63000
+    },
+    "811543001": {
+        "nombre": "CAMISA JAUREGUI LINO",
+        "precio": 86000
+    },
+    "811543002": {
+        "nombre": "VESTIDO ELEONORA ESCOTE EN V LINO",
         "precio": 74000
-    },
-    "811106171": {
-        "nombre": "VESTIDO HELENA CUELLO MAO FIBRANA",
-        "precio": 96000
-    },
-    "811106202": {
-        "nombre": "CAMISA CLARA S/B CREPPE",
-        "precio": 50000
-    },
-    "811106204": {
-        "nombre": "CAMISA CAMPESTRE VIYELA M/L",
-        "precio": 67000
-    },
-    "811122024": {
-        "nombre": "CAMISA BRODERY M/L",
-        "precio": 87000
     },
     "811101004": {
         "nombre": "CAMISA CAMPESTRE GABARDINA",
@@ -5059,6 +5111,38 @@
         "nombre": "CAMISA BASICA 70-30 MC OXFORD RAYADO",
         "precio": 45500
     },
+    "811106035": {
+        "nombre": "CAMISOLA CORDOBA",
+        "precio": 67000
+    },
+    "811106169": {
+        "nombre": "VESTIDO FESTIVAL",
+        "precio": 76500
+    },
+    "811106170": {
+        "nombre": "VESTIDO ELEONORA ESCOTE EN V FIBRANA",
+        "precio": 74000
+    },
+    "811106171": {
+        "nombre": "VESTIDO HELENA CUELLO MAO FIBRANA",
+        "precio": 96000
+    },
+    "442122000": {
+        "nombre": "BOXER",
+        "precio": 24900
+    },
+    "811122055": {
+        "nombre": "CAMISA CLARA SIN BOLSILLO POPLIN",
+        "precio": 70500
+    },
+    "811106202": {
+        "nombre": "CAMISA CLARA S/B CREPPE",
+        "precio": 50000
+    },
+    "811106204": {
+        "nombre": "CAMISA CAMPESTRE VIYELA M/L",
+        "precio": 67000
+    },
     "811122110": {
         "nombre": "CAMISA VILLA MERCEDES",
         "precio": 55000
@@ -5079,9 +5163,37 @@
         "nombre": "CAMISA RAUCH LINO",
         "precio": 67000
     },
-    "811122055": {
-        "nombre": "CAMISA CLARA SIN BOLSILLO POPLIN",
-        "precio": 70500
+    "811122024": {
+        "nombre": "CAMISA BRODERY M/L",
+        "precio": 87000
+    },
+    "811122041": {
+        "nombre": "CAMISA MAIZANI  M. FANTASIA M/C",
+        "precio": 61000
+    },
+    "811505001": {
+        "nombre": "CAMISA BASICA MAIZANI M. POPLIN LISO M/L",
+        "precio": 46000
+    },
+    "811525000": {
+        "nombre": "CAMISA MAIZANI M. POPLIN ELAST. M/L",
+        "precio": 66000
+    },
+    "811525002": {
+        "nombre": "CAMISA MAIZANI M. POPLIN ELAST. FANTASIA M/L",
+        "precio": 62000
+    },
+    "811500000": {
+        "nombre": "CAMISA MAIZANI M/L DENIM",
+        "precio": 63000
+    },
+    "811148004": {
+        "nombre": "CAMISA FORMOSA M. VOILE M/L",
+        "precio": 62000
+    },
+    "811148020": {
+        "nombre": "CAMISA CLARA VOILE",
+        "precio": 68000
     },
     "811122248": {
         "nombre": "CAMISOLA GUAMINI LINO",
@@ -5107,82 +5219,6 @@
         "nombre": "CAMISA SALVIA",
         "precio": 79000
     },
-    "811122041": {
-        "nombre": "CAMISA MAIZANI  M. FANTASIA M/C",
-        "precio": 61000
-    },
-    "811533007": {
-        "nombre": "CAMISA BASICA MAIZANI M. POPLIN RAY M/L (VENTA CORPO)",
-        "precio": 46000
-    },
-    "811526000": {
-        "nombre": "CAMISA BASICA MAIZANI M.OXFORD M/L",
-        "precio": 48500
-    },
-    "811527003": {
-        "nombre": "CAMISA BASICA MAIZANI M. FANTASIA M/L",
-        "precio": 43500
-    },
-    "811527004": {
-        "nombre": "CAMISA BASICA MAIZANI M. OXF RAY. M/L",
-        "precio": 46000
-    },
-    "811525007": {
-        "nombre": "CAMISA CORDOBA ELASTANO",
-        "precio": 63000
-    },
-    "811525000": {
-        "nombre": "CAMISA MAIZANI M. POPLIN ELAST. M/L",
-        "precio": 66000
-    },
-    "811525002": {
-        "nombre": "CAMISA MAIZANI M. POPLIN ELAST. FANTASIA M/L",
-        "precio": 62000
-    },
-    "811548000": {
-        "nombre": "CAMISA MAIZANI M/C ALG LYCRA",
-        "precio": 61000
-    },
-    "811543001": {
-        "nombre": "CAMISA JAUREGUI LINO",
-        "precio": 86000
-    },
-    "811543002": {
-        "nombre": "VESTIDO ELEONORA ESCOTE EN V LINO",
-        "precio": 74000
-    },
-    "811505001": {
-        "nombre": "CAMISA BASICA MAIZANI M. POPLIN LISO M/L",
-        "precio": 46000
-    },
-    "811500000": {
-        "nombre": "CAMISA MAIZANI M/L DENIM",
-        "precio": 63000
-    },
-    "811148004": {
-        "nombre": "CAMISA FORMOSA M. VOILE M/L",
-        "precio": 62000
-    },
-    "811148020": {
-        "nombre": "CAMISA CLARA VOILE",
-        "precio": 68000
-    },
-    "811122289": {
-        "nombre": "CAMISA VOLADOS",
-        "precio": 73000
-    },
-    "811122290": {
-        "nombre": "CAMISACO LEÑADORA",
-        "precio": 70500
-    },
-    "811122291": {
-        "nombre": "CONJUNTO PIJAMA",
-        "precio": 101500
-    },
-    "811106260": {
-        "nombre": "CAMISA CAMPESTRE",
-        "precio": 60500
-    },
     "811122263": {
         "nombre": "CAMISA RAUCH BRODERY",
         "precio": 88000
@@ -5202,6 +5238,22 @@
     "811122267": {
         "nombre": "CAMISA CLARA ELASTIZADA",
         "precio": 62000
+    },
+    "811122289": {
+        "nombre": "CAMISA VOLADOS",
+        "precio": 73000
+    },
+    "811122290": {
+        "nombre": "CAMISACO LEÑADORA",
+        "precio": 70500
+    },
+    "811122291": {
+        "nombre": "CONJUNTO PIJAMA",
+        "precio": 101500
+    },
+    "811106260": {
+        "nombre": "CAMISA CAMPESTRE",
+        "precio": 60500
     },
     "811124001": {
         "nombre": "CAMISA MAIZANI M/L POPLIN",
@@ -5234,50 +5286,6 @@
     "811124033": {
         "nombre": "CAMISA CLARA",
         "precio": 70500
-    },
-    "911122193": {
-        "nombre": "CAMISA NIÑO VIYELA",
-        "precio": 42500
-    },
-    "911122194": {
-        "nombre": "CAMISA M/L NIÑA BRODERY",
-        "precio": 42500
-    },
-    "911122195": {
-        "nombre": "CAMISA NIÑA VIYELA",
-        "precio": 42500
-    },
-    "911543000": {
-        "nombre": "CAMISA JOSE LINO",
-        "precio": 42500
-    },
-    "911124003": {
-        "nombre": "CAMISA EMILIO CUADROS M/L",
-        "precio": 43500
-    },
-    "911124010": {
-        "nombre": "CAMISA EMILIA N. POPLIN",
-        "precio": 43500
-    },
-    "911124011": {
-        "nombre": "CAMISA COLEGIAL M/L SIN BOLSILLO",
-        "precio": 39000
-    },
-    "911111103": {
-        "nombre": "CAMISA SARA N. OXF M/L",
-        "precio": 43500
-    },
-    "911103000": {
-        "nombre": "CAMISA MANUEL M/L C/BOLS. OXF.",
-        "precio": 43500
-    },
-    "911104000": {
-        "nombre": "CAMISA JUANA DENIM C/BOLS.",
-        "precio": 43500
-    },
-    "911104001": {
-        "nombre": "CAMISA JUAN DENIM 1BOLS.",
-        "precio": 43500
     },
     "411103007": {
         "nombre": "CAMISA HOMBRE CUELLO MAO",
@@ -5403,17 +5411,9 @@
         "nombre": "CAMISACO LEÑADOR",
         "precio": 82500
     },
-    "442122000": {
-        "nombre": "BOXER",
-        "precio": 24900
-    },
     "411122020": {
         "nombre": "CAMISA SOLER CUELLO ITALIANO LISA M/L S/BOLS",
         "precio": 76500
-    },
-    "411505004": {
-        "nombre": "CAMISA BASICA SOLER RAYADA 70/30",
-        "precio": 46000
     },
     "411526000": {
         "nombre": "CAMISA BASICA SOLER OXFORD M/L C/BOLS.",
@@ -5439,6 +5439,10 @@
         "nombre": "CAMISA HILARIO CUELLO IT. SLIM FIT",
         "precio": 76500
     },
+    "411505004": {
+        "nombre": "CAMISA BASICA SOLER RAYADA 70/30",
+        "precio": 46000
+    },
     "311152001": {
         "nombre": "CAMISA CHALTEN HOMBRE MINIRIPSTOP",
         "precio": 141700
@@ -5450,6 +5454,18 @@
     "411122231": {
         "nombre": "SWEATER MORRIS ESCOTE V",
         "precio": 66000
+    },
+    "411122203": {
+        "nombre": "CARDIGAN BERNAL",
+        "precio": 73700
+    },
+    "411122204": {
+        "nombre": "CAMPERA SAN JUSTO",
+        "precio": 95000
+    },
+    "411122205": {
+        "nombre": "SWEATER CASEROS",
+        "precio": 68700
     },
     "411122213": {
         "nombre": "CARDIGAN CEDRO",
@@ -5463,17 +5479,21 @@
         "nombre": "SWEATER CAOBA",
         "precio": 65000
     },
-    "411122203": {
-        "nombre": "CARDIGAN BERNAL",
-        "precio": 73700
+    "411514104": {
+        "nombre": "CAMPERA JOSE",
+        "precio": 99990
     },
-    "411122204": {
-        "nombre": "CAMPERA SAN JUSTO",
-        "precio": 95000
+    "411514105": {
+        "nombre": "SWEATER BRANDON",
+        "precio": 91000
     },
-    "411122205": {
-        "nombre": "SWEATER CASEROS",
-        "precio": 68700
+    "411514106": {
+        "nombre": "SWEATER KAY",
+        "precio": 78000
+    },
+    "411122186": {
+        "nombre": "SWEATER LOS CHORRILLOS",
+        "precio": 56400
     },
     "411540002": {
         "nombre": "SWEATER GEONA",
@@ -5515,22 +5535,6 @@
         "nombre": "SWEATER ITAMBAÉ",
         "precio": 111000
     },
-    "411514104": {
-        "nombre": "CAMPERA JOSE",
-        "precio": 99990
-    },
-    "411514105": {
-        "nombre": "SWEATER BRANDON",
-        "precio": 91000
-    },
-    "411514106": {
-        "nombre": "SWEATER KAY",
-        "precio": 78000
-    },
-    "411122186": {
-        "nombre": "SWEATER LOS CHORRILLOS",
-        "precio": 56400
-    },
     "411540006": {
         "nombre": "SWEATER SANDALO",
         "precio": 94000
@@ -5539,9 +5543,89 @@
         "nombre": "SWEATER ROBLE",
         "precio": 87000
     },
+    "441101002": {
+        "nombre": "GORRA GABARDINA",
+        "precio": 14600
+    },
+    "441101003": {
+        "nombre": "GORRA INGLESA DE GABARDINA",
+        "precio": 22000
+    },
+    "441106003": {
+        "nombre": "GORRO ROCKY ADULTO",
+        "precio": 7500
+    },
+    "441106008": {
+        "nombre": "GORRA CAZADOR SECADO RAPIDO",
+        "precio": 23800
+    },
+    "811122091": {
+        "nombre": "KIMONO",
+        "precio": 27900
+    },
+    "811106252": {
+        "nombre": "MUSCULOSA FRIDA LUREX",
+        "precio": 47800
+    },
+    "811135021": {
+        "nombre": "SWEATER SALVIA",
+        "precio": 62000
+    },
+    "811122306": {
+        "nombre": "MUSCULOSA ISABEL",
+        "precio": 76000
+    },
+    "811122307": {
+        "nombre": "SWEATER ANTONIA",
+        "precio": 64000
+    },
+    "811122310": {
+        "nombre": "REMERA CELINA",
+        "precio": 76000
+    },
+    "811122252": {
+        "nombre": "MUSCULOSA ALICIA",
+        "precio": 64600
+    },
+    "811122253": {
+        "nombre": "MUSCULOSA GALIA",
+        "precio": 71000
+    },
+    "811122254": {
+        "nombre": "MUSCULOSA CASANDRA",
+        "precio": 42900
+    },
+    "811122255": {
+        "nombre": "VESTIDO ELINA",
+        "precio": 59700
+    },
+    "811122256": {
+        "nombre": "MUSCULOSA FRIDA LISA",
+        "precio": 45400
+    },
+    "811122257": {
+        "nombre": "SACO DELIA",
+        "precio": 81400
+    },
+    "811122258": {
+        "nombre": "SWEATER FRANCISCA",
+        "precio": 55200
+    },
+    "811122287": {
+        "nombre": "SWEATER MAGNOLIA",
+        "precio": 80000
+    },
+    "811514113": {
+        "nombre": "SWEATER TERE",
+        "precio": 69200
+    },
+    "811173001": {
+        "nombre": "RUANA VERANO",
+        "precio": 40300
+    },
     "442173002": {
         "nombre": "BUFANDA ESCOCESA",
-        "precio": 18000
+        "precio": 17500
     },
     "442173003": {
         "nombre": "BUFANDA ESPIGA",
@@ -5551,13 +5635,9 @@
         "nombre": "GUANTE SIMPLE ADULTO",
         "precio": 8500
     },
-    "441545000": {
-        "nombre": "AUSTRALIANO (MODELO PILUSO)",
-        "precio": 11000
-    },
     "441173006": {
         "nombre": "GORRA CHAPLIN (LISA)",
-        "precio": 19500
+        "precio": 19000
     },
     "441122001": {
         "nombre": "GORRA CAP DE LINO",
@@ -5577,27 +5657,79 @@
     },
     "441143002": {
         "nombre": "GORRA CHARLES",
-        "precio": 19500
+        "precio": 19000
     },
     "441160002": {
         "nombre": "GORRO CANELONES",
         "precio": 8100
     },
-    "441101002": {
-        "nombre": "GORRA GABARDINA",
-        "precio": 14600
+    "442108000": {
+        "nombre": "CUELLO POLAR DOBLE",
+        "precio": 12000
     },
-    "441101003": {
-        "nombre": "GORRA INGLESA DE GABARDINA",
-        "precio": 22000
+    "441545000": {
+        "nombre": "AUSTRALIANO INFANTIL",
+        "precio": 13000
     },
-    "441106003": {
-        "nombre": "GORRO ROCKY ADULTO",
-        "precio": 7500
+    "811520130": {
+        "nombre": "SWEATER REX",
+        "precio": 79000
     },
-    "441106008": {
-        "nombre": "GORRA CAZADOR SECADO RAPIDO",
-        "precio": 23800
+    "811520131": {
+        "nombre": "POLERA AMBAR",
+        "precio": 95000
+    },
+    "811520132": {
+        "nombre": "POLERA CANELÓN",
+        "precio": 76000
+    },
+    "811520133": {
+        "nombre": "SWEATER DALIA",
+        "precio": 76600
+    },
+    "811520134": {
+        "nombre": "CARDIGAN JANNA",
+        "precio": 69400
+    },
+    "811520135": {
+        "nombre": "SWEATER IRIS",
+        "precio": 92000
+    },
+    "811520136": {
+        "nombre": "REMERA POLY",
+        "precio": 71600
+    },
+    "811540009": {
+        "nombre": "SWEATER HIGO",
+        "precio": 99990
+    },
+    "811521003": {
+        "nombre": "MUSCULOSA BRISA",
+        "precio": 68000
+    },
+    "811521004": {
+        "nombre": "CARDIGAN MIEL",
+        "precio": 95000
+    },
+    "811521005": {
+        "nombre": "SWEATER CANELA",
+        "precio": 95000
+    },
+    "811521006": {
+        "nombre": "SWEATER NIEVES",
+        "precio": 93000
+    },
+    "811521007": {
+        "nombre": "SWEATER CARDAMOMO",
+        "precio": 95500
+    },
+    "845122005": {
+        "nombre": "BOLSO Y MANTA PLAYERO",
+        "precio": 71800
+    },
+    "842173007": {
+        "nombre": "PASHMINA LISA",
+        "precio": 17600
     },
     "911122212": {
         "nombre": "SWEATER MAREA",
@@ -5618,62 +5750,6 @@
     "911135001": {
         "nombre": "CARDIGAN ESCOLAR",
         "precio": 43500
-    },
-    "943160004": {
-        "nombre": "GUANTE MAGICO INFANTIL",
-        "precio": 5500
-    },
-    "U01106000": {
-        "nombre": "BOLSA DE LIENZO Nº1",
-        "precio": 5600
-    },
-    "U01106001": {
-        "nombre": "BOLSA DE LIENZO Nº2",
-        "precio": 5800
-    },
-    "U01106002": {
-        "nombre": "BOLSA DE LIENZO Nº3",
-        "precio": 6800
-    },
-    "U01106003": {
-        "nombre": "BOLSA DE LIENZO Nº4",
-        "precio": 7200
-    },
-    "U01122000": {
-        "nombre": "TOTE GINA",
-        "precio": 39500
-    },
-    "U01122001": {
-        "nombre": "TOTE GINA",
-        "precio": 55900
-    },
-    "911122308": {
-        "nombre": "SWEATER BAMBU",
-        "precio": 45000
-    },
-    "911122309": {
-        "nombre": "CARDIGAN ARENA",
-        "precio": 45000
-    },
-    "941135000": {
-        "nombre": "GORRO TRENZADO INFANTIL",
-        "precio": 8000
-    },
-    "941545001": {
-        "nombre": "GORRA GABARDINA INFANTIL",
-        "precio": 18200
-    },
-    "942141000": {
-        "nombre": "BUFANDA LISA",
-        "precio": 17500
-    },
-    "845122005": {
-        "nombre": "BOLSO Y MANTA PLAYERO",
-        "precio": 71800
-    },
-    "842173007": {
-        "nombre": "PASHMINA LISA",
-        "precio": 17600
     },
     "941106000": {
         "nombre": "GORRO ROCKY INFANTIL",
@@ -5731,129 +5807,45 @@
         "nombre": "PAÑUELO BIANCA",
         "precio": 18000
     },
-    "811122091": {
-        "nombre": "KIMONO",
-        "precio": 27900
+    "U41106005": {
+        "nombre": "PILUSO AVENTURA",
+        "precio": 22000
     },
-    "811135021": {
-        "nombre": "SWEATER SALVIA",
-        "precio": 62000
+    "842135004": {
+        "nombre": "PASHMINA A CUADROS",
+        "precio": 29000
     },
-    "811122306": {
-        "nombre": "MUSCULOSA ISABEL",
-        "precio": 76000
-    },
-    "811122307": {
-        "nombre": "SWEATER ANTONIA",
-        "precio": 64000
-    },
-    "811122310": {
-        "nombre": "REMERA CELINA",
-        "precio": 76000
-    },
-    "811514113": {
-        "nombre": "SWEATER TERE",
-        "precio": 69200
-    },
-    "811122287": {
-        "nombre": "SWEATER MAGNOLIA",
-        "precio": 80000
-    },
-    "811173001": {
-        "nombre": "RUANA VERANO",
-        "precio": 40300
-    },
-    "811540009": {
-        "nombre": "SWEATER HIGO",
-        "precio": 99990
-    },
-    "811521003": {
-        "nombre": "MUSCULOSA BRISA",
-        "precio": 68000
-    },
-    "811521004": {
-        "nombre": "CARDIGAN MIEL",
-        "precio": 95000
-    },
-    "811521005": {
-        "nombre": "SWEATER CANELA",
-        "precio": 95000
-    },
-    "811521006": {
-        "nombre": "SWEATER NIEVES",
-        "precio": 93000
-    },
-    "811521007": {
-        "nombre": "SWEATER CARDAMOMO",
-        "precio": 95500
-    },
-    "811520130": {
-        "nombre": "SWEATER REX",
-        "precio": 79000
-    },
-    "811520131": {
-        "nombre": "POLERA AMBAR",
-        "precio": 95000
-    },
-    "811520132": {
-        "nombre": "POLERA CANELÓN",
-        "precio": 76000
-    },
-    "811520133": {
-        "nombre": "SWEATER DALIA",
-        "precio": 76600
-    },
-    "811520134": {
-        "nombre": "CARDIGAN JANNA",
-        "precio": 69400
-    },
-    "811520135": {
-        "nombre": "SWEATER IRIS",
-        "precio": 92000
-    },
-    "811520136": {
-        "nombre": "REMERA POLY",
-        "precio": 71600
-    },
-    "811122252": {
-        "nombre": "MUSCULOSA ALICIA",
-        "precio": 64600
-    },
-    "811122253": {
-        "nombre": "MUSCULOSA GALIA",
-        "precio": 71000
-    },
-    "811122254": {
-        "nombre": "MUSCULOSA CASANDRA",
-        "precio": 42900
-    },
-    "811122255": {
-        "nombre": "VESTIDO ELINA",
-        "precio": 59700
-    },
-    "811122256": {
-        "nombre": "MUSCULOSA FRIDA LISA",
-        "precio": 45400
-    },
-    "811122257": {
-        "nombre": "SACO DELIA",
-        "precio": 81400
-    },
-    "811122258": {
-        "nombre": "SWEATER FRANCISCA",
-        "precio": 55200
-    },
-    "442108000": {
-        "nombre": "CUELLO POLAR DOBLE",
-        "precio": 12000
-    },
-    "811106252": {
-        "nombre": "MUSCULOSA FRIDA LUREX",
-        "precio": 47800
+    "845122006": {
+        "nombre": "BOLSA DE LIENZO ESTAMPADA",
+        "precio": 14000
     },
     "943135000": {
         "nombre": "GUANTE TEJIDO INFANTIL",
-        "precio": 5000
+        "precio": 5500
+    },
+    "U42106001": {
+        "nombre": "CUELLO MICROPOLAR DEPORTIVO",
+        "precio": 13000
+    },
+    "U43135001": {
+        "nombre": "GUANTE TEJIDO",
+        "precio": 7000
+    },
+    "842106020": {
+        "nombre": "PAÑUELO LUNARES",
+        "precio": 20500
+    },
+    "842106021": {
+        "nombre": "PAÑUELO FLOR DE LIS",
+        "precio": 20500
+    },
+    "U42106002": {
+        "nombre": "PAÑUELO LISO",
+        "precio": 20500
+    },
+    "U41122004": {
+        "nombre": "SOMBRERO AUSTRALIANO GABARDINA",
+        "precio": 18500
     },
     "811122311": {
         "nombre": "MUSCULOSA IGNACIA",
@@ -5863,13 +5855,49 @@
         "nombre": "SWAETER ANA",
         "precio": 71000
     },
+    "U01106000": {
+        "nombre": "BOLSA DE LIENZO Nº1",
+        "precio": 5600
+    },
+    "U01106001": {
+        "nombre": "BOLSA DE LIENZO Nº2",
+        "precio": 5800
+    },
+    "U01106002": {
+        "nombre": "BOLSA DE LIENZO Nº3",
+        "precio": 6800
+    },
+    "U01106003": {
+        "nombre": "BOLSA DE LIENZO Nº4",
+        "precio": 7200
+    },
+    "U01122000": {
+        "nombre": "TOTE GINA",
+        "precio": 39500
+    },
+    "U01122001": {
+        "nombre": "TOTE GINA",
+        "precio": 55900
+    },
     "U41106001": {
         "nombre": "PILUSO CROCHET",
         "precio": 28500
     },
     "U41106002": {
         "nombre": "SOMBRERO CAZADOR TAPANUCA",
-        "precio": 24000
+        "precio": 29000
+    },
+    "U41122001": {
+        "nombre": "GORRA PAMPERO GABARDINA",
+        "precio": 28000
+    },
+    "U41122002": {
+        "nombre": "GORRA PAMPERO EFECTO LAVADO",
+        "precio": 27000
+    },
+    "943160004": {
+        "nombre": "GUANTE MAGICO INFANTIL",
+        "precio": 5500
     },
     "U41171001": {
         "nombre": "SOMBRERO CEFERINO",
@@ -5895,13 +5923,25 @@
         "nombre": "GORRO LENGA",
         "precio": 10000
     },
-    "U41122001": {
-        "nombre": "GORRA PAMPERO GABARDINA",
-        "precio": 28000
+    "911122308": {
+        "nombre": "SWEATER BAMBU",
+        "precio": 45000
     },
-    "U41122002": {
-        "nombre": "GORRA PAMPERO EFECTO LAVADO",
-        "precio": 28000
+    "911122309": {
+        "nombre": "CARDIGAN ARENA",
+        "precio": 45000
+    },
+    "941135000": {
+        "nombre": "GORRO TRENZADO INFANTIL",
+        "precio": 8000
+    },
+    "941545001": {
+        "nombre": "GORRA GABARDINA INFANTIL",
+        "precio": 18200
+    },
+    "942141000": {
+        "nombre": "BUFANDA LISA",
+        "precio": 17500
     },
     "U21106000": {
         "nombre": "ALPARGATA INYECTADA GAMUZA CON CORDERITO",
@@ -5919,13 +5959,13 @@
         "nombre": "ZAPATILLA QUIMILI",
         "precio": 62500
     },
-    "824106004": {
-        "nombre": "SANDALIA MOñO",
-        "precio": 35800
-    },
     "824122000": {
         "nombre": "ALPARGATA ACORDONADA COSTEÑA",
         "precio": 37500
+    },
+    "824106004": {
+        "nombre": "SANDALIA MOñO",
+        "precio": 35800
     },
     "22121306M": {
         "nombre": "ALPARGATA INYECTADA SIMIL YUTE",
@@ -6043,26 +6083,6 @@
         "nombre": "PONCHO PESADO PEHUENSE CON FLECOS",
         "precio": 219000
     },
-    "941160003": {
-        "nombre": "BOINA DE NIÑO BORDADA",
-        "precio": 64500
-    },
-    "941106005": {
-        "nombre": "BOINA DE NIÑO CON POMPON",
-        "precio": 39500
-    },
-    "941122003": {
-        "nombre": "BOINA VASCA ALGODÓN FORRADA NIÑO",
-        "precio": 25500
-    },
-    "941122004": {
-        "nombre": "BOINA GUARDA PAMPA ALGODÓN NIÑO",
-        "precio": 31000
-    },
-    "944122002": {
-        "nombre": "FAJA GUARDA PAMPA/GRIEGA NIÑO",
-        "precio": 33500
-    },
     "844122000": {
         "nombre": "CINTO TEJIDO 4 CM",
         "precio": 32000
@@ -6151,6 +6171,26 @@
         "nombre": "BOINA VASCA ALGODON BORDADA A MANO",
         "precio": 78500
     },
+    "941160003": {
+        "nombre": "BOINA DE NIÑO BORDADA",
+        "precio": 64500
+    },
+    "941106005": {
+        "nombre": "BOINA DE NIÑO CON POMPON",
+        "precio": 39500
+    },
+    "941122003": {
+        "nombre": "BOINA VASCA ALGODÓN FORRADA NIÑO",
+        "precio": 25500
+    },
+    "941122004": {
+        "nombre": "BOINA GUARDA PAMPA ALGODÓN NIÑO",
+        "precio": 31000
+    },
+    "944122002": {
+        "nombre": "FAJA GUARDA PAMPA/GRIEGA NIÑO",
+        "precio": 33500
+    },
     "U11122003": {
         "nombre": "CAMISA CAMPO",
         "precio": 52000
@@ -6171,10 +6211,6 @@
         "nombre": "CAMISA CAMPO RIP STOP",
         "precio": 68000
     },
-    "712106010": {
-        "nombre": "CALZA SANTA ROSA",
-        "precio": 42500
-    },
     "711106015": {
         "nombre": "REMERA CONCEPCION M/L(SUBLIMADA MUJER)",
         "precio": 37000
@@ -6186,6 +6222,10 @@
     "711106018": {
         "nombre": "CAMISA PENKEN",
         "precio": 87000
+    },
+    "712106010": {
+        "nombre": "CALZA SANTA ROSA",
+        "precio": 42500
     },
     "911106012": {
         "nombre": "REMERA ROQUE NIÑO M/L (SUBLIMADA NIÑO)",
@@ -6383,41 +6423,13 @@
         "nombre": "BERMUDA RUTA",
         "precio": 74000
     },
-    "911106031": {
-        "nombre": "REMERA PRIMERA PIEL",
-        "precio": 27800
-    },
-    "U11106000": {
-        "nombre": "REMERA PRIMERA PIEL",
-        "precio": 32000
-    },
-    "U11106002": {
-        "nombre": "REMERA PRIMERA PIEL BASICA",
-        "precio": 23500
-    },
-    "U11106003": {
-        "nombre": "MICROPOLAR OTTO W",
-        "precio": 81600
-    },
-    "U11106004": {
-        "nombre": "MICROPOLAR OTTO",
-        "precio": 64800
-    },
-    "U11106005": {
-        "nombre": "CHALECO CAMPANARIO",
-        "precio": 57600
-    },
-    "U11106006": {
-        "nombre": "CAMPERA CAMPANARIO",
-        "precio": 67200
-    },
-    "U11106007": {
-        "nombre": "CAMPANARIO MEDIO CIERRE",
-        "precio": 55200
-    },
     "912106027": {
         "nombre": "PANTALÓN PRIMERA PIEL",
         "precio": 29000
+    },
+    "911106031": {
+        "nombre": "REMERA PRIMERA PIEL",
+        "precio": 27800
     },
     "812106080": {
         "nombre": "PANTALÓN LIBERTAD",
@@ -6431,6 +6443,10 @@
         "nombre": "ROMPEVIENTO MAYA AVE",
         "precio": 85500
     },
+    "811122133": {
+        "nombre": "REMERA CALMA",
+        "precio": 22900
+    },
     "811106269": {
         "nombre": "CAMISA MONTAÑA",
         "precio": 74000
@@ -6442,10 +6458,6 @@
     "811106265": {
         "nombre": "ROMPEVIENTO MAYA",
         "precio": 64500
-    },
-    "811122133": {
-        "nombre": "REMERA CALMA",
-        "precio": 22900
     },
     "811140050": {
         "nombre": "REMERA RAMO",
@@ -6483,6 +6495,10 @@
         "nombre": "CAMPERA ARCE POLAR",
         "precio": 61200
     },
+    "812106296": {
+        "nombre": "PANTALÓN LIBERTAD 2",
+        "precio": 89900
+    },
     "U12106000": {
         "nombre": "PRIMERA PIEL PANTALÓN UNISEX",
         "precio": 26400
@@ -6495,9 +6511,101 @@
         "nombre": "PANTALÓN PRIMERA PIEL BASICO",
         "precio": 23200
     },
-    "812106296": {
-        "nombre": "PANTALÓN LIBERTAD 2",
-        "precio": 89900
+    "U11106000": {
+        "nombre": "REMERA PRIMERA PIEL",
+        "precio": 32000
+    },
+    "U11106002": {
+        "nombre": "REMERA PRIMERA PIEL BASICA",
+        "precio": 23500
+    },
+    "U11106003": {
+        "nombre": "MICROPOLAR OTTO W",
+        "precio": 81600
+    },
+    "U11106004": {
+        "nombre": "MICROPOLAR OTTO",
+        "precio": 64800
+    },
+    "U11106005": {
+        "nombre": "CHALECO CAMPANARIO",
+        "precio": 57600
+    },
+    "U11106006": {
+        "nombre": "CAMPERA CAMPANARIO",
+        "precio": 67200
+    },
+    "U11106007": {
+        "nombre": "CAMPANARIO MEDIO CIERRE",
+        "precio": 55200
+    },
+    "U13122000": {
+        "nombre": "CAMPERA CRUZ",
+        "precio": 210000
+    },
+    "U13122002": {
+        "nombre": "SACO CEDRÓN BULL",
+        "precio": 125000
+    },
+    "U13122003": {
+        "nombre": "CAMPERA LOBOS DENIM",
+        "precio": 190000
+    },
+    "U13122004": {
+        "nombre": "CAMPERA LOBOS BULL",
+        "precio": 190000
+    },
+    "U13122007": {
+        "nombre": "CAMPERA LOBOS VERANO",
+        "precio": 130000
+    },
+    "811106302": {
+        "nombre": "BLUSA FRESIA",
+        "precio": 76000
+    },
+    "811142010": {
+        "nombre": "CAMISA BONITA",
+        "precio": 93000
+    },
+    "811521012": {
+        "nombre": "CAMISA MALENA TWILL",
+        "precio": 92000
+    },
+    "811522249": {
+        "nombre": "CAMISA MALENA RAYAS",
+        "precio": 94500
+    },
+    "811525017": {
+        "nombre": "CAMISA ORQUIDEA LISO",
+        "precio": 93500
+    },
+    "812106298": {
+        "nombre": "PANTALON BRENDA PIE DE POOL",
+        "precio": 91000
+    },
+    "812106299": {
+        "nombre": "PANTALON MALENA",
+        "precio": 87000
+    },
+    "812106300": {
+        "nombre": "PANTALON MALENA",
+        "precio": 94500
+    },
+    "812506042": {
+        "nombre": "PANTALON JARAMILLO",
+        "precio": 105500
+    },
+    "812508000": {
+        "nombre": "PANTALON BRENDA SASTRERO",
+        "precio": 95000
+    },
+    "411517000": {
+        "nombre": "CHALECO HORNERO",
+        "precio": 160000
+    },
+    "813134056": {
+        "nombre": "CAMPERA PAMPEANA MUJER",
+        "precio": 485000
     },
     "413106044": {
         "nombre": "ROMPEVIENTO TIMBO",
@@ -6579,86 +6687,6 @@
         "nombre": "POLLERA NALU",
         "precio": 79500
     },
-    "U13122000": {
-        "nombre": "CAMPERA CRUZ",
-        "precio": 210000
-    },
-    "U13122002": {
-        "nombre": "SACO CEDRÓN BULL",
-        "precio": 125000
-    },
-    "U13122003": {
-        "nombre": "CAMPERA LOBOS DENIM",
-        "precio": 190000
-    },
-    "U13122004": {
-        "nombre": "CAMPERA LOBOS BULL",
-        "precio": 190000
-    },
-    "U13122007": {
-        "nombre": "CAMPERA LOBOS VERANO",
-        "precio": 130000
-    },
-    "811106302": {
-        "nombre": "BLUSA FRESIA",
-        "precio": 76000
-    },
-    "811142010": {
-        "nombre": "CAMISA BONITA",
-        "precio": 93000
-    },
-    "811521012": {
-        "nombre": "CAMISA MALENA TWILL",
-        "precio": 92000
-    },
-    "811522249": {
-        "nombre": "CAMISA MALENA RAYAS",
-        "precio": 94500
-    },
-    "811525017": {
-        "nombre": "CAMISA ORQUIDEA LISO",
-        "precio": 93500
-    },
-    "812106298": {
-        "nombre": "PANTALON BRENDA PIE DE POOL",
-        "precio": 91000
-    },
-    "812106299": {
-        "nombre": "PANTALON MALENA",
-        "precio": 87000
-    },
-    "812106300": {
-        "nombre": "PANTALON MALENA",
-        "precio": 94500
-    },
-    "812506042": {
-        "nombre": "PANTALON JARAMILLO",
-        "precio": 105500
-    },
-    "812508000": {
-        "nombre": "PANTALON BRENDA SASTRERO",
-        "precio": 95000
-    },
-    "411517000": {
-        "nombre": "CHALECO HORNERO",
-        "precio": 160000
-    },
-    "813134056": {
-        "nombre": "CAMPERA PAMPEANA MUJER",
-        "precio": 485000
-    },
-    "811122232": {
-        "nombre": "CAMISA RAQUEL",
-        "precio": 52500
-    },
-    "811122233": {
-        "nombre": "BLUSA ELENA",
-        "precio": 52800
-    },
-    "811122234": {
-        "nombre": "CAMISA BERNARDITA",
-        "precio": 57200
-    },
     "811122162": {
         "nombre": "CAMISOLA VERBENA BRODERIE",
         "precio": 132300
@@ -6691,21 +6719,17 @@
         "nombre": "MONO CAMILA DENIM",
         "precio": 165000
     },
-    "811122208": {
-        "nombre": "CAMISA MARISA",
-        "precio": 52200
+    "811122303": {
+        "nombre": "CAMISA BRISA",
+        "precio": 69500
     },
-    "811122209": {
-        "nombre": "CAMISOLA JULIETA",
-        "precio": 110500
+    "811122304": {
+        "nombre": "CAMISA ORQUIDEA PLISADA",
+        "precio": 79500
     },
-    "811122211": {
-        "nombre": "MONO LARGO SELENA",
-        "precio": 159000
-    },
-    "811122212": {
-        "nombre": "VESTIDO JOSEFINA",
-        "precio": 93200
+    "811122305": {
+        "nombre": "CAMISA OLGA VOILE",
+        "precio": 59500
     },
     "811124034": {
         "nombre": "BLUSA AMARANTO",
@@ -6723,17 +6747,37 @@
         "nombre": "MUSCULOSA MUNA",
         "precio": 199000
     },
-    "811122303": {
-        "nombre": "CAMISA BRISA",
-        "precio": 69500
+    "811122259": {
+        "nombre": "BLUSA MARINA BRODERIE",
+        "precio": 77800
     },
-    "811122304": {
-        "nombre": "CAMISA ORQUIDEA PLISADA",
-        "precio": 79500
+    "811122260": {
+        "nombre": "MUSCULOSA SERENA BRODERIE",
+        "precio": 72100
     },
-    "811122305": {
-        "nombre": "CAMISA OLGA VOILE",
-        "precio": 59500
+    "811122261": {
+        "nombre": "BLUSA MICAELA",
+        "precio": 75500
+    },
+    "811122262": {
+        "nombre": "CAMISOLA VERBENA",
+        "precio": 50400
+    },
+    "811122208": {
+        "nombre": "CAMISA MARISA",
+        "precio": 52200
+    },
+    "811122209": {
+        "nombre": "CAMISOLA JULIETA",
+        "precio": 110500
+    },
+    "811122211": {
+        "nombre": "MONO LARGO SELENA",
+        "precio": 159000
+    },
+    "811122212": {
+        "nombre": "VESTIDO JOSEFINA",
+        "precio": 93200
     },
     "811148021": {
         "nombre": "BLUSA TULIPAN",
@@ -6755,6 +6799,26 @@
         "nombre": "SACO CORTO CRUZADO ESMERALDA",
         "precio": 151500
     },
+    "811160000": {
+        "nombre": "CHALECO AZALEA ESPIGA",
+        "precio": 135000
+    },
+    "811517001": {
+        "nombre": "VESTIDO JEANERO LUISA",
+        "precio": 68100
+    },
+    "811122232": {
+        "nombre": "CAMISA RAQUEL",
+        "precio": 52500
+    },
+    "811122233": {
+        "nombre": "BLUSA ELENA",
+        "precio": 52800
+    },
+    "811122234": {
+        "nombre": "CAMISA BERNARDITA",
+        "precio": 57200
+    },
     "811166069": {
         "nombre": "VESTIDO CLARA",
         "precio": 81500
@@ -6762,158 +6826,6 @@
     "811506008": {
         "nombre": "VESTIDO CAMISERO JUJUY",
         "precio": 81200
-    },
-    "811517001": {
-        "nombre": "VESTIDO JEANERO LUISA",
-        "precio": 68100
-    },
-    "811160000": {
-        "nombre": "CHALECO AZALEA ESPIGA",
-        "precio": 135000
-    },
-    "811520137": {
-        "nombre": "BLUSA MALENA",
-        "precio": 73200
-    },
-    "811521008": {
-        "nombre": "CHALECO GRECIA",
-        "precio": 118000
-    },
-    "811536000": {
-        "nombre": "MONO FELICIANA",
-        "precio": 119900
-    },
-    "811528001": {
-        "nombre": "BLUSA ROBALBA",
-        "precio": 53990
-    },
-    "811525012": {
-        "nombre": "CAMISA INDIANA",
-        "precio": 70700
-    },
-    "811525013": {
-        "nombre": "MONO FELICIANA",
-        "precio": 111800
-    },
-    "812101002": {
-        "nombre": "PANTALÓN ROCIO CHINO",
-        "precio": 65900
-    },
-    "812101003": {
-        "nombre": "PANTALÓN CARGO JURAMENTO",
-        "precio": 82400
-    },
-    "812101004": {
-        "nombre": "SHORT LUCIANA",
-        "precio": 65000
-    },
-    "812101005": {
-        "nombre": "PANTALÓN GUADALUPE GABARDINA FLAME",
-        "precio": 79800
-    },
-    "811536003": {
-        "nombre": "REMERA AMALIA ESCOTE EN V",
-        "precio": 68000
-    },
-    "811543022": {
-        "nombre": "BLUSA BAHIA LINO",
-        "precio": 72600
-    },
-    "811543023": {
-        "nombre": "BLUSA SILVESTRE",
-        "precio": 84300
-    },
-    "811543024": {
-        "nombre": "BLUSA ANGELADA LINO",
-        "precio": 81700
-    },
-    "811543025": {
-        "nombre": "MUSCULOSA SERENA",
-        "precio": 74100
-    },
-    "811543026": {
-        "nombre": "MUSCULOSA LIRIO",
-        "precio": 73700
-    },
-    "811543027": {
-        "nombre": "MONO CLARITA",
-        "precio": 161800
-    },
-    "811543028": {
-        "nombre": "VESTIDO ALEGRA",
-        "precio": 132200
-    },
-    "811543029": {
-        "nombre": "MONO SOLEADO",
-        "precio": 147400
-    },
-    "811543030": {
-        "nombre": "MONO SOLEADO LINO",
-        "precio": 144800
-    },
-    "811543031": {
-        "nombre": "CAMISA ALALI",
-        "precio": 90000
-    },
-    "811543032": {
-        "nombre": "BLUSA MARIA",
-        "precio": 59400
-    },
-    "811544111": {
-        "nombre": "BLUSA SORAYA",
-        "precio": 54400
-    },
-    "812106062": {
-        "nombre": "PANTALÓN SASTRERO ORNELLA",
-        "precio": 91300
-    },
-    "812106063": {
-        "nombre": "PANTALÓN TRINIDAD",
-        "precio": 89500
-    },
-    "812106067": {
-        "nombre": "BABUCHA HORTENSIA BENGALINA",
-        "precio": 59100
-    },
-    "812106069": {
-        "nombre": "PANTALÓN CAMELIA",
-        "precio": 91800
-    },
-    "812106071": {
-        "nombre": "PANTALÓN MELISA",
-        "precio": 125000
-    },
-    "812106072": {
-        "nombre": "PANTALÓN MELISA",
-        "precio": 82600
-    },
-    "812106073": {
-        "nombre": "SHORT AZUCENA",
-        "precio": 57500
-    },
-    "812102000": {
-        "nombre": "FALDA JAZMIN",
-        "precio": 73200
-    },
-    "812102001": {
-        "nombre": "FALDA CLEMENTINA",
-        "precio": 73300
-    },
-    "811122259": {
-        "nombre": "BLUSA MARINA BRODERIE",
-        "precio": 77800
-    },
-    "811122260": {
-        "nombre": "MUSCULOSA SERENA BRODERIE",
-        "precio": 72100
-    },
-    "811122261": {
-        "nombre": "BLUSA MICAELA",
-        "precio": 75500
-    },
-    "811122262": {
-        "nombre": "CAMISOLA VERBENA",
-        "precio": 50400
     },
     "811106266": {
         "nombre": "BLUSA CINTIA",
@@ -6923,21 +6835,21 @@
         "nombre": "BLUSA CARMELA",
         "precio": 55100
     },
-    "811106270": {
-        "nombre": "MUSCULOSA ROMA",
-        "precio": 64500
-    },
-    "811106271": {
-        "nombre": "MUSCULOSA CLAROMECO",
+    "811106226": {
+        "nombre": "BLUSA BEGOÑA",
         "precio": 65500
     },
-    "811106272": {
-        "nombre": "CAMISOLA SELVA",
-        "precio": 111900
+    "811106229": {
+        "nombre": "BLUSA ANAHI",
+        "precio": 58600
     },
-    "811106273": {
-        "nombre": "MONO LUNA",
-        "precio": 113900
+    "811106185": {
+        "nombre": "BLUSA ARCE",
+        "precio": 39900
+    },
+    "811106189": {
+        "nombre": "MUSCULOSA AVA FANTASIA",
+        "precio": 32500
     },
     "811106280": {
         "nombre": "CHALECO AZALEA NAPALIZADO",
@@ -6965,7 +6877,7 @@
     },
     "811106286": {
         "nombre": "CAMISA CALA",
-        "precio": 105000
+        "precio": 10500
     },
     "811106287": {
         "nombre": "CAMISA CLAVEL",
@@ -6999,25 +6911,21 @@
         "nombre": "CAMISA CAMELIA",
         "precio": 59500
     },
-    "811106148": {
-        "nombre": "BLUSA RITA RV",
-        "precio": 52800
+    "811106270": {
+        "nombre": "MUSCULOSA ROMA",
+        "precio": 64500
     },
-    "811106226": {
-        "nombre": "BLUSA BEGOÑA",
+    "811106271": {
+        "nombre": "MUSCULOSA CLAROMECO",
         "precio": 65500
     },
-    "811106229": {
-        "nombre": "BLUSA ANAHI",
-        "precio": 58600
+    "811106272": {
+        "nombre": "CAMISOLA SELVA",
+        "precio": 111900
     },
-    "811106185": {
-        "nombre": "BLUSA ARCE",
-        "precio": 39900
-    },
-    "811106189": {
-        "nombre": "MUSCULOSA AVA FANTASIA",
-        "precio": 32500
+    "811106273": {
+        "nombre": "MONO LUNA",
+        "precio": 113900
     },
     "811104013": {
         "nombre": "CAMISA OLIVOS",
@@ -7026,6 +6934,22 @@
     "811104014": {
         "nombre": "CAMISA ROSARIO",
         "precio": 94100
+    },
+    "811106148": {
+        "nombre": "BLUSA RITA RV",
+        "precio": 52800
+    },
+    "413106038": {
+        "nombre": "CAMPERA SIMON",
+        "precio": 185000
+    },
+    "413106039": {
+        "nombre": "CAMPERA CARANDAY",
+        "precio": 229500
+    },
+    "413106041": {
+        "nombre": "CAMPARA MISIONES HOMBRE",
+        "precio": 220000
     },
     "812106094": {
         "nombre": "PANTALÓN ARRAYÁN",
@@ -7038,30 +6962,6 @@
     "812106098": {
         "nombre": "BERMUDA TERESITA",
         "precio": 49500
-    },
-    "812106081": {
-        "nombre": "PANTALÓN AZALEA",
-        "precio": 120000
-    },
-    "812106082": {
-        "nombre": "PANTALÓN MARGARITA SASTRERO",
-        "precio": 125000
-    },
-    "812106083": {
-        "nombre": "PANTALÓN ELISA",
-        "precio": 119100
-    },
-    "812106084": {
-        "nombre": "PANTALÓN CARGO SASTRERO KITTY",
-        "precio": 130000
-    },
-    "812106085": {
-        "nombre": "PANTALÓN CARGO KITTY",
-        "precio": 105000
-    },
-    "812122214": {
-        "nombre": "PANTALÓN CAMILA BULL",
-        "precio": 115000
     },
     "812106087": {
         "nombre": "PANTALÓN MALVA",
@@ -7115,6 +7015,166 @@
         "nombre": "SHORT INDIANA",
         "precio": 79500
     },
+    "812122214": {
+        "nombre": "PANTALÓN CAMILA BULL",
+        "precio": 115000
+    },
+    "812506029": {
+        "nombre": "PANTALÓN FLORA CARGO",
+        "precio": 70800
+    },
+    "812106081": {
+        "nombre": "PANTALÓN AZALEA",
+        "precio": 120000
+    },
+    "812106082": {
+        "nombre": "PANTALÓN MARGARITA SASTRERO",
+        "precio": 125000
+    },
+    "812106083": {
+        "nombre": "PANTALÓN ELISA",
+        "precio": 119100
+    },
+    "812106084": {
+        "nombre": "PANTALÓN CARGO SASTRERO KITTY",
+        "precio": 130000
+    },
+    "812106085": {
+        "nombre": "PANTALÓN CARGO KITTY",
+        "precio": 105000
+    },
+    "812106062": {
+        "nombre": "PANTALÓN SASTRERO ORNELLA",
+        "precio": 91300
+    },
+    "812106063": {
+        "nombre": "PANTALÓN TRINIDAD",
+        "precio": 89500
+    },
+    "812106067": {
+        "nombre": "BABUCHA HORTENSIA BENGALINA",
+        "precio": 59100
+    },
+    "812106069": {
+        "nombre": "PANTALÓN CAMELIA",
+        "precio": 91800
+    },
+    "812106071": {
+        "nombre": "PANTALÓN MELISA",
+        "precio": 125000
+    },
+    "812106072": {
+        "nombre": "PANTALÓN MELISA",
+        "precio": 82600
+    },
+    "812106073": {
+        "nombre": "SHORT AZUCENA",
+        "precio": 57500
+    },
+    "811521008": {
+        "nombre": "CHALECO GRECIA",
+        "precio": 118000
+    },
+    "811540005": {
+        "nombre": "SACO CORTO CRUZADO ESMERALDA",
+        "precio": 151500
+    },
+    "811536000": {
+        "nombre": "MONO FELICIANA",
+        "precio": 119900
+    },
+    "812101002": {
+        "nombre": "PANTALÓN ROCIO CHINO",
+        "precio": 65900
+    },
+    "812101003": {
+        "nombre": "PANTALÓN CARGO JURAMENTO",
+        "precio": 82400
+    },
+    "812101004": {
+        "nombre": "SHORT LUCIANA",
+        "precio": 65000
+    },
+    "812101005": {
+        "nombre": "PANTALÓN GUADALUPE GABARDINA FLAME",
+        "precio": 79800
+    },
+    "812102000": {
+        "nombre": "FALDA JAZMIN",
+        "precio": 73200
+    },
+    "812102001": {
+        "nombre": "FALDA CLEMENTINA",
+        "precio": 73300
+    },
+    "811520137": {
+        "nombre": "BLUSA MALENA",
+        "precio": 73200
+    },
+    "811536003": {
+        "nombre": "REMERA AMALIA ESCOTE EN V",
+        "precio": 68000
+    },
+    "811543022": {
+        "nombre": "BLUSA BAHIA LINO",
+        "precio": 72600
+    },
+    "811543023": {
+        "nombre": "BLUSA SILVESTRE",
+        "precio": 84300
+    },
+    "811543024": {
+        "nombre": "BLUSA ANGELADA LINO",
+        "precio": 81700
+    },
+    "811543025": {
+        "nombre": "MUSCULOSA SERENA",
+        "precio": 74100
+    },
+    "811543026": {
+        "nombre": "MUSCULOSA LIRIO",
+        "precio": 73700
+    },
+    "811543027": {
+        "nombre": "MONO CLARITA",
+        "precio": 161800
+    },
+    "811543028": {
+        "nombre": "VESTIDO ALEGRA",
+        "precio": 132200
+    },
+    "811543029": {
+        "nombre": "MONO SOLEADO",
+        "precio": 147400
+    },
+    "811543030": {
+        "nombre": "MONO SOLEADO LINO",
+        "precio": 144800
+    },
+    "811543031": {
+        "nombre": "CAMISA ALALI",
+        "precio": 90000
+    },
+    "811543032": {
+        "nombre": "BLUSA MARIA",
+        "precio": 59400
+    },
+    "811544111": {
+        "nombre": "BLUSA SORAYA",
+        "precio": 54400
+    },
+    "811525012": {
+        "nombre": "CAMISA INDIANA",
+        "precio": 70700
+    },
+    "811525013": {
+        "nombre": "MONO FELICIANA",
+        "precio": 111800
+    },
+    "811528001": {
+        "nombre": "BLUSA ROBALBA",
+        "precio": 53990
+    },
     "812521000": {
         "nombre": "PANTALÓN GRECIA",
         "precio": 95000
@@ -7131,37 +7191,33 @@
         "nombre": "VESTIDO MORA",
         "precio": 133400
     },
-    "812506029": {
-        "nombre": "PANTALÓN FLORA CARGO",
-        "precio": 70800
+    "812525010": {
+        "nombre": "PANTALÓN MARTINA",
+        "precio": 81900
     },
-    "811540005": {
-        "nombre": "SACO CORTO CRUZADO ESMERALDA",
-        "precio": 151500
+    "812525011": {
+        "nombre": "PANTALÓN GUADALUPE",
+        "precio": 90900
     },
-    "813106070": {
-        "nombre": "BLEAZER MAGNOLIA",
-        "precio": 176500
+    "812525012": {
+        "nombre": "PANTALÓN BRENDA",
+        "precio": 82500
     },
-    "813106071": {
-        "nombre": "TAPADO TAINA combinado cuero",
-        "precio": 225000
+    "812525013": {
+        "nombre": "PANTALÓN EVELYN",
+        "precio": 140000
     },
-    "813106072": {
-        "nombre": "TRENCH CON LAZO SOFIA",
-        "precio": 163700
+    "812160000": {
+        "nombre": "PANTALÓN JULIA ESPIGA",
+        "precio": 135000
     },
-    "813106074": {
-        "nombre": "CAMISACO MARCELINA",
-        "precio": 89990
+    "813102000": {
+        "nombre": "BLAZER CRUZADO MIA",
+        "precio": 168600
     },
-    "813106075": {
-        "nombre": "CHALECO AZALEA",
-        "precio": 120000
-    },
-    "813106076": {
-        "nombre": "CHAQUETA MAGDALENA CUPRO",
-        "precio": 99200
+    "813102002": {
+        "nombre": "CAMISA SUREÑA",
+        "precio": 110400
     },
     "813106061": {
         "nombre": "BLAZER MAGNOLIA",
@@ -7170,6 +7226,38 @@
     "813106063": {
         "nombre": "CAMISACO MARGARITA",
         "precio": 117900
+    },
+    "812543007": {
+        "nombre": "PANTALÓN ORNELLA LINO",
+        "precio": 105800
+    },
+    "812543008": {
+        "nombre": "PANTALÓN TERESA",
+        "precio": 69500
+    },
+    "812543009": {
+        "nombre": "PANTALÓN BRENDA LINO",
+        "precio": 102300
+    },
+    "812543010": {
+        "nombre": "CAPRI AMORE",
+        "precio": 102600
+    },
+    "812543011": {
+        "nombre": "BERMUDA COLIBRI",
+        "precio": 88500
+    },
+    "812543012": {
+        "nombre": "SHORT MAR DE LAS PAMPAS",
+        "precio": 84300
+    },
+    "812543013": {
+        "nombre": "PANTALÓN CAMILA NATURAL VISCOSA",
+        "precio": 109600
+    },
+    "812536000": {
+        "nombre": "PANTALÓN BRENDA",
+        "precio": 94800
     },
     "813106081": {
         "nombre": "TRENCH ADELINA GAMUZÓN",
@@ -7287,66 +7375,6 @@
         "nombre": "CHALECO AZALEA LINO",
         "precio": 125800
     },
-    "812543007": {
-        "nombre": "PANTALÓN ORNELLA LINO",
-        "precio": 105800
-    },
-    "812543008": {
-        "nombre": "PANTALÓN TERESA",
-        "precio": 69500
-    },
-    "812543009": {
-        "nombre": "PANTALÓN BRENDA LINO",
-        "precio": 102300
-    },
-    "812543010": {
-        "nombre": "CAPRI AMORE",
-        "precio": 102600
-    },
-    "812543011": {
-        "nombre": "BERMUDA COLIBRI",
-        "precio": 88500
-    },
-    "812543012": {
-        "nombre": "SHORT MAR DE LAS PAMPAS",
-        "precio": 84300
-    },
-    "812543013": {
-        "nombre": "PANTALÓN CAMILA NATURAL VISCOSA",
-        "precio": 109600
-    },
-    "812160000": {
-        "nombre": "PANTALÓN JULIA ESPIGA",
-        "precio": 135000
-    },
-    "813102000": {
-        "nombre": "BLAZER CRUZADO MIA",
-        "precio": 168600
-    },
-    "813102002": {
-        "nombre": "CAMISA SUREÑA",
-        "precio": 110400
-    },
-    "812536000": {
-        "nombre": "PANTALÓN BRENDA",
-        "precio": 94800
-    },
-    "812525010": {
-        "nombre": "PANTALÓN MARTINA",
-        "precio": 81900
-    },
-    "812525011": {
-        "nombre": "PANTALÓN GUADALUPE",
-        "precio": 90900
-    },
-    "812525012": {
-        "nombre": "PANTALÓN BRENDA",
-        "precio": 82500
-    },
-    "812525013": {
-        "nombre": "PANTALÓN EVELYN",
-        "precio": 140000
-    },
     "812506033": {
         "nombre": "PANTALÓN BRENDA",
         "precio": 92900
@@ -7354,6 +7382,30 @@
     "812506034": {
         "nombre": "PANTALÓN MARGARITA",
         "precio": 89700
+    },
+    "813106070": {
+        "nombre": "BLEAZER MAGNOLIA",
+        "precio": 176500
+    },
+    "813106071": {
+        "nombre": "TAPADO TAINA combinado cuero",
+        "precio": 225000
+    },
+    "813106072": {
+        "nombre": "TRENCH CON LAZO SOFIA",
+        "precio": 163700
+    },
+    "813106074": {
+        "nombre": "CAMISACO MARCELINA",
+        "precio": 89990
+    },
+    "813106075": {
+        "nombre": "CHALECO AZALEA",
+        "precio": 120000
+    },
+    "813106076": {
+        "nombre": "CHAQUETA MAGDALENA CUPRO",
+        "precio": 99200
     },
     "411134001": {
         "nombre": "PANTUFLA H.C.VACUNO",
@@ -7467,18 +7519,6 @@
         "nombre": "CAMISACO EL DORADILLO",
         "precio": 103100
     },
-    "413106038": {
-        "nombre": "CAMPERA SIMON",
-        "precio": 185000
-    },
-    "413106039": {
-        "nombre": "CAMPERA CARANDAY",
-        "precio": 229500
-    },
-    "413106041": {
-        "nombre": "CAMPARA MISIONES HOMBRE",
-        "precio": 220000
-    },
     "413102000": {
         "nombre": "CAMPERA TUCUMAN",
         "precio": 158500
@@ -7486,26 +7526,6 @@
     "413102001": {
         "nombre": "CHALECO REVERSIBLE CHUBUT",
         "precio": 143900
-    },
-    "413106033": {
-        "nombre": "PARKA AIKEN COATING SUEDE// NEW",
-        "precio": 117400
-    },
-    "413106034": {
-        "nombre": "CHAQUETA AMAICHA",
-        "precio": 160900
-    },
-    "413106035": {
-        "nombre": "CAMPERA TUCUMAN GAMUZADA",
-        "precio": 154700
-    },
-    "413106036": {
-        "nombre": "CHAQUETA USPALLATA PILOTIN",
-        "precio": 159400
-    },
-    "413106020": {
-        "nombre": "CHALECO PARAISO REVERSIBLE",
-        "precio": 125000
     },
     "413101002": {
         "nombre": "CHALECO ACEBAL REVERSIBLE",
@@ -7527,6 +7547,30 @@
         "nombre": "CHAQUETA IGNACIO",
         "precio": 73000
     },
+    "413106020": {
+        "nombre": "CHALECO PARAISO REVERSIBLE",
+        "precio": 125000
+    },
+    "413106033": {
+        "nombre": "PARKA AIKEN COATING SUEDE// NEW",
+        "precio": 117400
+    },
+    "413106034": {
+        "nombre": "CHAQUETA AMAICHA",
+        "precio": 160900
+    },
+    "413106035": {
+        "nombre": "CAMPERA TUCUMAN GAMUZADA",
+        "precio": 154700
+    },
+    "413106036": {
+        "nombre": "CHAQUETA USPALLATA PILOTIN",
+        "precio": 159400
+    },
+    "412506017": {
+        "nombre": "JOGGER HOMBRE RENATO",
+        "precio": 82500
+    },
     "412543000": {
         "nombre": "PANTALÓN EL DORADILLO",
         "precio": 106600
@@ -7538,10 +7582,6 @@
     "412122011": {
         "nombre": "CARGO CHASCOMUS",
         "precio": 105000
-    },
-    "412506017": {
-        "nombre": "JOGGER HOMBRE RENATO",
-        "precio": 82500
     },
     "412101128": {
         "nombre": "BERMUDA ORESTE",
@@ -7571,26 +7611,6 @@
         "nombre": "JOGGING MORA",
         "precio": 74800
     },
-    "811106256": {
-        "nombre": "MUSCULOSA MAREA",
-        "precio": 33500
-    },
-    "811122226": {
-        "nombre": "REMERA ORQUIDEA",
-        "precio": 38800
-    },
-    "811122227": {
-        "nombre": "REMERA GARDENIA",
-        "precio": 34300
-    },
-    "811122228": {
-        "nombre": "REMERA PASIONARIA",
-        "precio": 39200
-    },
-    "811122229": {
-        "nombre": "REMERON HORTENSIA",
-        "precio": 43300
-    },
     "812106078": {
         "nombre": "CALZA ARCE",
         "precio": 40900
@@ -7611,25 +7631,45 @@
         "nombre": "BUZO ALBA",
         "precio": 70200
     },
-    "821154000": {
-        "nombre": "MOCASIN RUTA",
-        "precio": 122400
+    "811122226": {
+        "nombre": "REMERA ORQUIDEA",
+        "precio": 38800
     },
-    "821154001": {
-        "nombre": "BOTA JUNIN",
-        "precio": 130200
+    "811122227": {
+        "nombre": "REMERA GARDENIA",
+        "precio": 34300
     },
-    "824134113": {
-        "nombre": "BOTA MARIA",
-        "precio": 180600
+    "811122228": {
+        "nombre": "REMERA PASIONARIA",
+        "precio": 39200
     },
-    "824134114": {
-        "nombre": "BOTA CASTORES",
-        "precio": 143900
+    "811122229": {
+        "nombre": "REMERON HORTENSIA",
+        "precio": 43300
+    },
+    "811106256": {
+        "nombre": "MUSCULOSA MAREA",
+        "precio": 33500
+    },
+    "421134163": {
+        "nombre": "MOCASIN BRIDGE",
+        "precio": 123500
+    },
+    "421134164": {
+        "nombre": "ZAPATILLA REALICO",
+        "precio": 135700
+    },
+    "421154001": {
+        "nombre": "BOTA CHIMBAS GAMUZA",
+        "precio": 143800
+    },
+    "421134170": {
+        "nombre": "MOCASIN RIVADAVIA",
+        "precio": 110900
     },
     "821134015": {
         "nombre": "MOCASIN SALINAS",
-        "precio": 117500
+        "precio": 125500
     },
     "821134016": {
         "nombre": "ZAPATILLA PAMPA",
@@ -7731,6 +7771,14 @@
         "nombre": "MOCASIN ALAMEDA",
         "precio": 108100
     },
+    "821154000": {
+        "nombre": "MOCASIN RUTA",
+        "precio": 122400
+    },
+    "821154001": {
+        "nombre": "BOTA JUNIN",
+        "precio": 130200
+    },
     "821134180": {
         "nombre": "SANDALIA MEDANOS",
         "precio": 63800
@@ -7751,33 +7799,13 @@
         "nombre": "BOTA ERNESTINA",
         "precio": 143300
     },
-    "921134000": {
-        "nombre": "MOCASIN ESCOLAR",
-        "precio": 82000
+    "824134113": {
+        "nombre": "BOTA MARIA",
+        "precio": 180600
     },
-    "921134001": {
-        "nombre": "NAUTICO ESCOLAR",
-        "precio": 85500
-    },
-    "921134002": {
-        "nombre": "GUILLERMINA ESCOLAR",
-        "precio": 82000
-    },
-    "421134170": {
-        "nombre": "MOCASIN RIVADAVIA",
-        "precio": 110900
-    },
-    "421134163": {
-        "nombre": "MOCASIN BRIDGE",
-        "precio": 123500
-    },
-    "421134164": {
-        "nombre": "ZAPATILLA REALICO",
-        "precio": 135700
-    },
-    "421154001": {
-        "nombre": "BOTA CHIMBAS GAMUZA",
-        "precio": 143800
+    "824134114": {
+        "nombre": "BOTA CASTORES",
+        "precio": 143900
     },
     "421134172": {
         "nombre": "BOTA RUCANELO",
@@ -7785,7 +7813,7 @@
     },
     "421134135": {
         "nombre": "ZAPATILLA BERCEO CUERO",
-        "precio": 163500
+        "precio": 173500
     },
     "421134136": {
         "nombre": "ZAPATO INDEPENDENCIA",
@@ -7801,7 +7829,7 @@
     },
     "421134140": {
         "nombre": "MOCASIN ROMERO",
-        "precio": 131500
+        "precio": 140500
     },
     "421134141": {
         "nombre": "ZAPATILLA MATHEU",
@@ -7831,34 +7859,6 @@
         "nombre": "MOCASIN CARDENAL",
         "precio": 109500
     },
-    "421134184": {
-        "nombre": "MOCASIN SAUCE H.",
-        "precio": 91000
-    },
-    "821134201": {
-        "nombre": "MOCASIN SAUCE M.",
-        "precio": 86500
-    },
-    "824134200": {
-        "nombre": "MOCASIN RUTA CUERO",
-        "precio": 131500
-    },
-    "821134198": {
-        "nombre": "ZAPATILLA ABRAPAMPA",
-        "precio": 113000
-    },
-    "821134199": {
-        "nombre": "MOCASIN TRIGAL CUERO",
-        "precio": 140500
-    },
-    "U21134000": {
-        "nombre": "NAUTICO TANDIL",
-        "precio": 107700
-    },
-    "U21134001": {
-        "nombre": "PANCHA CORRENTOSO",
-        "precio": 123900
-    },
     "821134194": {
         "nombre": "ZAPATILLA ARENAL",
         "precio": 137000
@@ -7881,7 +7881,51 @@
     },
     "421154002": {
         "nombre": "MOCASIN CACHI",
-        "precio": 137000
+        "precio": 148500
+    },
+    "421134184": {
+        "nombre": "MOCASIN SAUCE H.",
+        "precio": 97500
+    },
+    "821134201": {
+        "nombre": "MOCASIN SAUCE M.",
+        "precio": 88500
+    },
+    "824134200": {
+        "nombre": "MOCASIN RUTA CUERO",
+        "precio": 138000
+    },
+    "421134183": {
+        "nombre": "ZAPATILLA NARANJO",
+        "precio": 162000
+    },
+    "821134198": {
+        "nombre": "ZAPATILLA ABRAPAMPA",
+        "precio": 122000
+    },
+    "821134199": {
+        "nombre": "MOCASIN TRIGAL CUERO",
+        "precio": 142500
+    },
+    "U21134000": {
+        "nombre": "NAUTICO TANDIL",
+        "precio": 107700
+    },
+    "U21134001": {
+        "nombre": "PANCHA CORRENTOSO",
+        "precio": 123900
+    },
+    "921134000": {
+        "nombre": "MOCASIN ESCOLAR",
+        "precio": 93000
+    },
+    "921134001": {
+        "nombre": "NAUTICO ESCOLAR",
+        "precio": 92000
+    },
+    "921134002": {
+        "nombre": "GUILLERMINA ESCOLAR",
+        "precio": 88500
     },
     "U13106002": {
         "nombre": "ROMPEVIENTO EL TALAR",
@@ -7895,6 +7939,10 @@
         "nombre": "IMPERMEABLE BLEST",
         "precio": 120000
     },
+    "413106037": {
+        "nombre": "PARKA CASTOR",
+        "precio": 173000
+    },
     "413106028": {
         "nombre": "CAMPERA RIBERA",
         "precio": 155000
@@ -7903,10 +7951,6 @@
         "nombre": "CHALECO ROJAS",
         "precio": 145000
     },
-    "413106037": {
-        "nombre": "PARKA CASTOR",
-        "precio": 173000
-    },
     "813106066": {
         "nombre": "CHALECO VERA",
         "precio": 145000
@@ -7914,26 +7958,6 @@
     "813106080": {
         "nombre": "PARKA MAQUINCHAO",
         "precio": 173000
-    },
-    "821134188": {
-        "nombre": "BORCEGO ANA",
-        "precio": 159000
-    },
-    "821134189": {
-        "nombre": "BOTA AMANDA",
-        "precio": 154000
-    },
-    "821134190": {
-        "nombre": "BOTA JUANA INVIERNO",
-        "precio": 145000
-    },
-    "821134192": {
-        "nombre": "ZAPATILLA NUMANCIA RECICLADA",
-        "precio": 131000
-    },
-    "821134193": {
-        "nombre": "ZAPATILLA SOFIA CUERO",
-        "precio": 152000
     },
     "821134173": {
         "nombre": "BOTA HELENA",
@@ -7963,6 +7987,26 @@
         "nombre": "ZAPATILLA YUSPE",
         "precio": 106900
     },
+    "821134188": {
+        "nombre": "BORCEGO ANA",
+        "precio": 159000
+    },
+    "821134189": {
+        "nombre": "BOTA AMANDA",
+        "precio": 154000
+    },
+    "821134190": {
+        "nombre": "BOTA JUANA INVIERNO",
+        "precio": 145000
+    },
+    "821134192": {
+        "nombre": "ZAPATILLA NUMANCIA RECICLADA",
+        "precio": 131000
+    },
+    "821134193": {
+        "nombre": "ZAPATILLA SOFIA CUERO",
+        "precio": 152000
+    },
     "821134126": {
         "nombre": "BORCEGO JANER",
         "precio": 112900
@@ -7982,6 +8026,34 @@
     "821134135": {
         "nombre": "SANDALIA PETUNIA",
         "precio": 99000
+    },
+    "421134171": {
+        "nombre": "ZAPATILLA COSQUIN",
+        "precio": 113000
+    },
+    "421134165": {
+        "nombre": "BOTA HARRY",
+        "precio": 153400
+    },
+    "421134167": {
+        "nombre": "ACORDONADO MONTANA",
+        "precio": 140000
+    },
+    "421134168": {
+        "nombre": "SANDALIA RIVADAVIA",
+        "precio": 94000
+    },
+    "421134176": {
+        "nombre": "ZAPATILLA FELIPE",
+        "precio": 150000
+    },
+    "421134177": {
+        "nombre": "ZAPATILLA COSQUIN",
+        "precio": 114000
+    },
+    "421134178": {
+        "nombre": "ZAPATO AQUILES",
+        "precio": 146000
     },
     "421134154": {
         "nombre": "ZAPATILLA MURRAY",
@@ -8011,34 +8083,6 @@
         "nombre": "SANDALIA RIVADAVIA",
         "precio": 90000
     },
-    "421134176": {
-        "nombre": "ZAPATILLA FELIPE",
-        "precio": 150000
-    },
-    "421134177": {
-        "nombre": "ZAPATILLA COSQUIN",
-        "precio": 114000
-    },
-    "421134178": {
-        "nombre": "ZAPATO AQUILES",
-        "precio": 146000
-    },
-    "421134165": {
-        "nombre": "BOTA HARRY",
-        "precio": 153400
-    },
-    "421134167": {
-        "nombre": "ACORDONADO MONTANA",
-        "precio": 140000
-    },
-    "421134168": {
-        "nombre": "SANDALIA RIVADAVIA",
-        "precio": 94000
-    },
-    "421134171": {
-        "nombre": "ZAPATILLA COSQUIN",
-        "precio": 113000
-    },
     "421134182": {
         "nombre": "ZAPATILLA SIMON CUERO",
         "precio": 161000
@@ -8051,189 +8095,69 @@
         "nombre": "ZAPATILLA SUR M. GAMUZON",
         "precio": 99990
     },
-    "912500004": {
-        "nombre": "BERMUDA HILARIO DENIM BC",
-        "precio": 34300
+    "911106020": {
+        "nombre": "BUZO ANI PELUDO",
+        "precio": 29500
     },
-    "912500005": {
-        "nombre": "SHORT RITA DENIM",
-        "precio": 26500
-    },
-    "912500006": {
-        "nombre": "SHORT RITA DENIM BC",
-        "precio": 26500
-    },
-    "912122017": {
-        "nombre": "BERMUDA DANIEL PANAL",
-        "precio": 24200
-    },
-    "912122018": {
-        "nombre": "PANTALÓN CIRO",
-        "precio": 28800
-    },
-    "912122019": {
-        "nombre": "PANTALÓN LUZ",
-        "precio": 32200
-    },
-    "912122020": {
-        "nombre": "PANTALÓN CARGO BENICIO",
-        "precio": 37500
-    },
-    "912122021": {
-        "nombre": "PANTALÓN CLOE FRISA",
-        "precio": 28000
-    },
-    "912122022": {
-        "nombre": "PANTALÓN CLOE RUSTICO",
-        "precio": 24500
-    },
-    "912122023": {
-        "nombre": "SHORT-FALDA JAZMIN",
-        "precio": 39100
-    },
-    "912122024": {
-        "nombre": "BERMUDA CARGO RIO",
-        "precio": 37800
-    },
-    "912122025": {
-        "nombre": "BERMUDA CIRO",
-        "precio": 27900
-    },
-    "912122026": {
-        "nombre": "PANTALÓN CARGO RIO",
-        "precio": 42300
-    },
-    "912124001": {
-        "nombre": "PANTALÓN MAGNOLIA FANTASIA",
-        "precio": 36800
-    },
-    "912525000": {
-        "nombre": "SHORT POLLERA ESCOLAR",
-        "precio": 16500
-    },
-    "912525001": {
-        "nombre": "CALZA ESCOLAR",
-        "precio": 14500
-    },
-    "913106021": {
-        "nombre": "CAMPERA MATELASEADA BONDEADA",
-        "precio": 89700
-    },
-    "912101004": {
-        "nombre": "PANTALÓN CARGO RECTO",
-        "precio": 54500
-    },
-    "911514004": {
-        "nombre": "SWEATER BRISA",
-        "precio": 32200
-    },
-    "912101014": {
-        "nombre": "PANTALÓN LUCA JOGGER GAB",
-        "precio": 43700
-    },
-    "912106016": {
-        "nombre": "CALZA CLOE ESTAMPADA",
-        "precio": 12700
-    },
-    "912106028": {
-        "nombre": "BIKER",
-        "precio": 11100
-    },
-    "912106051": {
-        "nombre": "PANTALÓN DARLON",
-        "precio": 31100
-    },
-    "912106052": {
-        "nombre": "PANTALÓN ROMA",
-        "precio": 26300
-    },
-    "912106053": {
-        "nombre": "PANTALÓN AMBAR",
-        "precio": 26500
-    },
-    "912106054": {
-        "nombre": "PANTALÓN FRIDA RAYADO",
-        "precio": 28300
-    },
-    "912106055": {
-        "nombre": "SHORT MICA",
-        "precio": 20700
-    },
-    "912106056": {
-        "nombre": "SHORT MALVA",
-        "precio": 24900
-    },
-    "912106057": {
-        "nombre": "BERMUDA FARO",
-        "precio": 25500
-    },
-    "912106058": {
-        "nombre": "PANTALÓN FARO",
-        "precio": 27600
-    },
-    "912118001": {
-        "nombre": "PANTALÓN FER FRISA",
+    "911118002": {
+        "nombre": "BUZO FER FRISA",
         "precio": 28500
     },
-    "912118004": {
-        "nombre": "CALZA LOLA",
-        "precio": 17000
+    "911118004": {
+        "nombre": "CANGURO FER  FRISA",
+        "precio": 36500
     },
-    "912118006": {
-        "nombre": "JOGGING PILAR",
-        "precio": 32500
+    "911118012": {
+        "nombre": "CANGURO PILAR",
+        "precio": 38200
     },
-    "912118008": {
-        "nombre": "JOGGING FELIX",
-        "precio": 32500
+    "911118016": {
+        "nombre": "CANGURO FELIX",
+        "precio": 38200
     },
-    "912122003": {
-        "nombre": "PANTALÓN LARGO DE MORLEY - FRIDA",
-        "precio": 32200
+    "911122026": {
+        "nombre": "VESTIDO ABRIL M/L",
+        "precio": 31800
     },
-    "912122008": {
-        "nombre": "CALZA LYCRA ESTAMPADA",
-        "precio": 18200
+    "911122066": {
+        "nombre": "VESTIDO BRODERIE",
+        "precio": 62100
     },
-    "912411508": {
-        "nombre": "CALZA MARGARITA LISA",
-        "precio": 15500
+    "911122111": {
+        "nombre": "REMERA BASICA LISA",
+        "precio": 18000
     },
-    "912500002": {
-        "nombre": "BERMUDA HILARIO DENIM",
-        "precio": 34300
+    "911122122": {
+        "nombre": "REMERA BASICA LISA",
+        "precio": 13600
     },
-    "912506018": {
-        "nombre": "JEAN MALVINA GABARDINA",
-        "precio": 36800
+    "911122123": {
+        "nombre": "VESTIDO ISA SIN MANGAS",
+        "precio": 29900
     },
-    "912508000": {
-        "nombre": "CALZA MARGARITA ESTAMPADA",
-        "precio": 21400
+    "911122131": {
+        "nombre": "BUZO PAMPERO",
+        "precio": 29500
     },
-    "912508004": {
-        "nombre": "CALZA CLOE",
-        "precio": 10600
+    "911122148": {
+        "nombre": "MUSCULOSA RAYADA",
+        "precio": 12000
     },
-    "912508005": {
-        "nombre": "CALZA PLUSH",
-        "precio": 18200
+    "911122179": {
+        "nombre": "REMERA UNICORNIO MULTICOLOR",
+        "precio": 15200
     },
-    "912506009": {
-        "nombre": "BERMUDA HILARIO GABARDINA",
-        "precio": 34800
+    "911122180": {
+        "nombre": "BUZO CON CAPUCHA CORAZONES",
+        "precio": 25500
     },
-    "912506012": {
-        "nombre": "PANTALÓN JOGGER CARGO",
-        "precio": 57500
+    "911122190": {
+        "nombre": "REMERA SIERRA",
+        "precio": 17800
     },
-    "912506013": {
-        "nombre": "PANTALÓN CARGO RECTO CAMUFLADO",
-        "precio": 48300
-    },
-    "912506014": {
-        "nombre": "PANTALÓN CARGO RECTO",
-        "precio": 46700
+    "911122192": {
+        "nombre": "BUZO MATI CON CAPUCHA",
+        "precio": 27900
     },
     "911106037": {
         "nombre": "POLERA BASICA",
@@ -8291,9 +8215,53 @@
         "nombre": "MUSCULOSA MORLEY LAVADO",
         "precio": 20100
     },
-    "911106020": {
-        "nombre": "BUZO ANI PELUDO",
-        "precio": 29500
+    "911122197": {
+        "nombre": "SUDADERA DANIEL",
+        "precio": 17000
+    },
+    "911122201": {
+        "nombre": "REMERA RUTA 40",
+        "precio": 16100
+    },
+    "911122202": {
+        "nombre": "REMERA PINCELADAS",
+        "precio": 16100
+    },
+    "911122203": {
+        "nombre": "REMERA PAMPERO ORIGINAL",
+        "precio": 19800
+    },
+    "911122204": {
+        "nombre": "REMERA KAI",
+        "precio": 16400
+    },
+    "911122205": {
+        "nombre": "REMERA JANO",
+        "precio": 12200
+    },
+    "911122206": {
+        "nombre": "MUSCULOSA LUCIO",
+        "precio": 13200
+    },
+    "911122207": {
+        "nombre": "BLUSA MICAELA",
+        "precio": 25300
+    },
+    "911122208": {
+        "nombre": "REMERA FRUTILLAS",
+        "precio": 15900
+    },
+    "911122209": {
+        "nombre": "REMERA RAMILLETE",
+        "precio": 18400
+    },
+    "911122210": {
+        "nombre": "REMERA CORAZONES",
+        "precio": 17100
+    },
+    "911122211": {
+        "nombre": "MUSCULOSA RAMILLETE",
+        "precio": 14500
     },
     "911138004": {
         "nombre": "REMERA POLO FER PIQUE",
@@ -8402,74 +8370,6 @@
     "911223140": {
         "nombre": "REMERA LUIS M/C JERSEY.P",
         "precio": 14500
-    },
-    "912139011": {
-        "nombre": "PANTALÓN RUSTICO",
-        "precio": 26000
-    },
-    "912139012": {
-        "nombre": "BERMUDA RUSTICO ESCOLAR",
-        "precio": 18000
-    },
-    "912139013": {
-        "nombre": "PANTALÓN LEONESA JOGGING",
-        "precio": 34100
-    },
-    "912139014": {
-        "nombre": "SHORT DE RUSTICO  CATA",
-        "precio": 22600
-    },
-    "912139016": {
-        "nombre": "BERMUDA DANIEL",
-        "precio": 24200
-    },
-    "912139019": {
-        "nombre": "PANTALÓN MAGNOLIA DENIM",
-        "precio": 36800
-    },
-    "912139020": {
-        "nombre": "SHORT CLEO DENIM",
-        "precio": 29900
-    },
-    "912139022": {
-        "nombre": "JEAN MALVINA PAPERBAG",
-        "precio": 34500
-    },
-    "912139023": {
-        "nombre": "PANTALÓN LUCA JOGGER",
-        "precio": 43500
-    },
-    "912139025": {
-        "nombre": "PANTALÓN MAGNOLIA DENIM BC",
-        "precio": 36800
-    },
-    "912139026": {
-        "nombre": "SHORT CLEO BC",
-        "precio": 29900
-    },
-    "912139028": {
-        "nombre": "JEAN MALVINA BC",
-        "precio": 36800
-    },
-    "912139029": {
-        "nombre": "PANTALÓN LUCA JOGGER BC",
-        "precio": 43700
-    },
-    "912139030": {
-        "nombre": "PANTALÓN JOGGING CON PUÑO",
-        "precio": 35900
-    },
-    "912147000": {
-        "nombre": "SHORT RITA MORLEY",
-        "precio": 21900
-    },
-    "912213014": {
-        "nombre": "PANTALÓN LUCA GABARDINA",
-        "precio": 43500
-    },
-    "912213029": {
-        "nombre": "PANTALÓN LUCA JOGGER BC",
-        "precio": 43500
     },
     "911122215": {
         "nombre": "REMERA BRUNO",
@@ -8591,117 +8491,201 @@
         "nombre": "REMERA ARENAL",
         "precio": 23500
     },
+    "911514004": {
+        "nombre": "SWEATER BRISA",
+        "precio": 32200
+    },
     "911124014": {
         "nombre": "VESTIDO FLOR - POPLIN",
         "precio": 37800
     },
-    "911122197": {
-        "nombre": "SUDADERA DANIEL",
-        "precio": 17000
+    "912139011": {
+        "nombre": "PANTALÓN RUSTICO",
+        "precio": 26000
     },
-    "911122201": {
-        "nombre": "REMERA RUTA 40",
-        "precio": 16100
-    },
-    "911122202": {
-        "nombre": "REMERA PINCELADAS",
-        "precio": 16100
-    },
-    "911122203": {
-        "nombre": "REMERA PAMPERO ORIGINAL",
-        "precio": 19800
-    },
-    "911122204": {
-        "nombre": "REMERA KAI",
-        "precio": 16400
-    },
-    "911122205": {
-        "nombre": "REMERA JANO",
-        "precio": 12200
-    },
-    "911122206": {
-        "nombre": "MUSCULOSA LUCIO",
-        "precio": 13200
-    },
-    "911122207": {
-        "nombre": "BLUSA MICAELA",
-        "precio": 25300
-    },
-    "911122208": {
-        "nombre": "REMERA FRUTILLAS",
-        "precio": 15900
-    },
-    "911122209": {
-        "nombre": "REMERA RAMILLETE",
-        "precio": 18400
-    },
-    "911122210": {
-        "nombre": "REMERA CORAZONES",
-        "precio": 17100
-    },
-    "911122211": {
-        "nombre": "MUSCULOSA RAMILLETE",
-        "precio": 14500
-    },
-    "911118002": {
-        "nombre": "BUZO FER FRISA",
-        "precio": 28500
-    },
-    "911118004": {
-        "nombre": "CANGURO FER  FRISA",
-        "precio": 36500
-    },
-    "911118012": {
-        "nombre": "CANGURO PILAR",
-        "precio": 38200
-    },
-    "911118016": {
-        "nombre": "CANGURO FELIX",
-        "precio": 38200
-    },
-    "911122026": {
-        "nombre": "VESTIDO ABRIL M/L",
-        "precio": 31800
-    },
-    "911122066": {
-        "nombre": "VESTIDO BRODERIE",
-        "precio": 62100
-    },
-    "911122111": {
-        "nombre": "REMERA BASICA LISA",
+    "912139012": {
+        "nombre": "BERMUDA RUSTICO ESCOLAR",
         "precio": 18000
     },
-    "911122122": {
-        "nombre": "REMERA BASICA LISA",
-        "precio": 13600
+    "912139013": {
+        "nombre": "PANTALÓN LEONESA JOGGING",
+        "precio": 34100
     },
-    "911122123": {
-        "nombre": "VESTIDO ISA SIN MANGAS",
+    "912139014": {
+        "nombre": "SHORT DE RUSTICO  CATA",
+        "precio": 22600
+    },
+    "912139016": {
+        "nombre": "BERMUDA DANIEL",
+        "precio": 24200
+    },
+    "912139019": {
+        "nombre": "PANTALÓN MAGNOLIA DENIM",
+        "precio": 36800
+    },
+    "912139020": {
+        "nombre": "SHORT CLEO DENIM",
         "precio": 29900
     },
-    "911122131": {
-        "nombre": "BUZO PAMPERO",
-        "precio": 29500
+    "912139022": {
+        "nombre": "JEAN MALVINA PAPERBAG",
+        "precio": 34500
     },
-    "911122148": {
-        "nombre": "MUSCULOSA RAYADA",
-        "precio": 12000
+    "912139023": {
+        "nombre": "PANTALÓN LUCA JOGGER",
+        "precio": 43500
     },
-    "911122179": {
-        "nombre": "REMERA UNICORNIO MULTICOLOR",
-        "precio": 15200
+    "912139025": {
+        "nombre": "PANTALÓN MAGNOLIA DENIM BC",
+        "precio": 36800
     },
-    "911122180": {
-        "nombre": "BUZO CON CAPUCHA CORAZONES",
+    "912139026": {
+        "nombre": "SHORT CLEO BC",
+        "precio": 29900
+    },
+    "912139028": {
+        "nombre": "JEAN MALVINA BC",
+        "precio": 36800
+    },
+    "912139029": {
+        "nombre": "PANTALÓN LUCA JOGGER BC",
+        "precio": 43700
+    },
+    "912139030": {
+        "nombre": "PANTALÓN JOGGING CON PUÑO",
+        "precio": 35900
+    },
+    "912147000": {
+        "nombre": "SHORT RITA MORLEY",
+        "precio": 21900
+    },
+    "912213014": {
+        "nombre": "PANTALÓN LUCA GABARDINA",
+        "precio": 43500
+    },
+    "912213029": {
+        "nombre": "PANTALÓN LUCA JOGGER BC",
+        "precio": 43500
+    },
+    "912106028": {
+        "nombre": "BIKER",
+        "precio": 11100
+    },
+    "912106051": {
+        "nombre": "PANTALÓN DARLON",
+        "precio": 31100
+    },
+    "912106052": {
+        "nombre": "PANTALÓN ROMA",
+        "precio": 26300
+    },
+    "912106053": {
+        "nombre": "PANTALÓN AMBAR",
+        "precio": 26500
+    },
+    "912106054": {
+        "nombre": "PANTALÓN FRIDA RAYADO",
+        "precio": 28300
+    },
+    "912106055": {
+        "nombre": "SHORT MICA",
+        "precio": 20700
+    },
+    "912106056": {
+        "nombre": "SHORT MALVA",
+        "precio": 24900
+    },
+    "912106057": {
+        "nombre": "BERMUDA FARO",
         "precio": 25500
     },
-    "911122190": {
-        "nombre": "REMERA SIERRA",
-        "precio": 17800
+    "912106058": {
+        "nombre": "PANTALÓN FARO",
+        "precio": 27600
     },
-    "911122192": {
-        "nombre": "BUZO MATI CON CAPUCHA",
-        "precio": 27900
+    "912118001": {
+        "nombre": "PANTALÓN FER FRISA",
+        "precio": 28500
+    },
+    "912118004": {
+        "nombre": "CALZA LOLA",
+        "precio": 17000
+    },
+    "912118006": {
+        "nombre": "JOGGING PILAR",
+        "precio": 32500
+    },
+    "912118008": {
+        "nombre": "JOGGING FELIX",
+        "precio": 32500
+    },
+    "912122003": {
+        "nombre": "PANTALÓN LARGO DE MORLEY - FRIDA",
+        "precio": 32200
+    },
+    "912122008": {
+        "nombre": "CALZA LYCRA ESTAMPADA",
+        "precio": 18200
+    },
+    "912101014": {
+        "nombre": "PANTALÓN LUCA JOGGER GAB",
+        "precio": 43700
+    },
+    "912106016": {
+        "nombre": "CALZA CLOE ESTAMPADA",
+        "precio": 12700
+    },
+    "912500004": {
+        "nombre": "BERMUDA HILARIO DENIM BC",
+        "precio": 34300
+    },
+    "912500005": {
+        "nombre": "SHORT RITA DENIM",
+        "precio": 26500
+    },
+    "912500006": {
+        "nombre": "SHORT RITA DENIM BC",
+        "precio": 26500
+    },
+    "912411508": {
+        "nombre": "CALZA MARGARITA LISA",
+        "precio": 15500
+    },
+    "912500002": {
+        "nombre": "BERMUDA HILARIO DENIM",
+        "precio": 34300
+    },
+    "912506018": {
+        "nombre": "JEAN MALVINA GABARDINA",
+        "precio": 36800
+    },
+    "912508000": {
+        "nombre": "CALZA MARGARITA ESTAMPADA",
+        "precio": 21400
+    },
+    "912508004": {
+        "nombre": "CALZA CLOE",
+        "precio": 10600
+    },
+    "912508005": {
+        "nombre": "CALZA PLUSH",
+        "precio": 18200
+    },
+    "912506009": {
+        "nombre": "BERMUDA HILARIO GABARDINA",
+        "precio": 34800
+    },
+    "912506012": {
+        "nombre": "PANTALÓN JOGGER CARGO",
+        "precio": 57500
+    },
+    "912506013": {
+        "nombre": "PANTALÓN CARGO RECTO CAMUFLADO",
+        "precio": 48300
+    },
+    "912506014": {
+        "nombre": "PANTALÓN CARGO RECTO",
+        "precio": 46700
     },
     "913106025": {
         "nombre": "CAMPERA CON CAPUCHA DESMONTABLE",
@@ -8791,9 +8775,101 @@
         "nombre": "ROMPEVIENTO CRUZ",
         "precio": 49000
     },
+    "912122017": {
+        "nombre": "BERMUDA DANIEL PANAL",
+        "precio": 24200
+    },
+    "912122018": {
+        "nombre": "PANTALÓN CIRO",
+        "precio": 28800
+    },
+    "912122019": {
+        "nombre": "PANTALÓN LUZ",
+        "precio": 32200
+    },
+    "912122020": {
+        "nombre": "PANTALÓN CARGO BENICIO",
+        "precio": 37500
+    },
+    "912122021": {
+        "nombre": "PANTALÓN CLOE FRISA",
+        "precio": 28000
+    },
+    "912122022": {
+        "nombre": "PANTALÓN CLOE RUSTICO",
+        "precio": 24500
+    },
+    "912122023": {
+        "nombre": "SHORT-FALDA JAZMIN",
+        "precio": 39100
+    },
+    "912122024": {
+        "nombre": "BERMUDA CARGO RIO",
+        "precio": 37800
+    },
+    "912122025": {
+        "nombre": "BERMUDA CIRO",
+        "precio": 27900
+    },
+    "912122026": {
+        "nombre": "PANTALÓN CARGO RIO",
+        "precio": 42300
+    },
+    "912124001": {
+        "nombre": "PANTALÓN MAGNOLIA FANTASIA",
+        "precio": 36800
+    },
+    "912525000": {
+        "nombre": "SHORT POLLERA ESCOLAR",
+        "precio": 16500
+    },
+    "912525001": {
+        "nombre": "CALZA ESCOLAR",
+        "precio": 14500
+    },
+    "913106021": {
+        "nombre": "CAMPERA MATELASEADA BONDEADA",
+        "precio": 89700
+    },
+    "912101004": {
+        "nombre": "PANTALÓN CARGO RECTO",
+        "precio": 54500
+    },
+    "U00122000": {
+        "nombre": "SET COCINA SALVIA MANOPLA/AGARRADERA",
+        "precio": 17900
+    },
+    "U41122000": {
+        "nombre": "BANDANA CHEF",
+        "precio": 18500
+    },
     "U45106002": {
         "nombre": "MANTEL ANTIMANCHAS 2.50 x 1.45 cm",
         "precio": 66000
+    },
+    "U45106019": {
+        "nombre": "Mantel Antimanchas 2.50*1.80",
+        "precio": 80500
+    },
+    "U45122140": {
+        "nombre": "DELANTAL USO INTENSIVO",
+        "precio": 64500
+    },
+    "U45122141": {
+        "nombre": "REPASADORES DUO GUARDA X2",
+        "precio": 25500
+    },
+    "U45173167": {
+        "nombre": "SERVILLETERO NAVIDEÑO X4",
+        "precio": 25500
+    },
+    "U45173145": {
+        "nombre": "SET SERVILLETERO ESPIRAL",
+        "precio": 18500
+    },
+    "U45172000": {
+        "nombre": "CAMINO DE MESA ARPILLERA",
+        "precio": 24400
     },
     "U45122002": {
         "nombre": "DELANTAL BASICO UNISEX TU",
@@ -8863,9 +8939,9 @@
         "nombre": "REPASADOR NIDO ABEJA CUERO",
         "precio": 18000
     },
-    "U41122000": {
-        "nombre": "BANDANA CHEF",
-        "precio": 18500
+    "U82116003": {
+        "nombre": "BOLSO MATERO",
+        "precio": 51500
     },
     "U45134004": {
         "nombre": "DELANTAL FOLK TIRAS CUERO",
@@ -8887,34 +8963,6 @@
         "nombre": "SET REPASADORES CUADROS 0.45*0.45",
         "precio": 27500
     },
-    "U45172000": {
-        "nombre": "CAMINO DE MESA ARPILLERA",
-        "precio": 24400
-    },
-    "U45173145": {
-        "nombre": "SET SERVILLETERO ESPIRAL",
-        "precio": 18500
-    },
-    "U82116003": {
-        "nombre": "BOLSO MATERO",
-        "precio": 51500
-    },
-    "U45106019": {
-        "nombre": "Mantel Antimanchas 2.50*1.80",
-        "precio": 80500
-    },
-    "U45122140": {
-        "nombre": "DELANTAL USO INTENSIVO",
-        "precio": 64500
-    },
-    "U45122141": {
-        "nombre": "REPASADORES DUO GUARDA X2",
-        "precio": 25500
-    },
-    "U45173167": {
-        "nombre": "SERVILLETERO NAVIDEÑO X4",
-        "precio": 25500
-    },
     "845122003": {
         "nombre": "DELANTAL MUJER",
         "precio": 26500
@@ -8922,10 +8970,6 @@
     "845122004": {
         "nombre": "DELANTAL TU SALVIA",
         "precio": 35700
-    },
-    "U00122000": {
-        "nombre": "SET COCINA SALVIA MANOPLA/AGARRADERA",
-        "precio": 17900
     },
     "841122002": {
         "nombre": "DELANTAL FOLK GABARDINA",
@@ -9091,21 +9135,17 @@
         "nombre": "TABLA DE MADERA",
         "precio": 33500
     },
-    "U45173124": {
-        "nombre": "JUEGO DE MESA",
-        "precio": 48500
+    "U45134008": {
+        "nombre": "MATE CATEDRAL",
+        "precio": 28500
     },
-    "U45173125": {
-        "nombre": "BOMBILLA CHICA",
-        "precio": 6500
+    "U45134002": {
+        "nombre": "MATE DOMUYO",
+        "precio": 22000
     },
-    "U45173126": {
-        "nombre": "BOMBILLA GRANDE",
-        "precio": 8500
-    },
-    "U45173132": {
-        "nombre": "BOMBILLA CINCELADA",
-        "precio": 9000
+    "U45134003": {
+        "nombre": "MATE ACONCAGUA",
+        "precio": 39000
     },
     "U45173001": {
         "nombre": "CUCHILLO BRANGUS COMBINADO 20",
@@ -9147,9 +9187,21 @@
         "nombre": "MATE COPAHUE",
         "precio": 6600
     },
-    "U45134008": {
-        "nombre": "MATE CATEDRAL",
-        "precio": 28500
+    "U45173124": {
+        "nombre": "JUEGO DE MESA",
+        "precio": 48500
+    },
+    "U45173125": {
+        "nombre": "BOMBILLA CHICA",
+        "precio": 6500
+    },
+    "U45173126": {
+        "nombre": "BOMBILLA GRANDE",
+        "precio": 8500
+    },
+    "U45173132": {
+        "nombre": "BOMBILLA CINCELADA",
+        "precio": 9000
     },
     "U45173162": {
         "nombre": "MATE CHALTEN",
@@ -9158,14 +9210,6 @@
     "U45173163": {
         "nombre": "JUEGO DE TRINCHAR",
         "precio": 129000
-    },
-    "U45134002": {
-        "nombre": "MATE DOMUYO",
-        "precio": 22000
-    },
-    "U45134003": {
-        "nombre": "MATE ACONCAGUA",
-        "precio": 39000
     },
     "U45119000": {
         "nombre": "MATERA TILCARA",
@@ -9183,13 +9227,113 @@
         "nombre": "AROMATIZANTE MADERA DE QUEBRACHO 500ML",
         "precio": 51900
     },
-    "U41171004": {
-        "nombre": "AUSTRALIANO PALMA VERDE",
-        "precio": 114000
+    "U45121000": {
+        "nombre": "BOLSO CHAJARÍ",
+        "precio": 91500
     },
-    "U41171005": {
-        "nombre": "AUSTRALIANO SAO",
-        "precio": 77000
+    "U45121001": {
+        "nombre": "MOCHILA MOCONÁ",
+        "precio": 78000
+    },
+    "U45121002": {
+        "nombre": "MOCHILA IGUAZÚ",
+        "precio": 120000
+    },
+    "U45121003": {
+        "nombre": "MOCHILA CORRIENTES",
+        "precio": 98500
+    },
+    "U45121004": {
+        "nombre": "MOCHILA CALAMUCHITA",
+        "precio": 131000
+    },
+    "U45121005": {
+        "nombre": "COOLER USHUAIA",
+        "precio": 113000
+    },
+    "U45121006": {
+        "nombre": "BOLSO PUNTA TOMBO",
+        "precio": 72000
+    },
+    "U45121007": {
+        "nombre": "BOLSO MARINERO 30L",
+        "precio": 50000
+    },
+    "U45121008": {
+        "nombre": "BOLSO MARINERO 20L",
+        "precio": 42500
+    },
+    "U45121009": {
+        "nombre": "BOLSO MARINERO 10L",
+        "precio": 34000
+    },
+    "U45121010": {
+        "nombre": "BOLSO MARINERO 5L",
+        "precio": 28000
+    },
+    "U45121011": {
+        "nombre": "BOLSO CONCORDIA",
+        "precio": 157000
+    },
+    "U45121012": {
+        "nombre": "BOLSO ROSARIO",
+        "precio": 108500
+    },
+    "U45121013": {
+        "nombre": "NECESSAIRE ITATÍ",
+        "precio": 35000
+    },
+    "U44121000": {
+        "nombre": "RIÑONERA LAS GRUTAS",
+        "precio": 18500
+    },
+    "U31173000": {
+        "nombre": "CASCO DE SEGURIDAD LANÍN",
+        "precio": 15000
+    },
+    "U31173001": {
+        "nombre": "MENTONERA CORDILLERA",
+        "precio": 3000
+    },
+    "U31173002": {
+        "nombre": "MASCARA DE SOLDAR TALAMPAYA",
+        "precio": 61500
+    },
+    "U32173000": {
+        "nombre": "ANTEOJO DE SEGURIDAD CHIMANGO",
+        "precio": 3000
+    },
+    "U32173001": {
+        "nombre": "ANTEOJO DE SEGURIDAD CÓNDOR",
+        "precio": 3000
+    },
+    "U33173000": {
+        "nombre": "TAPONES AUDITIVOS SIERRA",
+        "precio": 600
+    },
+    "U33173001": {
+        "nombre": "PROTECTOR AUDITIVO BARITÚ",
+        "precio": 9990
+    },
+    "U33173002": {
+        "nombre": "TAPONES AUDITIVOS VALLE",
+        "precio": 1000
+    },
+    "U33173003": {
+        "nombre": "PROTECTOR AUDITIVO ALERCES",
+        "precio": 12500
+    },
+    "U33173004": {
+        "nombre": "PROTECTOR AUDITIVO PACÍFICO",
+        "precio": 21000
+    },
+    "U35173000": {
+        "nombre": "MASCARILLA RESPIRABLE MENDOZA",
+        "precio": 1700
+    },
+    "U35173001": {
+        "nombre": "MASCARILLA RESPIRABLE MENDOZA CON VALVULA",
+        "precio": 2100
     },
     "U41160000": {
         "nombre": "AUSTRALIANO CLÁSICO",
@@ -9198,6 +9342,14 @@
     "U41160001": {
         "nombre": "AUSTRALIANO CAZA Y PESCA",
         "precio": 109000
+    },
+    "U41171004": {
+        "nombre": "AUSTRALIANO PALMA VERDE",
+        "precio": 114000
+    },
+    "U41171005": {
+        "nombre": "AUSTRALIANO SAO",
+        "precio": 77000
     },
     "111121005": {
         "nombre": "TRAJE DE LLUVIA ROYAL",
