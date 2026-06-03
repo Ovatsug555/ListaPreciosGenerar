@@ -20293,17 +20293,17 @@ function buscarPrecio() {
 
   if (prenda) {
     const precio = prenda.precio;
-    const descuento10 = (precio * 0.90).toFixed(2);
-    const descuento20 = (precio * 0.80).toFixed(2);
-    const cuotas3 = (precio / 3).toFixed(2);
-    const cuotas6 = (precio / 6).toFixed(2);
-    const reintegro15 = (precio * 0.15).toFixed(2);
+    const descuento10 = (precio * 0.90).toFixed(0);
+    const descuento20 = (precio * 0.80).toFixed(0);
+    const cuotas3 = (precio / 3).toFixed(0);
+    const cuotas6 = (precio / 6).toFixed(0);
+    const reintegro15 = (precio * 0.15).toFixed(0);
 
     resultado.innerText =
 `Código: ${codigoEncontrado}
 Prenda: ${prenda.nombre}
 
-Precio original: $${precio.toFixed(2)}
+Precio original: $${precio.toFixed(0)}
 
 Precio con 10% de descuento: $${descuento10}
 Precio con 20% de descuento: $${descuento20}
