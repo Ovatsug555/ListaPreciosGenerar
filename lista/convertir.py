@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Cambia el nombre si tu archivo se llama distinto
-archivo = "20250522-1158-Listado-de-precios-de-articulos.XLSX"
+archivo = "Listado-de-precios-de-articulos.XLSX"
 
 # Leer el Excel
 df = pd.read_excel(archivo)
