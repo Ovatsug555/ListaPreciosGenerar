@@ -20240,37 +20240,46 @@ const ropa = {
 }
 
 const input = document.getElementById("codigo");
-const lista = document.getElementById("sugerencias");
+const sugerencias = document.getElementById("sugerencias");
 
+// Escuchar lo que escribe el usuario en tiempo real para las sugerencias
 input.addEventListener("input", () => {
-  const texto = input.value.toLowerCase();
-  lista.innerHTML = "";
+    const texto = input.value.trim().toLowerCase();
+    sugerencias.innerHTML = ""; // Limpiar la lista anterior
 
-  if (texto.length >= 2) {
-    const coincidencias = Object.entries(ropa).filter(([codigo, datos]) =>
-      datos.nombre.toLowerCase().includes(texto)
-    );
+    if (texto.length < 1) return; // No mostrar nada si el input está vacío
 
-    coincidencias.forEach(([codigo, datos]) => {
-      const item = document.createElement("li");
-      item.textContent = datos.nombre;
-      item.addEventListener("click", () => {
-        input.value = datos.nombre;
-        lista.innerHTML = "";
-      });
-      lista.appendChild(item);
+    // Filtrar prendas que coincidan por código o por nombre
+    const coinciden = Object.entries(ropa).filter(([codigo, datos]) => {
+        return codigo.toLowerCase().includes(texto) || datos.nombre.toLowerCase().includes(texto);
     });
-  }
+
+    // Mostrar un máximo de 6 sugerencias
+    coinciden.slice(0, 6).forEach(([codigo, datos]) => {
+        const li = document.createElement("li");
+        
+        // Texto idéntico al de tu captura: "Nombre (Código)"
+        li.textContent = `${datos.nombre} (${codigo})`;
+        
+        // Al hacer clic en la sugerencia, autocompleta el campo y busca al instante
+        li.addEventListener("click", () => {
+            input.value = codigo; // Rellena el input con el código
+            sugerencias.innerHTML = ""; // Limpia el desplegable
+            buscarPrecio(); // Lanza la búsqueda de las tarjetas de precio
+        });
+        
+        sugerencias.appendChild(li);
+    });
 });
 
-input.addEventListener("keypress", function(event) {
-  if (event.key === "Enter") {
-    event.preventDefault();
-    buscarPrecio();
-    lista.innerHTML = "";
-  }
+// Cerrar el menú flotante de sugerencias si el usuario hace clic en cualquier otro lado
+document.addEventListener("click", (e) => {
+    if (e.target !== input) {
+        sugerencias.innerHTML = "";
+    }
 });
 
+// Función de búsqueda y renderizado de la interfaz limpia (sin Servipack ni Mayorista)
 function buscarPrecio() {
   const entrada = input.value.trim();
   const resultado = document.getElementById("resultado");
@@ -20299,25 +20308,54 @@ function buscarPrecio() {
     const cuotas6 = (precio / 6).toFixed(0);
     const reintegro15 = (precio * 0.15).toFixed(0);
 
-    resultado.innerText =
-`Código: ${codigoEncontrado}
-Prenda: ${prenda.nombre}
+    // Formateador de moneda profesional ($ 15.000)
+    const f = (num) => new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS', maximumFractionDigits: 0 }).format(num);
 
-Precio original: $${precio.toFixed(0)}
+    // Renderiza la estructura visual limpia adaptada a Generar Misiones
+    resultado.innerHTML = `
+      <div class="resultado-card">
+        <div class="resultado-header">
+          <div class="resultado-codigo">Código: ${codigoEncontrado}</div>
+          <div class="resultado-nombre">${prenda.nombre}</div>
+        </div>
 
-Precio con 10% de descuento: $${descuento10}
-Precio con 20% de descuento: $${descuento20}
-3 cuotas sin interés de: $${cuotas3}
-6 cuotas sin interés de: $${cuotas6}
-Reintegro del 15%: $${reintegro15}`;
+        <div class="precio-principal">
+          <div class="label">Precio de Lista</div>
+          <div class="monto">${f(precio)}</div>
+        </div>
+
+        <div class="precios-grid">
+          <div class="precio-item destacado">
+            <div class="label">10% Descuento (Efectivo/Debito)</div>
+            <div class="monto">${f(descuento10)}</div>
+          </div>
+          
+          <div class="precio-item destacado">
+            <div class="label">20% Descuento</div>
+            <div class="monto">${f(descuento20)}</div>
+          </div>
+
+          <div class="precio-item">
+            <div class="label">3 Cuotas sin interés de</div>
+            <div class="monto">${f(cuotas3)}</div>
+          </div>
+
+          <div class="precio-item">
+            <div class="label">6 Cuotas sin interés de</div>
+            <div class="monto">${f(cuotas6)}</div>
+          </div>
+
+          <div class="precio-item">
+            <div class="label">Reintegro 15% (Bco. Macro)</div>
+            <div class="monto">${f(reintegro15)}</div>
+          </div>
+        </div>
+      </div>
+    `;
   } else {
-    resultado.textContent = `No se encontró una prenda con ese código o nombre.`;
+    resultado.innerHTML = `<div class="error-mensaje">Prenda o código no encontrado. Intente nuevamente.</div>`;
   }
-}
 
-document.getElementById("codigo").addEventListener("keypress", function(event) {
-  if (event.key === "Enter") {
-    event.preventDefault(); // Evita que se envíe un formulario si lo hay
-    buscarPrecio(); // Llama a tu función de búsqueda
-  }
-});
+  // Ocultar sugerencias al realizar la búsqueda
+  sugerencias.innerHTML = "";
+}

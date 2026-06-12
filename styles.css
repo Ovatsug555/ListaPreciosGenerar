@@ -1,73 +1,234 @@
-
-*{
+* {
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
 
-body{
-    font-family:sans-serif;
-    background-color: #FFDE21;
+body {
+    font-family: sans-serif;
+    background-color: #FFDE21; /* Tu fondo amarillo original intacto */
     color: #101632dd;
     padding: 20px;
+    margin: 0;
 }
 
 input, button {
-    padding: 8px;
-    margin-top: 10px;
+    padding: 10px; /* Un toque más compacto */
+    border-radius: 6px; /* Bordes ligeramente más finos */
+    border: 1px solid #cbd5e1;
+    font-size: 14px; /* Bajado de 16px a 14px */
 }
 
-#resultado {
-    margin-top: 15px;
-    font-weight: bold;
-    font-size: 25px;
-}
-
-div,ul,nav,header,footer,a,li,label{
+div, ul, nav, header, footer, a, li, label {
     margin: 0;
     padding: 0;
 }
 
-/*--------HEADER SECTION---------------*/
-.header{
-    background-color: #fff;
+/*-------- HEADER SECCIÓN ---------------*/
+.header {
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
     z-index: 10;
     text-align: center;
-    font-size: 20px;
+    padding: 10px 0; /* Más compacto */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    max-width: 440px; /* Ajustado el ancho máximo general */
+    margin: 0 auto 12px auto;
 }
 
-.header__checkbox{
-    display: none;
-}
-
-.header__logo{
+.header__logo {
     max-width: 100%;
-    width: 64px;
-    margin: 10px 20px;
+    width: 90px; /* Logo un poco más chico y discreto */
+    height: auto;
 }
 
+/*-------- CONTENEDOR BUSCADOR ---------------*/
+.buscador-wrapper {
+    max-width: 440px; /* Reducido de 500px a 440px para que encaje mejor */
+    margin: 10px auto; 
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    padding: 18px; /* Reducido el espacio interno */
+    border-radius: 10px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}
+
+.buscador-wrapper label {
+    font-size: 14px; /* Más sutil */
+    font-weight: 600;
+    color: #475569;
+    margin-bottom: 8px;
+}
+
+/* Contenedor del buscador */
+.input-group {
+    position: relative; 
+    display: flex;
+    gap: 6px;
+    width: 100%;
+}
+
+.input-group input {
+    flex: 1;
+    outline: none;
+    transition: border-color 0.2s;
+    background-color: #f8fafc;
+}
+
+.input-group input:focus {
+    border-color: #0f172a;
+    background-color: #ffffff;
+}
+
+.input-group button {
+    background-color: #0f172a;
+    color: white;
+    font-weight: 600;
+    border: none;
+    padding: 0 16px;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+
+.input-group button:hover {
+    opacity: 0.9;
+}
+
+/*-------- LISTA FLOTANTE DE SUGERENCIAS ---------------*/
 .sugerencias-lista {
     list-style: none;
     margin: 0;
     padding: 0;
-    max-height: 150px;
+    max-height: 200px; /* Un poco más baja */
     overflow-y: auto;
-    border-top: none;
-    width: 100%;
+    width: calc(100% - 80px); /* Ajustado dinámicamente al nuevo tamaño del botón */
     position: absolute;
-    background-color: white;
-    z-index: 1000;
+    top: 100%;
+    left: 0;
+    background-color: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    box-shadow: 0 8px 12px -3px rgba(0, 0, 0, 0.08);
+    z-index: 999;
+    margin-top: 4px;
 }
 
 .sugerencias-lista li {
-    padding: 10px;
-    border-bottom: 1px solid #eee;
+    padding: 10px 14px; /* Items más compactos */
     cursor: pointer;
+    font-size: 13px; /* Fuente optimizada */
+    color: #334155;
+    text-align: left;
+    border-bottom: 1px solid #f1f5f9;
+    transition: background-color 0.15s ease, color 0.15s ease;
+    text-transform: capitalize;
+}
+
+.sugerencias-lista li:last-child {
+    border-bottom: none;
 }
 
 .sugerencias-lista li:hover {
-    background-color: #f0f0f0;
+    background-color: #f1f5f9;
+    color: #0f172a;
+    font-weight: 500;
+}
+
+/*-------- TARJETA DE RESULTADOS ESTRUCTURADA ---------------*/
+.resultado-card {
+    margin-top: 16px; /* Espaciado más corto */
+    border-top: 1px solid #f1f5f9;
+    padding-top: 14px;
+}
+
+.resultado-header {
+    margin-bottom: 12px;
+}
+
+.resultado-codigo {
+    font-size: 11px; /* Más pequeño y tipo etiqueta */
+    text-transform: uppercase;
+    color: #94a3b8;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+}
+
+.resultado-nombre {
+    font-size: 17px; /* Bajó de 20px a 17px para evitar saltos de línea feos */
+    color: #0f172a;
+    font-weight: 700;
+    margin-top: 1px;
+    text-transform: capitalize;
+}
+
+.precio-principal {
+    background-color: #f8fafc;
+    border-left: 3px solid #0f172a;
+    padding: 10px 12px; /* Más empaquetado */
+    border-radius: 0 6px 6px 0;
+    margin-bottom: 12px;
+}
+
+.precio-principal .label {
+    font-size: 12px;
+    color: #64748b;
+    font-weight: 600;
+}
+
+.precio-principal .monto {
+    font-size: 22px; /* Bajó de 26px a 22px */
+    color: #0f172a;
+    font-weight: 800;
+}
+
+.precios-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px; /* Menos espacio muerto entre tarjetas */
+}
+
+.precio-item {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    padding: 10px; /* Relleno menor para que no ocupe tanto alto */
+    border-radius: 6px;
+}
+
+.precio-item.destacado {
+    background-color: #f0fdf4; 
+    border-color: #bbf7d0;
+}
+
+.precio-item .label {
+    font-size: 11px; /* Letra chica para descripciones secundarias */
+    color: #64748b;
+    font-weight: 600;
+    margin-bottom: 2px;
+    line-height: 1.2;
+}
+
+.precio-item .monto {
+    font-size: 14px; /* Bajó de 16px a 14px */
+    color: #0f172a;
+    font-weight: 700;
+}
+
+.precio-item.destacado .monto {
+    color: #166534;
+}
+
+.error-mensaje {
+    color: #991b1b;
+    background-color: #fef2f2;
+    border: 1px solid #ffeeee;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 14px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 13px;
 }

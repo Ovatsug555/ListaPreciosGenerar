@@ -3,35 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista Precios</title>
+    <title>Lista de Precios</title>
     <link rel="icon" href="camisa.png" type="image/x-icon">
     <link rel="stylesheet" href="styles.css">
-    
 </head>
 <body>
+
     <header class="header">
-        <input type="checkbox" class="header__checkbox" id="open-menu">
-        <div class="header__logo-container">
-            <img class="header__logo" src="Logo Generar Misiones.jpeg" alt="Logo de la empresa">
-        </div>
-        
+        <img class="header__logo" src="Logo Generar Misiones.jpeg" alt="Logo Pampero Generar Misiones">
     </header>
-    <h1>Precios</h1>
 
-    <h2>Buscar precio de ropa</h2>
-    
-    <label for="codigo">Ingrese código o nombre de la prenda:</label><br>
-    <input type="text" id="codigo"  list="sugerencias" placeholder="Ej: 111138003"><br>
-    <ul id="sugerencias" class="sugerencias-lista"></ul>
-    <button onclick="buscarPrecio()">Buscar</button>
+    <div class="buscador-wrapper">
+        <label for="codigo">Ingrese código o nombre de la prenda:</label>
+        
+        <div class="input-group">
+            <input type="text" id="codigo" placeholder="Ej: 111138003 o Chomba..." autocomplete="off">
+            <button onclick="buscarPrecio()">Buscar</button>
+            <ul id="sugerencias" class="sugerencias-lista"></ul>
+        </div>
 
-    <div id="resultado"></div>
-
-    
+        <div id="resultado"></div>
+    </div>
 
     <script src="codigo.js"></script>
-   
-    
-
 </body>
 </html>
