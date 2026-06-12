@@ -20326,7 +20326,7 @@ function buscarPrecio() {
 
         <div class="precios-grid">
           <div class="precio-item destacado">
-            <div class="label">10% Descuento (Efectivo/Debito)</div>
+            <div class="label">10% Descuento</div>
             <div class="monto">${f(descuento10)}</div>
           </div>
           
@@ -20346,7 +20346,7 @@ function buscarPrecio() {
           </div>
 
           <div class="precio-item">
-            <div class="label">Reintegro 15% (Bco. Macro)</div>
+            <div class="label">Reintegro 15%</div>
             <div class="monto">${f(reintegro15)}</div>
           </div>
         </div>
