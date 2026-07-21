@@ -1,76 +1,12 @@
 // Simulación de base de datos de ropa con precios
 const ropa = {
-    "1279": {
-        "nombre": "zapatilla de seguridad puntera PVC",
-        "precio": 122000
-    },
-    "1609": {
-        "nombre": "Zapato prusiano",
-        "precio": 84100
-    },
-    "1709": {
-        "nombre": "Botin prusiano",
-        "precio": 86000
-    },
     "22222001E": {
         "nombre": "bombacha elastizada",
         "precio": 54000
     },
-    "2789": {
-        "nombre": "Botin de seguridad puntera PVC",
-        "precio": 128000
-    },
     "561521003": {
         "nombre": "CHAQUETA ENTALLADA MUJER CON VIVOS Y CIERRE ML",
         "precio": 62500
-    },
-    "777": {
-        "nombre": "servicio bordado",
-        "precio": 1900
-    },
-    "ZZ": {
-        "nombre": "mercaderia",
-        "precio": 31300
-    },
-    "SIN_COD_8": {
-        "nombre": "844134011",
-        "precio": 20500
-    },
-    "3": {
-        "nombre": "varios",
-        "precio": 27300
-    },
-    "BLUSAS": {
-        "nombre": "BLUSAS",
-        "precio": 22000
-    },
-    "CAMISA": {
-        "nombre": "HOMBREML CAMISA HOMBRE ML",
-        "precio": 29000
-    },
-    "CHOMBAS": {
-        "nombre": "CHOMBAS",
-        "precio": 25000
-    },
-    "MONOS": {
-        "nombre": "MONOS DAMA",
-        "precio": 26000
-    },
-    "PANTALON": {
-        "nombre": "DAMA PANTALON DAMA OFERTA",
-        "precio": 28000
-    },
-    "REMERA": {
-        "nombre": "HOMBRE REMERA HOMBRE",
-        "precio": 15000
-    },
-    "SHORT": {
-        "nombre": "VESTIR SHORT DAMA VESTIR",
-        "precio": 25000
-    },
-    "VESTIDOS": {
-        "nombre": "VESTIDOS",
-        "precio": 28000
     },
     "711530002": {
         "nombre": "CAMISA MILA MC PAPER TOUCH",
@@ -5126,7 +5062,11 @@ const ropa = {
     },
     "123131002": {
         "nombre": "BOTA PETROLERA C/P",
-        "precio": 135500
+        "precio": 151000
+    },
+    "121131111": {
+        "nombre": "BOTA PETROLERA",
+        "precio": 151000
     },
     "121136010": {
         "nombre": "BOTIN FRANCES C/P",
@@ -5134,7 +5074,19 @@ const ropa = {
     },
     "121134004": {
         "nombre": "BOTIN HUEPIL",
-        "precio": 68500
+        "precio": 76500
+    },
+    "324106000": {
+        "nombre": "BOTA TERRA TREKKING",
+        "precio": 184000
+    },
+    "324106001": {
+        "nombre": "BOTA HUELLA TREKKING",
+        "precio": 184000
+    },
+    "724106000": {
+        "nombre": "BOTA HUELLA TREKKING",
+        "precio": 184000
     },
     "813106065": {
         "nombre": "CAMPERA VALLE",
@@ -5146,19 +5098,19 @@ const ropa = {
     },
     "U21131000": {
         "nombre": "BOTIN NAHUEN",
-        "precio": 88000
+        "precio": 98000
     },
     "U21131001": {
         "nombre": "BORCEGUÍ NAHUEN",
-        "precio": 87000
+        "precio": 97000
     },
     "U21131002": {
         "nombre": "BORCEGUÍ NAHUEN T",
-        "precio": 90000
+        "precio": 100500
     },
     "U00173500": {
         "nombre": "CORDONES CLASICOS 120cm",
-        "precio": 3000
+        "precio": 3500
     },
     "U00173501": {
         "nombre": "CORDON REFORZADOS FANTASÍA 120cm",
@@ -5166,27 +5118,27 @@ const ropa = {
     },
     "U00173502": {
         "nombre": "CORDONES REFORZADOS REFLEX 120cm",
-        "precio": 5000
+        "precio": 5500
     },
     "321173000": {
         "nombre": "ZAPATILLA YENU",
-        "precio": 73000
+        "precio": 81000
     },
     "121131001": {
         "nombre": "BOTIN YAVU",
-        "precio": 81000
+        "precio": 90500
     },
     "121131002": {
         "nombre": "BOTIN YAVU",
-        "precio": 81000
+        "precio": 90000
     },
     "121131003": {
         "nombre": "ZAPATO YAVU",
-        "precio": 79500
+        "precio": 88500
     },
     "121131004": {
         "nombre": "ZAPATO YAVU",
-        "precio": 79000
+        "precio": 88000
     },
     "121131007": {
         "nombre": "ZAPATILLA WERKEN",
@@ -5198,19 +5150,19 @@ const ropa = {
     },
     "121131009": {
         "nombre": "ZAPATILLA USHUA",
-        "precio": 113000
+        "precio": 126500
     },
     "121131010": {
         "nombre": "ZAPATILLA USHUA",
-        "precio": 113000
+        "precio": 125500
     },
     "121136007": {
         "nombre": "ZAPATO RUKA",
-        "precio": 59000
+        "precio": 66000
     },
     "121136008": {
         "nombre": "BOTIN RUKA",
-        "precio": 62000
+        "precio": 69000
     },
     "121136009": {
         "nombre": "BOTIN LAUQUEN C/P ART.349",
@@ -5218,31 +5170,31 @@ const ropa = {
     },
     "121146003": {
         "nombre": "BOTIN KAU",
-        "precio": 89000
+        "precio": 99000
     },
     "121146006": {
         "nombre": "ZAPATO KAU",
-        "precio": 85000
+        "precio": 95000
     },
     "121146007": {
         "nombre": "BOTIN ALENKE",
-        "precio": 119000
+        "precio": 132000
     },
     "121146008": {
         "nombre": "BOTIN ALENKE",
-        "precio": 119000
+        "precio": 133000
     },
     "121146011": {
         "nombre": "BORCEGUI LEÑADOR",
-        "precio": 141000
+        "precio": 157000
     },
     "121146012": {
         "nombre": "BORCEGUI LEÑADOR",
-        "precio": 140000
+        "precio": 156000
     },
     "121154001": {
         "nombre": "ZAPATO MACHI",
-        "precio": 82000
+        "precio": 91000
     },
     "024101000": {
         "nombre": "ZAPATILLA MARTI FANT.BB H.GAB.",
@@ -5864,13 +5816,13 @@ const ropa = {
         "nombre": "BOTA DE LLUVIA MUJER REGINA",
         "precio": 27200
     },
-    "924106012": {
-        "nombre": "SANDALIA LARA",
-        "precio": 36000
-    },
     "924106013": {
         "nombre": "ZAPATILLA ARI",
         "precio": 35500
+    },
+    "924106012": {
+        "nombre": "SANDALIA LARA",
+        "precio": 36000
     },
     "943122001": {
         "nombre": "MEDIA CAÑA 3/4 COLEGIAL (PX3)",
@@ -8738,7 +8690,7 @@ const ropa = {
     },
     "811106179": {
         "nombre": "TUNICA PINAMAR",
-        "precio": 12580
+        "precio": 28500
     },
     "811106180": {
         "nombre": "SACO PIPINAS",
@@ -20393,6 +20345,7 @@ const ropa = {
         "precio": 34000
     }
 }
+
 
 const input = document.getElementById("codigo");
 const sugerencias = document.getElementById("sugerencias");
