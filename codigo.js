@@ -1,5 +1,5 @@
 // Simulación de base de datos de ropa con precios
-const ropa = {
+const ropa={
     "1279": {
         "nombre": "zapatilla de seguridad puntera PVC",
         "precio": 122000
